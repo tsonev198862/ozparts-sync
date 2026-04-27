@@ -15,6 +15,11 @@ except ImportError:
     def translate_category(s): return s
     def translate_group(s): return s
     def translate_name(s): return s
+try:
+    from deepl_translator import translate_product_descriptions
+except ImportError:
+    def translate_product_descriptions(products): pass
+
 
 PROJECT = os.environ.get("OZPARTS_PROJECT", "5e1eb95286eb633860334f64")
 USER    = os.environ.get("OZPARTS_USER",    "6356b4b0343bd836f5079a29")
@@ -300,6 +305,7 @@ def main():
     print("=== sync_ozparts.py - " + datetime.utcnow().isoformat() + "Z ===")
     datapacks, stocklist, applications = fetch_all()
     products, idx = build_unified(datapacks, stocklist, applications)
+    translate_product_descriptions(products)
     total_fitments = sum(len(v) for mk in idx.values() for v in mk.values())
     print("* Merged: " + str(len(products)) + " products, " + str(total_fitments) + " fitments")
     feed_path = os.path.join(OUT_DIR, "cloudcart_feed.xml")
