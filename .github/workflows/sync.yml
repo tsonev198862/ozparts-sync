@@ -1,0 +1,56 @@
+name: OzParts → CloudCart sync
+
+on:
+  schedule:
+    # Всеки 6 часа (UTC)
+    - cron: "0 */6 * * *"
+  workflow_dispatch:  # Възможност за ръчен старт от GitHub UI
+  push:
+    branches: [main]
+    paths:
+      - 'sync_ozparts.py'
+      - '.github/workflows/sync.yml'
+
+permissions:
+  contents: write   # за commit на генерираните XML/JSON файлове
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run sync
+        env:
+          # ─── ЦЕНОВА КОНФИГУРАЦИЯ ───
+          MARGIN_PCT: "30"             # печалба
+          SUPPLIER_DISCOUNT: "20"      # OzParts отстъпка от RRP
+          VAT_PCT: "20"                # ДДС в България
+          PRICE_ROUND: "whole"         # закръгляне към цял евро
+          # ─── ТРАНСПОРТ ───
+          SHIPPING_PER_KG: "2.00"      # СМЕНИ КОГАТО ЗНАЕШ
+          SHIPPING_MIN: "1.50"
+          SHIPPING_FALLBACK: "3.00"
+          # ─── ИЗХОД ───
+          OUT_DIR: "./docs"            # GitHub Pages serves /docs
+          UPLOAD_DEST: "local"
+        run: python sync_ozparts.py
+
+      - name: Commit & push generated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/cloudcart_feed.xml docs/vehicle_index.json docs/vehicle_index.json.gz
+          git diff --staged --quiet || git commit -m "🔄 auto-sync $(date -u +%FT%TZ)"
+          git push
