@@ -9,6 +9,12 @@ import os, sys, json, csv, re, io, gzip, time
 from datetime import datetime
 from xml.sax.saxutils import escape as xml_escape
 import requests
+try:
+    from translations import translate_category, translate_group, translate_name
+except ImportError:
+    def translate_category(s): return s
+    def translate_group(s): return s
+    def translate_name(s): return s
 
 PROJECT = os.environ.get("OZPARTS_PROJECT", "5e1eb95286eb633860334f64")
 USER    = os.environ.get("OZPARTS_USER",    "6356b4b0343bd836f5079a29")
@@ -134,7 +140,7 @@ def build_unified(datapacks, stocklist, applications):
             products[sku] = {
                 "sku": sku,
                 "brand": p.get("Manufacturer", brand) or brand,
-                "name": (p.get("Description") or "").strip(),
+                "name": translate_name((p.get("Description") or "").strip()),
                 "description_html": p.get("Detail Description", "") or "",
                 "barcode": p.get("Barcode", "") or "",
                 "weight": p.get("Weight", "") or "",
@@ -162,8 +168,10 @@ def build_unified(datapacks, stocklist, applications):
         var = (r.get("variant") or "").strip()
         yr_text = (r.get("year") or "").strip()
         if sku in products:
+            cat = translate_category(cat) if cat else cat
             if cat and cat not in products[sku]["categories"]:
                 products[sku]["categories"].append(cat)
+            if grp: grp = translate_group(grp)
             if grp:
                 products[sku]["groups"].add(grp)
             if mk and md:
