@@ -1,23 +1,25 @@
-name: OzParts → CloudCart sync
+name: OzParts to CloudCart sync
 
 on:
   schedule:
-    # Всеки 6 часа (UTC)
+    # Every 6 hours (UTC)
     - cron: "0 */6 * * *"
-  workflow_dispatch:  # Възможност за ръчен старт от GitHub UI
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
       - 'sync_ozparts.py'
+      - 'translations.py'
+      - 'deepl_translator.py'
       - '.github/workflows/sync.yml'
 
 permissions:
-  contents: write   # за commit на генерираните XML/JSON файлове
+  contents: write
 
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
 
     steps:
       - name: Checkout repo
@@ -33,24 +35,29 @@ jobs:
 
       - name: Run sync
         env:
-          # ─── ЦЕНОВА КОНФИГУРАЦИЯ ───
-          MARGIN_PCT: "30"             # печалба
-          SUPPLIER_DISCOUNT: "20"      # OzParts отстъпка от RRP
-          VAT_PCT: "20"                # ДДС в България
-          PRICE_ROUND: "whole"         # закръгляне към цял евро
-          # ─── ТРАНСПОРТ ───
-          SHIPPING_PER_KG: "2.00"      # СМЕНИ КОГАТО ЗНАЕШ
+          # Pricing
+          MARGIN_PCT: "30"
+          SUPPLIER_DISCOUNT: "20"
+          VAT_PCT: "20"
+          PRICE_ROUND: "whole"
+          # Shipping
+          SHIPPING_PER_KG: "2.00"
           SHIPPING_MIN: "1.50"
           SHIPPING_FALLBACK: "3.00"
-          # ─── ИЗХОД ───
-          OUT_DIR: "./docs"            # GitHub Pages serves /docs
+          # Output
+          OUT_DIR: "./docs"
           UPLOAD_DEST: "local"
+          # DeepL translation
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          DEEPL_BUDGET_PER_RUN: "100000"
+          DEEPL_CACHE_PATH: "cache/translations.json"
         run: python sync_ozparts.py
 
-      - name: Commit & push generated feed
+      - name: Commit & push generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/cloudcart_feed.xml docs/vehicle_index.json docs/vehicle_index.json.gz
-          git diff --staged --quiet || git commit -m "🔄 auto-sync $(date -u +%FT%TZ)"
+          mkdir -p cache
+          git add docs/cloudcart_feed.xml docs/vehicle_index.json docs/vehicle_index.json.gz cache/translations.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "auto-sync $(date -u +%FT%TZ)"
           git push
