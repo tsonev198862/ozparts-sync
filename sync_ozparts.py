@@ -120,6 +120,25 @@ def parse_year_range(s):
     return (None, None)
 
 
+# Срок за доставка според това КЪДЕ е стоката.
+# OzParts дават три наличности: NL и PL (европейски складове) и Manufacturer
+# (завод в Австралия). От Европа стоката идва за под седмица, от Австралия —
+# около 3 седмици. Клиентът трябва да го вижда ПРЕДИ да поръча, иначе очаква
+# бърза доставка за нещо, което пътува месец.
+EU_DELIVERY_TEXT = "2-7 работни дни"
+AU_DELIVERY_TEXT = "около 3 седмици"
+
+def delivery_band(stock):
+    """Връща (етикет, срок, дни_за_сортиране) според наличността."""
+    eu = (stock.get("nl", 0) or 0) + (stock.get("pl", 0) or 0)
+    mfr = stock.get("mfr", 0) or 0
+    if eu > 0:
+        return ("Европейски склад", EU_DELIVERY_TEXT, 7)
+    if mfr > 0:
+        return ("Заводски склад", AU_DELIVERY_TEXT, 21)
+    return ("По запитване", "уточнява се", 30)
+
+
 def build_unified(datapacks, stocklist, applications):
     stock_by_sku = {}
     for r in stocklist:
@@ -155,6 +174,8 @@ def build_unified(datapacks, stocklist, applications):
                 "pictures": pics,
                 "stock": stock,
                 "stock_total": stock["total"],
+                "eu_stock": stock["nl"] + stock["pl"],
+                "delivery": delivery_band(stock),
                 "categories": [],
                 "groups": set(),
                 "fitment": {},
@@ -221,10 +242,11 @@ def write_cloudcart_feed(products, path):
         if p["groups"]:
             vals = "".join("          <value><name>" + e(g) + "</name></value>\n" for g in p["groups"])
             props.append('      <category_property name="Type / Group">\n        <values>\n' + vals + '        </values>\n      </category_property>')
-        if p["stock"]["nl"] > 0:
-            props.append('      <category_property name="Warehouse NL">\n        <values><value><name>In stock (' + str(p["stock"]["nl"]) + ')</name></value></values>\n      </category_property>')
-        if p["stock"]["pl"] > 0:
-            props.append('      <category_property name="Warehouse PL">\n        <values><value><name>In stock (' + str(p["stock"]["pl"]) + ')</name></value></values>\n      </category_property>')
+        # Срок за доставка — най-важното за клиента. Показваме го като свойство,
+        # по което може и да се филтрира („искам само каквото идва бързо").
+        _wh, _eta, _days = p["delivery"]
+        props.append('      <category_property name="Срок за доставка">\n        <values><value><name>' + e(_eta) + '</name></value></values>\n      </category_property>')
+        props.append('      <category_property name="Наличност">\n        <values><value><name>' + e(_wh) + '</name></value></values>\n      </category_property>')
         category_props_xml = ("    <category_properties>\n" + "\n".join(props) + "\n    </category_properties>\n") if props else ""
         brands_xml = ""
         if p["fitment"]:
@@ -246,7 +268,12 @@ def write_cloudcart_feed(products, path):
             "    <sku>" + e(sku) + "</sku>\n"
             "    <barcode>" + e(p["barcode"]) + "</barcode>\n"
             "    <title>" + e(p["name"]) + "</title>\n"
-            "    <description><![CDATA[" + (p["description_html"] or p["name"]) + "]]></description>\n"
+            "    <description><![CDATA["
+            + '<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa">'
+            + '<strong>Срок за доставка: ' + e(p["delivery"][1]) + '</strong>'
+            + ('' if p["eu_stock"] > 0 else ' — артикулът се доставя по поръчка от завода')
+            + '</p>'
+            + (p["description_html"] or p["name"]) + "]]></description>\n"
             "    <category>" + e(category) + "</category>\n"
             "    <sub_category>" + e(sub_cat) + "</sub_category>\n"
             "    <manufacturer>" + e(p["brand"]) + "</manufacturer>\n"
@@ -279,6 +306,9 @@ def write_vehicle_index(idx, products, path):
             "i": p["pictures"][0] if p["pictures"] else "",
             "s": p["stock_total"],
             "b": p["brand"],
+            "eu": p["eu_stock"],        # налично в Европа (бърза доставка)
+            "eta": p["delivery"][1],    # срок за доставка, текст
+            "etad": p["delivery"][2],   # срок в дни — за сортиране/филтри
         }
     bundle = {
         "generated_at": datetime.utcnow().isoformat() + "Z",
