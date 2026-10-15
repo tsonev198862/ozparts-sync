@@ -667,7 +667,7 @@
     <price>78.00</price>
     <old_price></old_price>
     <weight>0.10</weight>
-    <quantity>48</quantity>
+    <quantity>46</quantity>
     <images>
       <image>https://3cerp.eu/api/file/SPAC-SG.webp</image>
     </images>
@@ -4642,7 +4642,7 @@
     <price>810.00</price>
     <old_price></old_price>
     <weight>9.60</weight>
-    <quantity>3</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/RR4634.jpg</image>
     </images>
@@ -58401,7 +58401,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>31.00</price>
     <old_price></old_price>
     <weight>0.12</weight>
-    <quantity>122</quantity>
+    <quantity>121</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP8415.webp</image>
       <image>https://3cerp.eu/api/file/EP8415_2.webp</image>
@@ -117449,6 +117449,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>L200 4WD, MN (2009-2015)</name>
           <name>L200 4WD, MQ (2015-2018)</name>
           <name>L200 4WD, MR (2018-2023)</name>
+          <name>L200 4WD, MV (2023-Onward)</name>
           <name>Outlander ZG (2006-2009)</name>
           <name>Outlander ZH (2009-2012)</name>
           <name>Pajero NA, LWB &amp; SWB (1982-1984)</name>
@@ -118231,6 +118232,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>L200 4WD, MN (2009-2015)</name>
           <name>L200 4WD, MQ (2015-2018)</name>
           <name>L200 4WD, MR (2018-2023)</name>
+          <name>L200 4WD, MV (2023-Onward)</name>
           <name>Outlander ZG (2006-2009)</name>
           <name>Outlander ZH (2009-2012)</name>
           <name>Pajero NA, LWB &amp; SWB (1982-1984)</name>
@@ -118986,6 +118988,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>L200 4WD, MN (2009-2015)</name>
           <name>L200 4WD, MQ (2015-2018)</name>
           <name>L200 4WD, MR (2018-2023)</name>
+          <name>L200 4WD, MV (2023-Onward)</name>
           <name>Outlander ZG (2006-2009)</name>
           <name>Outlander ZH (2009-2012)</name>
           <name>Pajero NA, LWB &amp; SWB (1982-1984)</name>
@@ -119823,6 +119826,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>L200 4WD, MN (2009-2015)</name>
           <name>L200 4WD, MQ (2015-2018)</name>
           <name>L200 4WD, MR (2018-2023)</name>
+          <name>L200 4WD, MV (2023-Onward)</name>
           <name>Outlander ZG (2006-2009)</name>
           <name>Outlander ZH (2009-2012)</name>
           <name>Pajero NA, LWB &amp; SWB (1982-1984)</name>
@@ -120612,6 +120616,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>L200 4WD, MN (2009-2015)</name>
           <name>L200 4WD, MQ (2015-2018)</name>
           <name>L200 4WD, MR (2018-2023)</name>
+          <name>L200 4WD, MV (2023-Onward)</name>
           <name>Outlander ZG (2006-2009)</name>
           <name>Outlander ZH (2009-2012)</name>
           <name>Pajero NA, LWB &amp; SWB (1982-1984)</name>
@@ -121476,6 +121481,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>L200 4WD, MN (2009-2015)</name>
           <name>L200 4WD, MQ (2015-2018)</name>
           <name>L200 4WD, MR (2018-2023)</name>
+          <name>L200 4WD, MV (2023-Onward)</name>
           <name>Outlander ZG (2006-2009)</name>
           <name>Outlander ZH (2009-2012)</name>
           <name>Pajero NA, LWB &amp; SWB (1982-1984)</name>
@@ -193932,7 +193938,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>323.00</price>
     <old_price></old_price>
     <weight>10.40</weight>
-    <quantity>80</quantity>
+    <quantity>81</quantity>
     <images>
       <image>https://3cerp.eu/api/file/807210R.webp</image>
     </images>
@@ -194011,7 +194017,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>323.00</price>
     <old_price></old_price>
     <weight>10.40</weight>
-    <quantity>79</quantity>
+    <quantity>80</quantity>
     <images>
       <image>https://3cerp.eu/api/file/807210L.webp</image>
     </images>
@@ -208039,7 +208045,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2362.00</price>
     <old_price></old_price>
     <weight>110.98</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803616.jpg</image>
       <image>https://3cerp.eu/api/file/HowToMeasure.webp</image>
@@ -208230,7 +208236,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2245.00</price>
     <old_price></old_price>
     <weight>95.98</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803615.jpg</image>
       <image>https://3cerp.eu/api/file/HowToMeasure.webp</image>
@@ -208471,7 +208477,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2235.00</price>
     <old_price></old_price>
     <weight>76.18</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803614P.jpg</image>
       <image>https://3cerp.eu/api/file/HowToMeasure.webp</image>
@@ -208661,7 +208667,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2183.00</price>
     <old_price></old_price>
     <weight>85.98</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803614.jpg</image>
       <image>https://3cerp.eu/api/file/HowToMeasure.webp</image>
@@ -209148,7 +209154,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2363.00</price>
     <old_price></old_price>
     <weight>111.38</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803603.jpg</image>
       <image>https://3cerp.eu/api/file/HowToMeasure.webp</image>
@@ -209351,7 +209357,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2246.00</price>
     <old_price></old_price>
     <weight>96.38</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803602.jpg</image>
       <image>https://3cerp.eu/api/file/HowToMeasure.webp</image>
@@ -209552,7 +209558,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2220.00</price>
     <old_price></old_price>
     <weight>76.02</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803601P.jpg</image>
       <image>https://3cerp.eu/api/file/HowToMeasure.webp</image>
@@ -209710,7 +209716,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2169.00</price>
     <old_price></old_price>
     <weight>85.82</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803601.jpg</image>
       <image>https://3cerp.eu/api/file/HowToMeasure.webp</image>
@@ -209957,7 +209963,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2362.00</price>
     <old_price></old_price>
     <weight>110.98</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803586.jpg</image>
       <image>https://3cerp.eu/api/file/HowToMeasure.webp</image>
@@ -210130,7 +210136,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2245.00</price>
     <old_price></old_price>
     <weight>95.98</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803585.jpg</image>
       <image>https://3cerp.eu/api/file/HowToMeasure.webp</image>
@@ -210331,7 +210337,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2235.00</price>
     <old_price></old_price>
     <weight>76.18</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803584P.jpg</image>
       <image>https://3cerp.eu/api/file/HowToMeasure.webp</image>
@@ -210496,7 +210502,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2183.00</price>
     <old_price></old_price>
     <weight>85.98</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803584.jpg</image>
       <image>https://3cerp.eu/api/file/HowToMeasure.webp</image>
@@ -211080,7 +211086,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2466.00</price>
     <old_price></old_price>
     <weight>100.50</weight>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803555A.webp</image>
       <image>https://3cerp.eu/api/file/HowToMeasure.webp</image>
@@ -211149,7 +211155,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2275.00</price>
     <old_price></old_price>
     <weight>96.50</weight>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803555.jpg</image>
       <image>https://3cerp.eu/api/file/HowToMeasure.webp</image>
@@ -211330,7 +211336,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2237.00</price>
     <old_price></old_price>
     <weight>76.58</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803554P.jpg</image>
       <image>https://3cerp.eu/api/file/HowToMeasure.webp</image>
@@ -211495,7 +211501,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2185.00</price>
     <old_price></old_price>
     <weight>86.38</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803554.jpg</image>
       <image>https://3cerp.eu/api/file/HowToMeasure.webp</image>
@@ -211836,7 +211842,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>815.00</price>
     <old_price></old_price>
     <weight>23.86</weight>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803524.webp</image>
       <image>https://3cerp.eu/api/file/803524_1.webp</image>
@@ -211928,7 +211934,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>565.00</price>
     <old_price></old_price>
     <weight>25.14</weight>
-    <quantity>13</quantity>
+    <quantity>12</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803522.webp</image>
       <image>https://3cerp.eu/api/file/151369.webp</image>
@@ -214471,7 +214477,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2847.00</price>
     <old_price></old_price>
     <weight>106.38</weight>
-    <quantity>0</quantity>
+    <quantity>-1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803120_2.webp</image>
       <image>https://3cerp.eu/api/file/RR4634.jpg</image>
@@ -216310,7 +216316,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>1249.00</price>
     <old_price></old_price>
     <weight>27.56</weight>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803313.webp</image>
       <image>https://3cerp.eu/api/file/803313_1.webp</image>
@@ -216402,7 +216408,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>2329.00</price>
     <old_price></old_price>
     <weight>106.62</weight>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803311.webp</image>
       <image>https://3cerp.eu/api/file/803311_1.webp</image>
@@ -225381,7 +225387,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>1729.00</price>
     <old_price></old_price>
     <weight>90.12</weight>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803122.webp</image>
       <image>https://3cerp.eu/api/file/803122_1.webp</image>
@@ -225496,14 +225502,14 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>803120</sku>
     <barcode></barcode>
     <title>Pedders Усилен Load Carrying and Towing Suspension kit. With Supplementary air bags &amp; Assembled struts.  Ford Ranger, PX</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p><!DOCTYPE html><html lang="en"><head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0"/> <title>Комплект за окачване за тежкотоварни автомобили Pedders с 40 мм повдигане за Ford Ranger PX | Превоз на товари и теглене</title> <meta name="description" content="Pedders heavy duty suspension kit for Ford Ranger PX with 40mm lift, Foam Cell shocks, supplementary airbags, improved load carrying and towing ability." /> <meta name="robots" content="index,follow"/></head><body><h1>Комплект за окачване Pedders за превоз на товари и теглене при тежки условия с допълнителни въздушни възглавници и сглобени амортисьори за Ford Ranger PX</h1><p>Този комплект за окачване е предназначен за потребители на Ford Ranger PX, които се нуждаят от подобрени характеристики при превоз на товари и теглене. Той подобрява просвета и качеството на возене при променящи се товари, като осигурява балансирана комбинация от комфорт и възможности.</p><h2>Основни характеристики</h2><ul> <li>Комплект за тежки условия</li> <li>Подобрено превозване на товари и теглене</li> <li>Повишен просвет при движение извън пътя</li> <li>Амортисьори със синтерирани железни бутала с голям диаметър 40 mm</li> <li>Спирални пружини от стомана с най-високо качество</li> <li>Система за въздушни възглавници с въздушно подпомагане</li> <li>С 2-годишна гаранция / 40 000 км</li></ul><h2>Общ преглед на продукта</h2><p>Този комплект повдига автомобила с приблизително 40 мм, подобрявайки просвета и позволявайки използването на по-големи гуми. Той включва амортисьори Pedders TrakRyder Foam Cell, предни спирални пружини, нови задни листови пружини, допълнителни въздушни възглавници и всички необходими втулки и U-болтове за пълно обновяване.</p><p>Предназначен за автомобили със значителни колебания в натоварването, той осигурява по-плавно движение без товар в сравнение с по-твърдите задни пружини. Това го прави подходящ за приложения като автомобили за почистване на прозорци, превозващи големи резервоари за вода, които варират между празни и пълни.</p><h2>Технология на амортисьорите Foam Cell</h2><p>Амортисьорите Foam Cell използват специална пяна, напоена с масло, вместо да разчитат на газ под налягане. Тази конструкция предотвратява аерирането и кавитацията, поддържайки стабилни сили на амортизация през целия ход. С по-голям капацитет на маслото и подобрено разсейване на топлината, те устояват на износване, контролират температурата и осигуряват надеждна работа дори при интензивна употреба. Тяхната издръжливост ги прави подходящи за тежки условия, теглене и офроуд приложения.</p><h2>Монтаж и съвместимост</h2><p>Комплектът включва напълно сглобени амортисьори Ezifit, комбиниращи амортисьори Pedders Foam Cell, пружини, горни опори, ограничители и маншони за бърз монтаж, без да е необходимо използването на компресори за пружини или повторно използване на стари части. Монтират се директно с предоставените крепежни елементи. Силно се препоръчва регулиране на колелата след монтажа, за да се оптимизира работата на автомобила.</p><p>Той е фокусиран върху комфорта и е подходящ за автомобили, изложени на променящи се натоварвания, а не на постоянно тежко натоварване; за продължителни тежки натоварвания, обмислете комплекта Extra Heavy Duty 803195.</p><h2>Технически спецификации</h2><ul> <li>Повдигане на автомобила: Приблизително 40 mm</li> <li>Височина отпред: 840 mm с 17-инчови колела</li> <li>Височина на задната част: Приблизително 40 мм по-висока от стандартната</li> <li>Размер на отвора на амортисьора: 40 мм</li> <li>Включва допълнителни въздушни възглавници, монтирани между задните листови ресори и шасито</li> <li>Комплектът включва втулки и U-образни болтове</li> <li>Монтаж: Ford Ranger PX</li> <li>2 години / 40 000 км гаранция</li></ul><p><em>Височината трябва да се измерва според указанията; при тежък товар е необходимо допълнително надуване на въздушните възглавници, за да се поддържа височината на каросерията.</em></p><h2>Защо да изберете Pedders</h2><ul> <li>Съвместима система, комбинираща амортисьори Foam Cell и пружини от най-високо качество за балансирана работа</li> <li>Доказана издръжливост при тежки условия на експлоатация и теглене</li> <li>Предварително сглобените амортисьори Ezifit улесняват монтажа</li> <li>Подкрепена от 2-годишна гаранция / 40 000 км</li></ul></body></html>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><!DOCTYPE html><html lang="en"><head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0"/> <title>Комплект за окачване за тежкотоварни автомобили Pedders с 40 мм повдигане за Ford Ranger PX | Превоз на товари и теглене</title> <meta name="description" content="Pedders heavy duty suspension kit for Ford Ranger PX with 40mm lift, Foam Cell shocks, supplementary airbags, improved load carrying and towing ability." /> <meta name="robots" content="index,follow"/></head><body><h1>Комплект за окачване Pedders за превоз на товари и теглене при тежки условия с допълнителни въздушни възглавници и сглобени амортисьори за Ford Ranger PX</h1><p>Този комплект за окачване е предназначен за потребители на Ford Ranger PX, които се нуждаят от подобрени характеристики при превоз на товари и теглене. Той подобрява просвета и качеството на возене при променящи се товари, като осигурява балансирана комбинация от комфорт и възможности.</p><h2>Основни характеристики</h2><ul> <li>Комплект за тежки условия</li> <li>Подобрено превозване на товари и теглене</li> <li>Повишен просвет при движение извън пътя</li> <li>Амортисьори със синтерирани железни бутала с голям диаметър 40 mm</li> <li>Спирални пружини от стомана с най-високо качество</li> <li>Система за въздушни възглавници с въздушно подпомагане</li> <li>С 2-годишна гаранция / 40 000 км</li></ul><h2>Общ преглед на продукта</h2><p>Този комплект повдига автомобила с приблизително 40 мм, подобрявайки просвета и позволявайки използването на по-големи гуми. Той включва амортисьори Pedders TrakRyder Foam Cell, предни спирални пружини, нови задни листови пружини, допълнителни въздушни възглавници и всички необходими втулки и U-болтове за пълно обновяване.</p><p>Предназначен за автомобили със значителни колебания в натоварването, той осигурява по-плавно движение без товар в сравнение с по-твърдите задни пружини. Това го прави подходящ за приложения като автомобили за почистване на прозорци, превозващи големи резервоари за вода, които варират между празни и пълни.</p><h2>Технология на амортисьорите Foam Cell</h2><p>Амортисьорите Foam Cell използват специална пяна, напоена с масло, вместо да разчитат на газ под налягане. Тази конструкция предотвратява аерирането и кавитацията, поддържайки стабилни сили на амортизация през целия ход. С по-голям капацитет на маслото и подобрено разсейване на топлината, те устояват на износване, контролират температурата и осигуряват надеждна работа дори при интензивна употреба. Тяхната издръжливост ги прави подходящи за тежки условия, теглене и офроуд приложения.</p><h2>Монтаж и съвместимост</h2><p>Комплектът включва напълно сглобени амортисьори Ezifit, комбиниращи амортисьори Pedders Foam Cell, пружини, горни опори, ограничители и маншони за бърз монтаж, без да е необходимо използването на компресори за пружини или повторно използване на стари части. Монтират се директно с предоставените крепежни елементи. Силно се препоръчва регулиране на колелата след монтажа, за да се оптимизира работата на автомобила.</p><p>Той е фокусиран върху комфорта и е подходящ за автомобили, изложени на променящи се натоварвания, а не на постоянно тежко натоварване; за продължителни тежки натоварвания, обмислете комплекта Extra Heavy Duty 803195.</p><h2>Технически спецификации</h2><ul> <li>Повдигане на автомобила: Приблизително 40 mm</li> <li>Височина отпред: 840 mm с 17-инчови колела</li> <li>Височина на задната част: Приблизително 40 мм по-висока от стандартната</li> <li>Размер на отвора на амортисьора: 40 мм</li> <li>Включва допълнителни въздушни възглавници, монтирани между задните листови ресори и шасито</li> <li>Комплектът включва втулки и U-образни болтове</li> <li>Монтаж: Ford Ranger PX</li> <li>2 години / 40 000 км гаранция</li></ul><p><em>Височината трябва да се измерва според указанията; при тежък товар е необходимо допълнително надуване на въздушните възглавници, за да се поддържа височината на каросерията.</em></p><h2>Защо да изберете Pedders</h2><ul> <li>Съвместима система, комбинираща амортисьори Foam Cell и пружини от най-високо качество за балансирана работа</li> <li>Доказана издръжливост при тежки условия на експлоатация и теглене</li> <li>Предварително сглобените амортисьори Ezifit улесняват монтажа</li> <li>Подкрепена от 2-годишна гаранция / 40 000 км</li></ul></body></html>]]></description>
     <category>Комплекти окачване</category>
     <sub_category>Комплекти</sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>2710.00</price>
     <old_price></old_price>
     <weight>107.18</weight>
-    <quantity>1</quantity>
+    <quantity>-1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803120.webp</image>
       <image>https://3cerp.eu/api/file/803120_1.webp</image>
@@ -225524,10 +225530,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>2-7 работни дни</name></value></values>
+        <values><value><name>уточнява се</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>Европейски склад</name></value></values>
+        <values><value><name>По запитване</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -225564,7 +225570,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>1866.00</price>
     <old_price></old_price>
     <weight>99.96</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803118.webp</image>
       <image>https://3cerp.eu/api/file/803118_1.webp</image>
@@ -230687,14 +230693,14 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>800473R</sku>
     <barcode>9341150085969</barcode>
     <title>Pedders EziFit Амортисьорна стойка</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p><h3>OEDR Ezifit – пружини и амортисьори</h3><p>Оригинален пряк заместител (OEDR)</p><p>Тези резервни амортисьори Pedders OEDR Ezifit са предназначени за тези, които искат да заменят дефектни пружини или амортисьори. Те се доставят напълно сглобени с всички нови горни опори, ограничители и маншони, готови за монтаж.</p><p>Вместо да подменяте чифт амортисьори или пружини, като се налага да разглобявате амортисьорите, за да го направите, и неизбежно да рискувате, че други части като горни опори, ограничители и др. ще се наложи да бъдат подменени, можете просто да закупите тези напълно сглобени амортисьори, които се доставят с всичко ново. Просто развинтете съществуващия амортисьор, демонтирайте го и монтирайте новия. Много лесно! И всичко това на страхотна цена</p><p>Тези амортисьори Ezifit са директен заместител на оригиналните компоненти. За тези, които искат да подобрят автомобила си и/или да го понижат, моля, вижте нашите комплекти SportsRyder Ezifit.</p><h3>Характеристики и предимства</h3><ul><li>Доставя се като комплект от съчетани компоненти</li><li>Няма нужда от компресори за пружини</li><li>Намалено време за монтаж</li><li>Всичко това е подкрепено от нашата 2-годишна гаранция / 25 000 мили</li></ul>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><h3>OEDR Ezifit – пружини и амортисьори</h3><p>Оригинален пряк заместител (OEDR)</p><p>Тези резервни амортисьори Pedders OEDR Ezifit са предназначени за тези, които искат да заменят дефектни пружини или амортисьори. Те се доставят напълно сглобени с всички нови горни опори, ограничители и маншони, готови за монтаж.</p><p>Вместо да подменяте чифт амортисьори или пружини, като се налага да разглобявате амортисьорите, за да го направите, и неизбежно да рискувате, че други части като горни опори, ограничители и др. ще се наложи да бъдат подменени, можете просто да закупите тези напълно сглобени амортисьори, които се доставят с всичко ново. Просто развинтете съществуващия амортисьор, демонтирайте го и монтирайте новия. Много лесно! И всичко това на страхотна цена</p><p>Тези амортисьори Ezifit са директен заместител на оригиналните компоненти. За тези, които искат да подобрят автомобила си и/или да го понижат, моля, вижте нашите комплекти SportsRyder Ezifit.</p><h3>Характеристики и предимства</h3><ul><li>Доставя се като комплект от съчетани компоненти</li><li>Няма нужда от компресори за пружини</li><li>Намалено време за монтаж</li><li>Всичко това е подкрепено от нашата 2-годишна гаранция / 25 000 мили</li></ul>]]></description>
     <category>Пружини и амортисьори</category>
     <sub_category>Complete Strut Assembly (Rear)</sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>299.00</price>
     <old_price></old_price>
     <weight>10.80</weight>
-    <quantity>46</quantity>
+    <quantity>45</quantity>
     <images>
       <image>https://3cerp.eu/api/file/800473R.webp</image>
     </images>
@@ -230708,10 +230714,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>2-7 работни дни</name></value></values>
+        <values><value><name>около 3 седмици</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>Европейски склад</name></value></values>
+        <values><value><name>Заводски склад</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -230778,7 +230784,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>349.00</price>
     <old_price></old_price>
     <weight>10.96</weight>
-    <quantity>20</quantity>
+    <quantity>19</quantity>
     <images>
       <image>https://3cerp.eu/api/file/800472R.webp</image>
     </images>
@@ -230820,7 +230826,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>349.00</price>
     <old_price></old_price>
     <weight>10.96</weight>
-    <quantity>19</quantity>
+    <quantity>18</quantity>
     <images>
       <image>https://3cerp.eu/api/file/800472L.webp</image>
     </images>
@@ -231419,7 +231425,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>348.00</price>
     <old_price></old_price>
     <weight>7.00</weight>
-    <quantity>11</quantity>
+    <quantity>10</quantity>
     <images>
       <image>https://3cerp.eu/api/file/800038LR.jpg</image>
     </images>
@@ -231463,7 +231469,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>348.00</price>
     <old_price></old_price>
     <weight>7.00</weight>
-    <quantity>11</quantity>
+    <quantity>10</quantity>
     <images>
       <image>https://3cerp.eu/api/file/800038LR.jpg</image>
     </images>
@@ -332961,7 +332967,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>254.00</price>
     <old_price></old_price>
     <weight>22.00</weight>
-    <quantity>1501</quantity>
+    <quantity>1470</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6203.webp</image>
     </images>
@@ -337977,7 +337983,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>50.00</price>
     <old_price></old_price>
     <weight>0.84</weight>
-    <quantity>349</quantity>
+    <quantity>350</quantity>
     <images>
       <image>https://3cerp.eu/api/file/5899.webp</image>
     </images>
@@ -386422,7 +386428,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>29.00</price>
     <old_price></old_price>
     <weight>0.38</weight>
-    <quantity>179</quantity>
+    <quantity>177</quantity>
     <images>
       <image>https://3cerp.eu/api/file/458016.webp</image>
     </images>
@@ -410798,7 +410804,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>46.00</price>
     <old_price></old_price>
     <weight>0.42</weight>
-    <quantity>275</quantity>
+    <quantity>273</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4318.webp</image>
       <image>https://3cerp.eu/api/file/4318_1.webp</image>
@@ -464864,7 +464870,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>189.00</price>
     <old_price></old_price>
     <weight>8.53</weight>
-    <quantity>78</quantity>
+    <quantity>76</quantity>
     <images>
       <image>https://3cerp.eu/api/file/290213.webp</image>
     </images>
@@ -467770,7 +467776,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>139.00</price>
     <old_price></old_price>
     <weight>5.68</weight>
-    <quantity>57</quantity>
+    <quantity>55</quantity>
     <images>
       <image>https://3cerp.eu/api/file/290067.webp</image>
     </images>
@@ -469859,7 +469865,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>130.00</price>
     <old_price></old_price>
     <weight>5.68</weight>
-    <quantity>182</quantity>
+    <quantity>180</quantity>
     <images>
       <image>https://3cerp.eu/api/file/280171.webp</image>
     </images>
@@ -472837,7 +472843,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>147.00</price>
     <old_price></old_price>
     <weight>6.75</weight>
-    <quantity>800</quantity>
+    <quantity>794</quantity>
     <images>
       <image>https://3cerp.eu/api/file/280077.webp</image>
     </images>
@@ -547696,7 +547702,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>266.00</price>
     <old_price></old_price>
     <weight>4.00</weight>
-    <quantity>50</quantity>
+    <quantity>48</quantity>
     <images>
       <image>https://3cerp.eu/api/file/154368.webp</image>
     </images>
@@ -551137,7 +551143,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>94.00</price>
     <old_price></old_price>
     <weight>4.04</weight>
-    <quantity>148</quantity>
+    <quantity>146</quantity>
     <images>
       <image>https://3cerp.eu/api/file/151369.webp</image>
     </images>
@@ -553519,7 +553525,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>185.00</price>
     <old_price></old_price>
     <weight>3.68</weight>
-    <quantity>48</quantity>
+    <quantity>46</quantity>
     <images>
       <image>https://3cerp.eu/api/file/151228.webp2</image>
     </images>
