@@ -33846,6 +33846,7 @@
     <weight>0</weight>
     <quantity>0</quantity>
     <images>
+      <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
     <tags>Pedders</tags>
     <meta_title>Load Assist Kit</meta_title>
@@ -63439,35 +63440,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     </brands>
   </product>
   <product>
-    <id>EP7346</id>
-    <product_code>EP7346</product_code>
-    <sku>EP7346</sku>
-    <barcode>9341150059922</barcode>
-    <title>Urethane Носач Силентблок (2PKT). NO LONGER AVAILABLE</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><h3>Уретанови втулки Pedders</h3><p>Уретановите втулки на Pedders имат висока способност да издържат на напрежение, компресия и триене и запазват своята твърдост дори при най-неблагоприятни условия. Това ги прави подходящи за изискванията на превоз на тежки товари, твърдо управление на окачването или при очаквано редовно излагане на корозивни материали.</p><h3>Характеристики и предимства</h3><ul><li>Закалени тръби за по-дълъг живот и за елиминиране на приплъзване или пълзене.</li><li>Двойна спирала, използвана срещу външния диаметър на тръбата. Двойната спирала поддържа аксиалното положение, като същевременно позволява пълно въртене на шарнира. Тя действа и като резервоар за смазка, което допълнително увеличава експлоатационния живот на продукта.</li><li>Набраздяване. За допълнителна защита срещу неблагоприятно износване при силно натоварени втулки.</li><li>Канали с форма на куршум. Те осигуряват правилното предварително натоварване, като в същото време се адаптират към голямо разнообразие от размери и поддържат свободното въртене на втулките</li></ul>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>97.00</price>
-    <old_price></old_price>
-    <weight>0.79</weight>
-    <quantity>0</quantity>
-    <images>
-      <image>https://3cerp.eu/api/file/ep7346_4.jpg</image>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Urethane Носач Силентблок (2PKT). NO LONGER AVAILABLE</meta_title>
-    <meta_description>Urethane Носач Силентблок (2PKT). NO LONGER AVAILABLE</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
-  </product>
-  <product>
     <id>EP7342</id>
     <product_code>EP7342</product_code>
     <sku>EP7342</sku>
@@ -71551,35 +71523,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </model>
       </brand>
     </brands>
-  </product>
-  <product>
-    <id>EP6612</id>
-    <product_code>EP6612</product_code>
-    <sku>EP6612</sku>
-    <barcode>9341150023787</barcode>
-    <title>Urethane Leading Arm Заден Силентблок to Axle Hub (4PKT) - NLA</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><h3>Уретанови втулки Pedders</h3><p>Уретановите втулки на Pedders имат висока способност да издържат на напрежение, компресия и триене и запазват своята твърдост дори при най-неблагоприятни условия. Това ги прави подходящи за изискванията на превоз на тежки товари, твърдо управление на окачването или при очаквано редовно излагане на корозивни материали.</p><h3>Характеристики и предимства</h3><ul><li>Закалени тръби за по-дълъг живот и за елиминиране на приплъзване или пълзене.</li><li>Двойна спирала, използвана срещу външния диаметър на тръбата. Двойната спирала поддържа аксиалното положение, като същевременно позволява пълно въртене на шарнира. Тя действа и като резервоар за смазка, което допълнително увеличава експлоатационния живот на продукта.</li><li>Набраздяване. За допълнителна защита срещу неблагоприятно износване при силно натоварени втулки.</li><li>Канали с форма на куршум. Те осигуряват правилното предварително натоварване, като в същото време се адаптират към голямо разнообразие от размери и поддържат свободното въртене на втулките</li></ul>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>275.00</price>
-    <old_price></old_price>
-    <weight>1.00</weight>
-    <quantity>0</quantity>
-    <images>
-      <image>https://3cerp.eu/api/file/ep6612_4.jpg</image>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Urethane Leading Arm Заден Силентблок to Axle Hub (4PKT) - NLA</meta_title>
-    <meta_description>Urethane Leading Arm Заден Силентблок to Axle Hub (4PKT) - NLA</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
   </product>
   <product>
     <id>EP6603</id>
@@ -139896,37 +139839,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     </brands>
   </product>
   <product>
-    <id>909981L</id>
-    <product_code>909981L</product_code>
-    <sku>909981L</sku>
-    <barcode></barcode>
-    <title>SportsRyder EziFit Заден Left Impreza WRX '00-&gt;07 - PRODUCT NO LONGER AVAILABLE. Please refer to 909991L</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p> ПРОДУКТЪТ ВЕЧЕ НЕ СЕ ПРЕДЛАГА. Моля, вижте артикул 909991L.<br>
-<br>
-Стандартно горно закрепване.<BR><br><p id='c1-id-20' xmlns='http://www.w3.org/1999/xhtml' style='box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);'>Комплектите за пружини и амортисьори Pedders Gas Sports Ryder EziFit вече са идеална алтернатива на закупуването на отделни компоненти при преобразуването на Вашия автомобил от оригинално оборудване на окачването към по-високопроизводителна конфигурация на окачването.</p><p id='c1-id-21' xmlns='http://www.w3.org/1999/xhtml' style='box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);'>Заден ляв амортисьор. Спирала със стандартна височина.</p><p id='c1-id-103' xmlns='http://www.w3.org/1999/xhtml' style='box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);'>Подходящ за модели (включително WRX и WRX с опция STi) с 26-милиметрова скоба на предната амортисьорна стойка. Не е<br id='c1-id-104' style='box-sizing: border-box;'>подходящ за модели STi с 30-милиметрова скоба на предната амортисьорна стойка.</p><p id='c1-id-9' xmlns='http://www.w3.org/1999/xhtml' style='box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);'> </p><p style='box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);'></p><p style='box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);'></p><p id='c1-id-22' xmlns='http://www.w3.org/1999/xhtml' style='box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);'>Намаленото време за монтаж е основното предимство при използването на Gas Sports Ryder EziFit, тъй като пружината, амортисьорът и монтажната скоба се доставят предварително сглобени. Няма нужда да използвате компресор за пружини, тъй като работата вече е свършена за вас! Просто развинтете старите и завийте новите.</p>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>244.00</price>
-    <old_price></old_price>
-    <weight>12.00</weight>
-    <quantity>0</quantity>
-    <images>
-      <image>https://3cerp.eu/api/file/909981L.jpg</image>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>SportsRyder EziFit Заден Left Impreza WRX '00-&gt;07 - PRODUCT NO LONGER </meta_title>
-    <meta_description>SportsRyder EziFit Заден Left Impreza WRX '00-&gt;07 - PRODUCT NO LONGER AVAILABLE. Please refer to 909991L</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
-  </product>
-  <product>
     <id>909980SR</id>
     <product_code>909980SR</product_code>
     <sku>909980SR</sku>
@@ -140015,37 +139927,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </model>
       </brand>
     </brands>
-  </product>
-  <product>
-    <id>909980R</id>
-    <product_code>909980R</product_code>
-    <sku>909980R</sku>
-    <barcode>9341150061574</barcode>
-    <title>SportsRyder EziFit Преден Right Impreza WRX '00-&gt;07 - PRODUCT NO LONGER AVAILABLE. Please refer to 909990R</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p>ПРОДУКТЪТ ВЕЧЕ НЕ СЕ ПРЕДЛАГА. Моля, вижте 909990R.<br>
-<br>
-<p id='c1-id-10' xmlns='http://www.w3.org/1999/xhtml' style='box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);'>Стандартно горно закрепване.</p><p id='c1-id-10' xmlns='http://www.w3.org/1999/xhtml' style='box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);'><br></p><p id='c1-id-10' xmlns='http://www.w3.org/1999/xhtml' style='box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);'>Комплектите за пружини и амортисьори Pedders Gas Sports Ryder EziFit вече са идеална алтернатива на закупуването на отделни компоненти при преобразуването на Вашия автомобил от оригинално оборудване на окачването към по-високопроизводителна конфигурация на окачването.</p><p id='c1-id-11' xmlns='http://www.w3.org/1999/xhtml' style='box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);'>Предна дясна амортисьорна колона.</p><p style='box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);'></p><p style='box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);'></p><p id='c1-id-14' xmlns='http://www.w3.org/1999/xhtml' style='box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);'>Намаленото време за монтаж е основното предимство при използването на Gas Sports Ryder EziFit, тъй като пружината, амортисьорът и монтажната опора се доставят предварително сглобени. Няма нужда да използвате компресор за пружини, тъй като работата вече е свършена за вас! Просто развинтете старите и завийте новите.</p>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>244.00</price>
-    <old_price></old_price>
-    <weight>12.00</weight>
-    <quantity>0</quantity>
-    <images>
-      <image>https://3cerp.eu/api/file/909980L.jpg</image>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>SportsRyder EziFit Преден Right Impreza WRX '00-&gt;07 - PRODUCT NO LONGE</meta_title>
-    <meta_description>SportsRyder EziFit Преден Right Impreza WRX '00-&gt;07 - PRODUCT NO LONGER AVAILABLE. Please refer to 909990R</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
   </product>
   <product>
     <id>9099</id>
@@ -141240,7 +141121,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <id>909102R</id>
     <product_code>909102R</product_code>
     <sku>909102R</sku>
-    <barcode>9341150098235                                                                                                         </barcode>
+    <barcode>9341150098235</barcode>
     <title>Pedders EziFit</title>
     <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p><h3>TrakRyder Ezi-Fit пружини и амортисьори</h3><p>Комплектът за тежки условия TrakRyder EziFit Spring and Foam Cell Shock Absorber е проектиран, разработен и произведен, за да осигури прецизен контрол, без да се прави компромис с комфорта при шофиране. Доставян като пълен комплект от съчетани компоненти на окачването, комплектът TrakRyder EziFit Spring and Foam Cell Shock Absorber е подходящ за всички видове условия на шофиране – независимо дали става дума за тежки офроуд условия или просто за пътуване до работа. Едно от допълнителните предимства на тези комплекти е, че можете да изберете своето шофиране, като изберете предпочитания от вас тип спирални пружини, който отговаря на вашите нужди при шофиране. При поръчката на различните комплекти можете да избирате между стандартна, повдигната или натоварена височина на каросерията.</p><p>Доставя се като съгласуван комплект от предварително сглобени компоненти на окачването, включващ амортисьор с пяна Pedders TrakRyder, пружина за тежки условия Pedders TrakRyder и опора за амортисьор Pedders TrakRyder.  Времето за монтаж е съкратено, тъй като компонентите се доставят предварително сглобени и готови за директно монтиране. Амортисьорът TrakRyder с пяна осигурява по-големи охлаждащи площи, за да подобри работата и издръжливостта на амортисьора, като позволява пълен контакт на маслото както с вътрешния, така и с външния корпус.</p><h3>Характеристики и предимства</h3><ul><li>Монтажна втулка с мостова втулка</li><li>Доставя се като комплект от съчетани компоненти</li><li>Няма нужда от компресори за пружини</li><li>Намалено време за монтаж</li><li>Всичко това е подкрепено от нашата 2-годишна гаранция / 25 000 мили</li></ul>]]></description>
     <category>Комплекти окачване</category>
@@ -171338,34 +171219,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </model>
       </brand>
     </brands>
-  </product>
-  <product>
-    <id>8728</id>
-    <product_code>8728</product_code>
-    <sku>8728</sku>
-    <barcode>9312891015072</barcode>
-    <title>Pedders Cartridge - No longer available</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><h3>Амортисьори Pedders</h3><p>Оригиналните амортисьори за подмяна на Pedders предлагат първокласни характеристики на движение.</p><p>Амортисьорите за подмяна на Pedders са идеална алтернатива за шофьорите, които се съобразяват с бюджета си и просто искат да върнат на автомобила първоначалните му качества на движение и управление. Въпреки това, допълнителните функции придават на нашите амортисьори Pedders характеристики, сходни с тези на висококачествените газови амортисьори, на по-достъпна цена.</p><h3>Характеристики и предимства</h3><ul><li>Директно OEM монтиране</li><li>Прецизно настроени клапани за шофиране като в нов автомобил</li><li>Качествена конструкция и индивидуално тествани</li><li>Заредени с азотен газ</li><li>Всичко това е подкрепено от нашата 2-годишна гаранция или 25 000 мили</li></ul><br>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>109.00</price>
-    <old_price></old_price>
-    <weight>3.00</weight>
-    <quantity>0</quantity>
-    <images>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Pedders Cartridge - No longer available</meta_title>
-    <meta_description>Pedders Cartridge - No longer available</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
   </product>
   <product>
     <id>8727</id>
@@ -211787,7 +211640,38 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>803525</sku>
     <barcode></barcode>
     <title>Pedders Усилен Load carrying and Towing Kit. Jeep Gladiator, JT, 2020 on</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><!DOCTYPE html><html lang="en"><head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0"/> <title>Комплект за превоз на тежки товари „Pedders“ за Jeep Gladiator 2020+ | Подобрена стабилност при превоз на товари и теглене</title> <meta name="description" content="Pedders Heavy Duty Towing and Load Carrying Kit for Jeep Gladiator 2020 onwards. Upgraded springs and shocks enhance load carrying, towing ability, and stability." /> <meta name="robots" content="index,follow"/></head><body><h1>Комплект за теглене и превоз на товари с повишена товароносимост Pedders. Jeep Gladiator 2020 и по-нови модели</h1><p>Този комплект е предназначен за собствениците на Jeep Gladiator, които редовно карат с натоварено превозно средство и се нуждаят от подобрени възможности за превоз на товари и теглене. Той осигурява подобрена стабилност и контрол върху товара благодарение на подобрените пружини и амортисьори.</p><h2>Основни характеристики</h2><ul> <li>Комплект за тежки натоварвания</li> <li>Подобрени възможности за превоз на товари и теглене</li> <li>Пружини от най-високо качество</li> <li>Модернизирани амортисьори за подобрена стабилност и контрол на товара</li> <li>С гаранция 2 години / 40 000 км / 25 000 мили</li></ul><h2>Общ преглед на продукта</h2><p>Този комплект за постоянно натоварване е оптимизиран за превозни средства, превозващи минимален товар от приблизително 250 кг. Той включва подобрени задни пружини и съответстващи амортисьори за подобряване на контрола върху товара и теглителните характеристики. Управлението на превозното средство без товар може да доведе до по-неудобно пътуване. Тези компоненти заменят оригиналните части и не изискват други модификации.</p><h2>Технология и материали</h2><p>Комплектът включва пружини от най-висок клас, съчетани с подобрени амортисьори, проектирани да осигуряват подобрена стабилност и управление на натоварването, специално пригодени за употреба при тежки условия при постоянно натоварване.</p><h2>Монтаж и съвместимост</h2><p>Компонентите заменят директно оригиналните части на окачването, без да са необходими други модификации на превозното средство. Препоръчва се професионално регулиране на колелата след монтажа, за да се осигури оптимално управление и износ на гумите.</p><p>Този комплект е специално предназначен за тежки условия на теглене и превоз на товари.</p><h2>Технически спецификации</h2><ul> <li>Препоръчително минимално натоварване: около 250 кг</li> <li>Височина на задната част: Стандартна до +10 мм</li> <li>Съвместимост: Jeep Gladiator 2020 и по-нови модели</li> <li>Гаранция: 2 години / 25 000 мили</li></ul><p><em>Точните височини на каросерията варират в зависимост от разпределението на теглото.</em></p><h2>Защо да изберете Pedders</h2><ul> <li>Съвместими компоненти, проектирани за постоянна натовареност и теглене</li> <li>Доказана ефективност с подобрени пружини и амортисьори</li> <li>Поддръжка за множество модели автомобили, осигурена от специализирана техническа поддръжка</li> <li>2 години / 40 000 км / 25 000 мили гаранция за вашето спокойствие</li></ul></body></html>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Комплект за превоз на тежки товари „Pedders“ за Jeep Gladiator 2020+ | Подобрена стабилност при превоз на товари и теглене</title>
+  <meta name="description" content="Pedders Heavy Duty Towing and Load Carrying Kit for Jeep Gladiator 2020 onwards. Upgraded springs and shocks enhance load carrying, towing ability, and stability." />
+  <meta name="robots" content="index,follow"/>
+</head>
+<body>
+  <h1>Комплект за тежки товари и теглене на Pedders</h1>
+  
+  <p>Проектиран за превозни средства, превозващи постоянен товар, като за оптимална работа се изисква минимален товар от приблизително 250 кг. Усъвършенстваните задни пружини и съответстващите амортисьори осигуряват повишена стабилност, превъзходен контрол на товара и подобрени възможности за теглене. Експлоатацията без товар може да доведе до по-твърдо усещане при шофиране.</p>
+
+  <h2>Основни характеристики</h2>
+  <ul>
+    <li>Комплект за тежки натоварвания</li>
+    <li>Подобрена способност за превоз на товари и теглене</li>
+    <li>Пружини от най-високо качество</li>
+    <li>Подобрени амортисьори за по-голяма стабилност и контрол на натоварването</li>
+  </ul>
+
+  <h2>Монтаж и технически спецификации</h2>
+  <ul>
+    <li>Необходимо задно натоварване: минимум 250 кг</li>
+    <li>Регулиране на височината на задната част: от стандартна до +10 мм</li>
+    <li>Монтаж: Пряка замяна на оригиналните компоненти чрез закрепване с болтове, без да се налагат модификации на автомобила</li>
+    <li>След монтажа: Препоръчва се професионално регулиране на колелата, за да се осигури оптимално управление и износ на гумите</li>
+    <li>Гаранция: 2 години / 40 000 км / 25 000 мили</li>
+  </ul>
+</body>
+</html>]]></description>
     <category>Комплекти окачване</category>
     <sub_category>Комплекти</sub_category>
     <manufacturer>Pedders</manufacturer>
@@ -211835,7 +211719,38 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>803524</sku>
     <barcode></barcode>
     <title>Pedders Усилен towing and Load carrying Kit. Dodge Ram 1500. 2019 on</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p><!DOCTYPE html><html lang="en"><head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0"/> <title>Комплект за теглене и превоз на товари с повишена издръжливост на Pedders за Dodge Ram от 2019 г. нататък | Подобрени възможности за превоз на товари и теглене</title> <meta name="description" content="Pedders Heavy Duty Towing and Load Carrying Kit for Dodge Ram 2019 on improves load carrying and towing ability with premium springs and uprated shocks." /> <meta name="robots" content="index,follow"/></head><body><h1>Комплект за теглене и превоз на товари с повишена товароносимост Pedders. Dodge Ram 2019 и по-нови модели</h1><p>Този комплект е предназначен за собствениците на Dodge Ram, които редовно теглят ремаркета или превозват тежки товари. Той подобрява капацитета за превоз на товари в задната част и стабилността при теглене чрез използването на пружини от най-високо качество и усъвършенствани амортисьори, като осигурява по-голям клиренс на задната част при натоварване.</p><h2>Основни характеристики</h2><ul> <li>Комплект за тежки условия</li> <li>Подобрени възможности за превоз на товари и теглене</li> <li>Пружини от най-високо качество</li> <li>Усъвършенствани амортисьори за по-добра стабилност и контрол при натоварване</li> <li>Всичко това е подкрепено от гаранция от 2 години / 40 000 км / 25 000 мили</li></ul><h2>Общ преглед на продукта</h2><p>Този комплект е проектиран за подпомагане на тези, които редовно карат натоварени превозни средства, обикновено с товари от около 350 кг. Той увеличава височината на задната част с приблизително 30 мм при натоварване, подобрявайки качеството на возене и контрола при теглене или превоз на тежки товари. Модернизацията включва пружини и амортисьори, които заменят оригиналните компоненти, за да осигурят подобрена стабилност и подобрена товароносимост.</p><p>Комплектът е най-подходящ за добре натоварени превозни средства; използването му без товар може да доведе до по-твърдо возене. При променящи се условия на натоварване Pedders препоръчва да се обмисли използването на техните комплекти с въздушни възглавници за по-плавно регулиране.</p><h2>Технология и материали</h2><p>Този комплект включва пружини от най-висок клас за висока издръжливост и подобрени амортисьори, проектирани да поддържат стабилността на автомобила при превоз на тежки товари. Компонентите са съгласувани помежду си, за да осигурят подобрен контрол на натоварването и управляемост при теглене или превоз на тежести.</p><h2>Монтаж и съвместимост</h2><p>Включените задни пружини и амортисьори заменят директно оригиналните части и не изискват допълнителни модификации на автомобила. Монтажът е чрез завинтване, проектиран за лесно приспособяване. Препоръчва се да се извърши професионално регулиране на колелата след монтажа, за да се поддържат оптималните управляемост на автомобила.</p><p>Този комплект за тежки условия е предназначен за потребители, които редовно превозват или теглят тежки товари, а не за тези, които търсят комфорт при ежедневно шофиране без товар.</p><h2>Технически спецификации</h2><ul> <li>Увеличение на височината на задната част: Приблизително 30 мм по-високо при натоварване от 350 кг</li> <li>Препоръчително минимално натоварване: около 350 кг</li> <li>Съвместимост: Dodge Ram 2019 и по-нови модели</li> <li>Гаранция: 2 години / 25 000 мили</li></ul><p><em>Забележка: Височината на задната част варира в зависимост от натоварването и разпределението на теглото на автомобила. Уверете се, че продуктът е подходящ, преди да поръчате.</em></p><h2>Защо да изберете този комплект</h2><ul> <li>Съвместими пружини и амортисьори за тежки условия за оптимално носене на товар и стабилност при теглене</li> <li>Доказано подобрение за Dodge Ram 2019 и по-нови модели при редовна употреба с товар</li> <li>Части за директна замяна за лесен монтаж с болтове</li> <li>С 2-годишна гаранция / 40 000 км / 25 000 мили за ваше спокойствие</li></ul></body></html>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Комплект на Pedders за тежки условия на теглене и превоз на товари за Dodge Ram от 2019 г. нататък | Подобрени възможности за превоз на товари и теглене</title>
+  <meta name="description" content="Pedders Heavy Duty Towing and Load Carrying Kit for Dodge Ram 2019 on improves load carrying and towing ability with premium springs and uprated shocks." />
+  <meta name="robots" content="index,follow"/>
+</head>
+<body>
+  <h1>Комплект за теглене и превоз на товари с висока товароносимост Pedders</h1>
+  
+  <p>Проектиран за превозни средства, превозващи постоянен товар, изискващ минимално натоварване от приблизително 350 кг за оптимална производителност. Модернизираните задни пружини и съответстващите им амортисьори увеличават височината на задната част с приблизително 30 мм при натоварване, осигурявайки по-голяма стабилност, отличен контрол на товара и подобрени възможности за теглене. При движение без товар може да се получи по-твърдо усещане при шофиране. За променящи се условия на натоварване Pedders предлага алтернативен комплект въздушни възглавници за гъвкава настройка.</p>
+
+  <h2>Основни характеристики</h2>
+  <ul>
+    <li>Комплект за тежки натоварвания</li>
+    <li>Подобрени способности за превоз на товари и теглене</li>
+    <li>Пружини от най-висок клас</li>
+    <li>Подобрени амортисьори за по-голяма стабилност и контрол върху натоварването</li>
+  </ul>
+
+  <h2>Монтаж и технически спецификации</h2>
+  <ul>
+    <li>Необходимо задно натоварване: минимум 350 кг</li>
+    <li>Увеличение на височината на задната част: приблизително 30 мм при натоварване от 350 кг</li>
+    <li>Монтаж: Пряка замяна на оригиналните компоненти чрез закрепване с болтове, без да са необходими допълнителни модификации на автомобила</li>
+    <li>След монтажа: Препоръчва се професионално регулиране на колелата за поддържане на оптимално управление</li>
+    <li>Гаранция: 2 години / 40 000 км / 25 000 мили</li>
+  </ul>
+</body>
+</html>]]></description>
     <category>Комплекти окачване</category>
     <sub_category>Комплекти</sub_category>
     <manufacturer>Pedders</manufacturer>
@@ -211880,7 +211795,39 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>803523</sku>
     <barcode></barcode>
     <title>Pedders 45mm Лифт комплект. Dodge Ram 1500. 2019 on</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p><!DOCTYPE html><html lang="en"><head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0"/> <title>Комплект за повдигане Pedders 45 мм за Dodge Ram 1500 от 2019 г. нататък | Подобрени клиренс и управляемост</title> <meta name="description" content="Pedders 45mm Lift Kit for Dodge Ram 1500 2019 on. Includes Foam Cell shocks and premium springs for improved stability, handling and ground clearance." /> <meta name="robots" content="index,follow"/></head><body><h1>Комплект за повдигане Pedders 45 мм за Dodge Ram 1500 от 2019 г. нататък</h1><p>Този комплект за повдигане с 45 мм от Pedders е предназначен за Dodge Ram 1500 (от 2019 г. нататък). С амортисьори Foam Cell и специално проектирани пружини за повдигане, той подобрява клиренса, стабилността и управляемостта, като същевременно позволява монтажа на по-големи джанти и гуми.</p><h2>Основни характеристики</h2><ul> <li>Комплект за повдигане с приблизително 45 мм повдигане отпред и отзад</li> <li>Подобрено управление и стабилност</li> <li>Пружини от най-високо качество</li> <li>Подобрени амортисьори „Foam Cell“ за по-добра стабилност и контрол при натоварване</li> <li>Гаранция 2 години / 40 000 км / 25 000 мили</li></ul><h2>Общ преглед на продукта</h2><p>Този комплект повдига автомобила с около 45 мм в зависимост от опциите и аксесоарите на автомобила, като оптимизира просвета и стабилността. Амортисьорите Foam Cell и повдигащите пружини се комбинират, за да подобрят стабилността и управляемостта както на път, така и извън него. Това позволява монтаж на по-големи комплекти колела и гуми без други модификации на автомобила.</p><p>Посоченото повдигане се отнася за стандартен автомобил. Допълнително оборудване, като лебедки или предни решетки, или значително тегло в задната част, може да повлияе на крайната височина на каросерията и да наложи използването на алтернативни пружини. След монтажа е задължително да се извърши регулиране на колелата, за да се коригират ъглите на окачването.</p><h2>Технология на амортисьорите „Foam Cell“</h2><p>Амортисьорите „Foam Cell“ използват специална пяна, напоена с масло, вместо да разчитат на газ под налягане. Тази конструкция предотвратява аерирането и кавитацията, като поддържа стабилни амортизиращи сили през целия ход. С по-голям капацитет на маслото и подобрено разсейване на топлината, те са устойчиви на износване, контролират температурата и осигуряват надеждна работа дори при интензивна експлоатация. Тяхната издръжливост ги прави подходящи за тежки условия на експлоатация, теглене и офроуд.</p><h2>Монтаж и съвместимост</h2><p>Компонентите заменят оригиналните елементи на окачването, без да са необходими други модификации на автомобила. Монтажът се извършва чрез завинтване, а професионалното регулиране на колелата след монтажа е от съществено значение за осигуряване на правилната геометрия на окачването.</p><p>Този комплект е насочен към комфорт и стабилност, подходящ за подобрено ежедневно шофиране и умерена употреба извън пътя.</p><h2>Технически спецификации</h2><ul> <li>Повдигане отпред: Приблизително 45 мм по-високо от стандартното</li> <li>Повдигане на задната част: Приблизително 45 мм по-високо от стандартното</li> <li>Включва амортисьори Pedders Foam Cell и пружини от най-висок клас</li> <li>Съвместимост: Dodge Ram 1500, модел 2019 г. и по-нови</li></ul><p><em>Височината на каросерията може да варира в зависимост от допълнителното оборудване, като лебедки или предни решетки, а по-тежките задни товари може да изискват различни пружини.</em></p><h2>Защо да изберете Pedders</h2><ul> <li>Съвместими компоненти, проектирани да подобрят стабилността и контрола върху натоварването</li> <li>Доказана технология на амортисьорите „Foam Cell“, подходяща за изискващи приложения</li> <li>Лесен монтаж чрез завинтване, заместващ оригиналните части на окачването</li> <li>С 2-годишна гаранция / 40 000 км / 25 000 мили</li></ul></body></html>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Комплект за повдигане Pedders 45 мм за Dodge Ram 1500 от 2019 г. нататък | Подобрен клиренс и управляемост</title>
+  <meta name="description" content="Pedders 45mm Lift Kit for Dodge Ram 1500 2019 on. Includes Foam Cell shocks and premium springs for improved stability, handling and ground clearance." />
+  <meta name="robots" content="index,follow"/>
+</head>
+<body>
+  <h1>Комплект за повдигане Pedders 45 мм за Dodge Ram 1500 от 2019 г. нататък</h1>
+  
+  <p>Проектиран за Dodge Ram 1500 (от 2019 г. нататък), този комплект за повдигане с 45 мм включва амортисьори Foam Cell и специално изработени пружини за повдигане, които подобряват клиренса, стабилността и управляемостта както на път, така и извън него. Той оптимизира стабилността на автомобила и позволява монтаж на по-големи комплекти колела и гуми.</p>
+
+  <h2>Основни характеристики</h2>
+  <ul>
+    <li>Комплект за повдигане с приблизително 45 мм повдигане отпред и отзад</li>
+    <li>Подобрено управление и стабилност</li>
+    <li>Пружини от най-високо качество</li>
+    <li>Подобрени амортисьори „Foam Cell“ за по-добра стабилност и контрол при натоварване</li>
+  </ul>
+
+  <h2>Монтаж и технически спецификации</h2>
+  <ul>
+    <li>Повдигане отпред: Приблизително 45 мм по-високо от стандартното</li>
+    <li>Повдигане на задната част: Приблизително 45 мм по-високо от стандартното</li>
+    <li>Компоненти: Амортисьори Pedders Foam Cell и пружини за повдигане от най-високо качество</li>
+    <li>Монтаж: Директна замяна с болтово закрепване на оригиналните компоненти на окачването, без да се налагат модификации на автомобила</li>
+    <li>След монтажа: Необходимо е професионално регулиране на колелата, за да се гарантира правилната геометрия на окачването</li>
+    <li>Гаранция: 2 години / 40 000 км / 25 000 мили</li>
+  </ul>
+</body>
+</html>]]></description>
     <category>Комплекти окачване</category>
     <sub_category>Комплекти</sub_category>
     <manufacturer>Pedders</manufacturer>
@@ -211927,7 +211874,39 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>803522</sku>
     <barcode></barcode>
     <title>Pedders Усилен towing and Load carrying Kit. Dodge Ram 1500. 2009-2018</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p><!DOCTYPE html><html lang="en"><head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0"/> <title>Комплект за теглене и превоз на товари с повишена издръжливост на Pedders за Dodge Ram 2009–2018 г. | Подобрена способност за превоз на товари и стабилност</title> <meta name="description" content="Pedders Heavy Duty Towing and Load Carrying Kit for Dodge Ram 2009-2018 improves rear load capacity and towing. Includes upgraded springs and uprated shocks for stability." /> <meta name="robots" content="index,follow"/></head><body><h1>Комплект за теглене и превоз на товари с повишена товароносимост Pedders. Dodge Ram 2009-2018</h1><p>Този комплект е предназначен за собствениците на Dodge Ram, които редовно превозват тежки товари или теглят ремаркета. Той подобрява товароносимостта и стабилността на задната част с подобрени пружини и амортисьори, като оптимизира управляемостта при натоварване.</p><h2>Основни характеристики</h2><ul> <li>Комплект за тежки условия при постоянна натовареност</li> <li>Подобрени възможности за превоз на товари и теглене</li> <li>Пружини от най-високо качество</li> <li>Подобрени амортисьори за по-добра стабилност и контрол при натоварване</li> <li>Гаранция 2 години / 40 000 км / 25 000 мили</li></ul><h2>Общ преглед на продукта</h2><p>Този комплект подобрява оригиналните задни пружини и амортисьори, за да издържат на по-тежки товари, като повдига задната част с приблизително 30 мм при натоварване от 350 кг. Подходящ е за шофьори, които редовно карат с товар, като подобрява стабилността на задното окачване и контрола върху товара. Експлоатацията без товар може да доведе до по-твърдо возене.</p><p>Компонентите заменят фабричните части, без да са необходими допълнителни модификации на автомобила. При променливи товари се препоръчват алтернативни комплекти въздушни възглавници от Pedders, за да се поддържа комфортът при шофиране при различни тегла.</p><h2>Технология и материали</h2><p>Този комплект включва висококачествени пружини за тежки условия, съчетани с подобрени амортисьори, проектирани да подобрят стабилността и ефективно да управляват силите на натоварване, като осигуряват дълготрайна работа при теглене и превоз на тежки товари.</p><h2>Монтаж и съвместимост</h2><p>Комплектът замества оригиналните компоненти на задното окачване, без да са необходими други модификации. Монтажът се извършва чрез завинтване и е лесен. Препоръчва се професионално регулиране на колелата след монтажа, за да се оптимизират управляемостта и износването на гумите.</p><p>Проектиран е за приложения с постоянно натоварване и употреба при тежки условия, а не за комфорт при променливо натоварване.</p><h2>Технически спецификации</h2><ul> <li>Увеличение на височината на задната част: Приблизително 30 мм при натоварване от 350 кг</li> <li>Съвместимост: Dodge Ram 2009–2018</li> <li>Включва подобрени задни пружини и амортисьори</li> <li>Препоръчително минимално натоварване: около 350 кг</li></ul><p><em>Височините трябва да се измерват, както е показано на снимките на продукта; натоварването и аксесоарите на автомобила могат да повлияят на височината на каросерията.</em></p><h2>Защо да изберете този комплект</h2><ul> <li>Съвместими пружини и амортисьори, проектирани за стабилност при тежък товар</li> <li>Доказано решение за теглене и условия на постоянно натоварване</li> <li>Пряка замяна на фабричните компоненти за лесен монтаж</li> <li>С 2-годишна гаранция / 40 000 км / 25 000 мили</li></ul></body></html>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Комплект за теглене и превоз на товари с повишена издръжливост на Pedders за Dodge Ram 2009–2018 г. | Подобрена способност за превоз на товари и стабилност</title>
+  <meta name="description" content="Pedders Heavy Duty Towing and Load Carrying Kit for Dodge Ram 2009-2018 improves rear load capacity and towing. Includes upgraded springs and uprated shocks for stability." />
+  <meta name="robots" content="index,follow"/>
+</head>
+<body>
+  <h1>Комплект за теглене и превоз на товари с висока товароносимост Pedders</h1>
+  
+  <p>Проектиран за превозни средства, превозващи постоянен товар, изискващ минимално натоварване от приблизително 350 кг за оптимална производителност. Подобрените задни пружини и съответстващите амортисьори увеличават височината на задната част с приблизително 30 мм при натоварване, осигурявайки по-голяма стабилност, отличен контрол на товара и подобрено управление при теглене или превоз на тежки товари. При движение без товар може да се получи по-твърдо усещане при шофиране. За променливи условия на натоварване се предлага алтернативен комплект въздушни възглавници за гъвкава настройка.</p>
+
+  <h2>Основни характеристики</h2>
+  <ul>
+    <li>Комплект за тежки условия при минимално натоварване</li>
+    <li>Подобрена способност за превоз на товари и теглене</li>
+    <li>Пружини от най-висок клас</li>
+    <li>Подобрени амортисьори за по-голяма стабилност и контрол върху товара</li>
+  </ul>
+
+  <h2>Монтаж и технически спецификации</h2>
+  <ul>
+    <li>Необходимо задно натоварване: минимум 350 кг</li>
+    <li>Увеличение на височината на задната част: приблизително 30 мм при натоварване от 350 кг</li>
+    <li>Компоненти: Подобрени задни пружини и усъвършенствани амортисьори</li>
+    <li>Монтаж: Пряка замяна на фабричните компоненти чрез завинтване, без да се изискват допълнителни модификации на автомобила</li>
+    <li>След монтажа: Препоръчва се професионално регулиране на колелата за оптимизиране на управляемостта и износването на гумите</li>
+    <li>Гаранция: 2 години / 40 000 км / 25 000 мили</li>
+  </ul>
+</body>
+</html>]]></description>
     <category>Комплекти окачване</category>
     <sub_category>Комплекти</sub_category>
     <manufacturer>Pedders</manufacturer>
@@ -211971,7 +211950,39 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>803515</sku>
     <barcode></barcode>
     <title>Pedders 45mm Лифт комплект. Dodge Ram 1500. 2009-2018</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p><!DOCTYPE html><html lang="en"><head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0"/> <title>Комплект за повдигане Pedders 45 мм за Dodge Ram 1500 | Подобрено управление и просвет</title> <meta name="description" content="Pedders 45mm lift kit for Dodge Ram 1500 (2018-2019) enhances ground clearance and handling with premium springs and uprated shocks." /> <meta name="robots" content="index,follow"/></head><body><h1>Комплект за повдигане Pedders 45 мм за Dodge Ram 1500 (2018-2019)</h1><p>Този комплект за повдигане с 45 мм от Pedders повдига окачването на Dodge Ram 1500 за по-голям просвет и по-агресивен вид. Той е проектиран да подобри управляемостта и стабилността, като същевременно позволява монтажа на по-големи джанти и гуми.</p><h2>Основни характеристики</h2><ul><li>Приблизително повдигане с 45 мм отпред и отзад</li><li>Подобрено управление и стабилност</li><li>Пружини от най-високо качество</li><li>Подобрени амортисьори за по-добра стабилност и контрол при натоварване</li><li>Гаранция 2 години / 40 000 км / 25 000 мили</li></ul><h2>Общ преглед на продукта</h2><p>Този комплект включва специално проектирани пружини за повдигане и амортисьори Pedders Trakryder за повдигане и стабилизиране на автомобила. Идеален за ежедневно шофиране и офроуд употреба, той подобрява стабилността на автомобила и позволява монтаж на по-големи комплекти колела и гуми. Височините на повдигане са изчислени за стандартна спецификация на автомобила; допълнително оборудване като лебедки или предни решетки може да повлияе на крайната височина и да наложи използването на алтернативни пружини.</p><h2>Технология и материали</h2><p>Комплектът използва пружини от най-високо качество, съчетани с усъвършенствани амортисьори, проектирани да поддържат стабилност и да подобрят контрола при натоварване, като осигуряват постоянни експлоатационни характеристики на автомобила както на път, така и извън него.</p><h2>Монтаж и съвместимост</h2><p>Компонентите заменят оригиналните части на окачването и не са необходими други модификации на автомобила. След монтажа е задължително да се извърши регулиране на колелата, за да се коригират ъглите на окачването. Моля, свържете се с Pedders, ако автомобилът Ви има допълнително тегло или аксесоари, които могат да повлияят на височината на каросерията, тъй като може да са необходими различни пружини.</p><p>Този комплект е подходящ за подобряване на комфорта при шофиране и управляемостта при умерени изисквания за повдигане.</p><h2>Технически спецификации</h2><ul><li>Повдигане отпред: Приблизително 45 мм по-високо от стандартното</li><li>Повдигане на задната част: Приблизително 45 мм по-високо от стандартното</li><li>Включва специално проектирани пружини и усъвършенствани амортисьори</li><li>Съвместимост: Dodge Ram 1500 2018–2019</li><li>Препоръчва се регулиране на колелата след монтажа</li></ul><p><em>Височината на повдигането може да варира в зависимост от допълнителното оборудване на автомобила, като лебедки, предни решетки или значителен заден товар; в тези случаи може да се наложи използването на алтернативни пружини.</em></p><h2>Защо да изберете този комплект</h2><ul><li>Съвместими компоненти, проектирани да подобрят стабилността и контрола върху натоварването</li><li>Доказано решение за окачване от Pedders с гаранция 2 години / 40 000 км / 25 000 мили</li><li>Лесна замяна на оригиналните части на окачването чрез завинтване</li><li>Поддържа монтаж на по-големи джанти и гуми</li></ul></body></html>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Комплект за повдигане Pedders 45 мм за Dodge Ram 1500 (2018–2019) | Подобрено управление и просвет</title>
+  <meta name="description" content="Pedders 45mm lift kit for Dodge Ram 1500 (2018-2019) enhances ground clearance and handling with premium springs and uprated shocks." />
+  <meta name="robots" content="index,follow"/>
+</head>
+<body>
+  <h1>Комплект за повдигане Pedders 45 мм за Dodge Ram 1500 (2018-2019)</h1>
+  
+  <p>Този комплект за повдигане с 45 мм включва специално проектирани пружини за повдигане и амортисьори Pedders Trakryder, които увеличават клиренса, оптимизират стабилността на автомобила и подобряват управляемостта и стабилността както на път, така и извън него. Той позволява монтаж на по-големи комплекти колела и гуми, без да са необходими допълнителни модификации на автомобила.</p>
+
+  <h2>Основни характеристики</h2>
+  <ul>
+    <li>Приблизително повдигане с 45 мм отпред и отзад</li>
+    <li>Подобрено управление и стабилност</li>
+    <li>Пружини от най-високо качество</li>
+    <li>Подобрени амортисьори за по-голяма стабилност и контрол при натоварване</li>
+  </ul>
+
+  <h2>Монтаж и технически спецификации</h2>
+  <ul>
+    <li>Повдигане отпред: Приблизително 45 мм по-високо от стандартното</li>
+    <li>Повдигане на задната част: Приблизително 45 мм по-високо от стандартното</li>
+    <li>Компоненти: Специално проектирани пружини за повдигане и подобрени амортисьори Pedders Trakryder</li>
+    <li>Монтаж: Директна замяна на оригиналните компоненти на окачването чрез закрепване с болтове, без да са необходими модификации на автомобила</li>
+    <li>След монтажа: Необходимо е професионално регулиране на колелата за коригиране на ъглите на окачването</li>
+    <li>Гаранция: 2 години / 40 000 км / 25 000 мили</li>
+  </ul>
+</body>
+</html>]]></description>
     <category>Комплекти окачване</category>
     <sub_category>Комплекти</sub_category>
     <manufacturer>Pedders</manufacturer>
@@ -216910,35 +216921,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </model>
       </brand>
     </brands>
-  </product>
-  <product>
-    <id>803297Old</id>
-    <product_code>803297Old</product_code>
-    <sku>803297Old</sku>
-    <barcode></barcode>
-    <title>Pedders - strut parts - LHS</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><div class="prd-desc-wrapper">	<div class="prd-desc-sub-wrap">		<h2 class="prd-desc-title">Комплект за монтаж на амортисьори Pedders – лява страна</h2>		<p class="prd-desc-body">Всички части, от които може да се нуждаете при подмяна на пружини и амортисьори<br>Комплектът за монтаж на амортисьори Pedders включва всички части, необходими при подмяна на пружини или амортисьори на вашия Subaru.</p>		<h3 class="prd-desc-key-feats">Основни характеристики</h3>		<ul class="prd-desc-list">			<li>Качествени компоненти, които ще възстановят окачването на вашия автомобил до състоянието „като ново“.</li>			<li>Конкурентна цена в сравнение с оригиналните части.</li>			<li>Всичко това е подкрепено от нашата 2-годишна гаранция или 40 000 км</li>		</ul>		<h3 class="prd-desc-info">Информация за височината на автомобила</h3>		<p class="prd-desc-info-txt">Предна част: 25-30 мм по-ниска от стандартната<br>Задна част: 25-30 мм по-ниска от стандартната.<br>Забележки: Височините трябва да се измерват, както е показано на втората снимка.</p>		<h3 class="prd-desc-info">Съдържание на комплект 803297 (номера на частите на Pedders)</h3>		<p class="prd-desc-info-txt">PSA6802109001 – Ударник<br>PSA6708024401 – Ботуш<br>PSAB720150032L – Горно закрепване лява страна<br>PSA6621182201 – Горна пружинна изолация<br>PSA6621272201 – Долна пружинна изолация</p>	</div></div>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>146.00</price>
-    <old_price></old_price>
-    <weight>3.00</weight>
-    <quantity>0</quantity>
-    <images>
-      <image>https://3cerp.eu/api/file/803297_4.jpg</image>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Pedders - strut parts - LHS</meta_title>
-    <meta_description>Pedders - strut parts - LHS</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
   </product>
   <product>
     <id>803297</id>
@@ -288874,35 +288856,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     </brands>
   </product>
   <product>
-    <id>6800428M</id>
-    <product_code>6800428M</product_code>
-    <sku>6800428M</sku>
-    <barcode>6800428M</barcode>
-    <title>Pedders Спирачни накладки (Mine Spec)</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><div ><div >Спирачни накладки Pedders</div></div>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>101.00</price>
-    <old_price></old_price>
-    <weight>3.00</weight>
-    <quantity>0</quantity>
-    <images>
-      <image>https://3cerp.eu/api/file/pedders-logo.png</image>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Pedders Спирачни накладки (Mine Spec)</meta_title>
-    <meta_description>Pedders Спирачни накладки (Mine Spec)</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
-  </product>
-  <product>
     <id>6800428</id>
     <product_code>6800428</product_code>
     <sku>6800428</sku>
@@ -292523,6 +292476,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <weight>1.50</weight>
     <quantity>0</quantity>
     <images>
+      <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
     <tags>Pedders</tags>
     <meta_title>Pedders SportsRyder EURO Kevlar Ceramic Pads</meta_title>
@@ -292551,6 +292505,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <weight>1.10</weight>
     <quantity>2</quantity>
     <images>
+      <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
     <tags>Pedders</tags>
     <meta_title>Pedders SportsRyder EURO Kevlar Ceramic Pads</meta_title>
@@ -294364,6 +294319,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <weight>1.80</weight>
     <quantity>2</quantity>
     <images>
+      <image>https://3cerp.eu/api/file/6720073E.webp</image>
     </images>
     <tags>Pedders, BMW, 5 Series 520D, F10, Sedan (2010-2013), 5 Series 520D, F11, Wagon (2010-Onward), 5 Series 520i, F10, Sedan (2011-Onward), 5 Series 528i, F10, Sedan (2010-Onward), 5 Series 530D, F07 F10 Hatch &amp; Sedan (2010-Onward)</tags>
     <meta_title>Pedders SportsRyder EURO Kevlar Ceramic Pads</meta_title>
@@ -294595,7 +294551,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <weight>1.20</weight>
     <quantity>2</quantity>
     <images>
-      <image>https://3cerp.eu/api/file/6720069Ed.JPG</image>
+      <image>https://3cerp.eu/api/file/6720069E.webp</image>
     </images>
     <tags>Pedders, BMW, 5 Series 520D, F10, Sedan (2010-2013), 5 Series 520D, F11, Wagon (2010-Onward), 5 Series 520i, F10, Sedan (2011-Onward), 5 Series 528i, F10, Sedan (2010-Onward), 5 Series 530D, F07 F10 Hatch &amp; Sedan (2010-Onward)</tags>
     <meta_title>Pedders SportsRyder EURO Kevlar Ceramic Pads</meta_title>
@@ -355427,7 +355383,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <id>540501</id>
     <product_code>540501</product_code>
     <sku>540501</sku>
-    <barcode>93157264732839315726473283</barcode>
+    <barcode>9341150051520</barcode>
     <title>Pedders Rubber Силентблок</title>
     <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><div ><div>Комплект за монтаж Trakryder</div></div>]]></description>
     <category>Силентблокове</category>
@@ -371601,35 +371557,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     </brands>
   </product>
   <product>
-    <id>512103</id>
-    <product_code>512103</product_code>
-    <sku>512103</sku>
-    <barcode>9341150075625</barcode>
-    <title>Pedders Swivel Hub Premium Rebuild Kit (SH3) (complete axle kit) - NLA</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p>ВЕЧЕ НЕ СЕ ПРЕДЛАГА]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>130.00</price>
-    <old_price></old_price>
-    <weight>1.20</weight>
-    <quantity>0</quantity>
-    <images>
-      <image>https://3cerp.eu/api/file/pedders-logo.png</image>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Pedders Swivel Hub Premium Rebuild Kit (SH3) (complete axle kit) - NLA</meta_title>
-    <meta_description>Pedders Swivel Hub Premium Rebuild Kit (SH3) (complete axle kit) - NLA</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
-  </product>
-  <product>
     <id>512005</id>
     <product_code>512005</product_code>
     <sku>512005</sku>
@@ -380984,64 +380911,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     </category_properties>
   </product>
   <product>
-    <id>494086</id>
-    <product_code>494086</product_code>
-    <sku>494086</sku>
-    <barcode>9341150058871</barcode>
-    <title>11/17 superseded by 494099 Pedders Air Assist Bellow Kit</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><p>Системата „Air Assist Bellows“ на Pedders подобрява теглителната способност на автомобила, както и компенсира лекото провисване на задната част, свързано с превозването на товар. Системата „Air Assist Bellows“ също така ограничава „допирането до земята“, причинено от товара или при движение по неравен и неравен терен. Препоръчва се монтажът на резервни листови ресори, ако те показват признаци на износване, изразяващи се в значително провисване.</p><p>Важно е да се отбележи, че продуктите Pedders Air Assist НЕ увеличават брутното тегло на превозното средство.</p><h3>Характеристики и предимства</h3><ul><li>Изключителна товароносимост</li><li>Способност да се справя с големи промени в натоварването</li><li>Подпомагане при натоварване</li><li>Ограничава допирането до земята при натоварване</li><li>Поддържа комфортно шофиране</li></ul>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>680.00</price>
-    <old_price></old_price>
-    <weight>7.53</weight>
-    <quantity>0</quantity>
-    <images>
-      <image>https://3cerp.eu/api/file/494086_4.jpg</image>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>11/17 superseded by 494099 Pedders Air Assist Bellow Kit</meta_title>
-    <meta_description>11/17 superseded by 494099 Pedders Air Assist Bellow Kit</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
-  </product>
-  <product>
-    <id>494084</id>
-    <product_code>494084</product_code>
-    <sku>494084</sku>
-    <barcode>9341150054866</barcode>
-    <title>Pedders Air Assist Bellow Kit - NO LONGER AVAILABLE (please use 494105)</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><p>Системата „Air Assist Bellows“ на Pedders подобрява теглителната способност на автомобила, както и компенсира лекото провисване на задната част, свързано с превозването на товар. Системата „Air Assist Bellows“ също така ограничава „допирането до земята“, причинено от товара или при движение по неравен и неравен терен. Препоръчва се монтажът на резервни листови ресори, ако те показват признаци на износване, изразяващи се в значително провисване.</p><p>Важно е да се отбележи, че продуктите Pedders Air Assist НЕ увеличават брутното тегло на превозното средство.</p><h3>Характеристики и предимства</h3><ul><li>Изключителна товароносимост</li><li>Способност да се справя с големи промени в натоварването</li><li>Подпомагане при натоварване</li><li>Ограничава допирането до земята при натоварване</li><li>Поддържа комфортно шофиране</li></ul>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>679.00</price>
-    <old_price></old_price>
-    <weight>7.28</weight>
-    <quantity>0</quantity>
-    <images>
-      <image>https://3cerp.eu/api/file/494084_4.jpg</image>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Pedders Air Assist Bellow Kit - NO LONGER AVAILABLE (please use 494105</meta_title>
-    <meta_description>Pedders Air Assist Bellow Kit - NO LONGER AVAILABLE (please use 494105)</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
-  </product>
-  <product>
     <id>494081</id>
     <product_code>494081</product_code>
     <sku>494081</sku>
@@ -382062,35 +381931,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <tags>Pedders</tags>
     <meta_title>Pedders Air Assist Bellow Kit</meta_title>
     <meta_description>Pedders Air Assist Bellow Kit</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
-  </product>
-  <product>
-    <id>494042</id>
-    <product_code>494042</product_code>
-    <sku>494042</sku>
-    <barcode>9341150017175</barcode>
-    <title>Pedders Air Assist Bellow Kit - No longer available</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><p>Системата „Air Assist Bellows“ на Pedders подобрява теглителната способност на автомобила, както и компенсира лекото провисване на задната част, свързано с превозването на товар. Системата „Air Assist Bellows“ също така ограничава „допирането до земята“, причинено от товара или при движение по неравен и неравен терен. Препоръчва се монтажът на резервни листови ресори, ако те показват признаци на износване, изразяващи се в значително провисване.</p><p>Важно е да се отбележи, че продуктите Pedders Air Assist НЕ увеличават брутното тегло на превозното средство.</p><h3>Характеристики и предимства</h3><ul><li>Изключителна товароносимост</li><li>Способност да се справя с големи промени в натоварването</li><li>Подпомагане при натоварване</li><li>Ограничава допирането до земята при натоварване</li><li>Поддържа комфортно шофиране</li></ul>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>903.00</price>
-    <old_price></old_price>
-    <weight>13.93</weight>
-    <quantity>0</quantity>
-    <images>
-      <image>https://3cerp.eu/api/file/494042.jpg</image>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Pedders Air Assist Bellow Kit - No longer available</meta_title>
-    <meta_description>Pedders Air Assist Bellow Kit - No longer available</meta_description>
     <category_properties>
       <category_property name="Срок за доставка">
         <values><value><name>уточнява се</name></value></values>
@@ -389239,34 +389079,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </model>
       </brand>
     </brands>
-  </product>
-  <product>
-    <id>439013</id>
-    <product_code>439013</product_code>
-    <sku>439013</sku>
-    <barcode>9341150083705</barcode>
-    <title>Pedders Xtreme Носачs (pair)</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><h3>Горни носачи TrakRyder eXtreme</h3><p>Гамата TrakRyder eXtreme горни рамена на Pedders е проектирана да разреши проблемите, свързани с независимото предно окачване на повдигнати автомобили, и е изработена от тръби от въглеродна стомана за оптимална здравина и издръжливост.</p><p>Когато автомобилът е повдигнат, това може да наруши фабрично зададената геометрия на кормилното управление, което може да доведе до ъгли на кастер и камбер извън спецификациите на производителя. Този продукт е проектиран да поддържа желаната геометрия за повдигнати автомобили, като същевременно осигурява клиренс за по-големи размери на колела и гуми.</p><h3>Характеристики и предимства</h3><ul><li>Проектирани да приемат фабрични и нефабрични шайби и втулки, ако е необходимо.<li><li>Уникално профилиран преден крак за по-голям клиренс при по-големи колела и гуми.<li><li>По-голям клиренс на амортисьора/опората за по-голям ход на колелото.<li><li>Наклонен корпус на чашката на шаровия шарнир, проектиран да работи с допълнителния ход, което позволява подобрена артикулация на шарнира.<li><li>Произведено от висококачествена тръба от въглеродна стомана с черно E Coat покритие, за да осигури по-голяма здравина и издръжливост в сравнение с оригиналния дизайн.<li><li>Проектиран да възстанови приемливи ъгли на геометрията чрез препозициониране на горната шайба, което намалява износването на гумите.<li><li>Механична шайба за тежки натоварвания, подходяща за смазване. Защитена с капачка от сплав, проектирана да предпазва смазочния нипел.<li><li>Всичко това е подкрепено от нашата 2-годишна гаранция / 25 000 мили<li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></ul>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>567.00</price>
-    <old_price></old_price>
-    <weight>8.00</weight>
-    <quantity>0</quantity>
-    <images>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Pedders Xtreme Носачs (pair)</meta_title>
-    <meta_description>Pedders Xtreme Носачs (pair)</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
   </product>
   <product>
     <id>439012</id>
@@ -418254,34 +418066,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </model>
       </brand>
     </brands>
-  </product>
-  <product>
-    <id>424279</id>
-    <product_code>424279</product_code>
-    <sku>424279</sku>
-    <barcode>9341150050554</barcode>
-    <title>Pedders Stabilizer Link - NO LONGER AVAILABLE</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><p>Стабилизаторът е по същество торсионна пръчка, която се монтира напречно на автомобила и е предназначена да намалява страничното люлеене. Стабилизаторът постига това, като прехвърля движението от едната страна на окачването към другата. Това става чрез свързване на торсионната пръчка с всяка страна на моста посредством гъвкави връзки, наречени връзки на стабилизатора.</p><h3>Характеристики и предимства</h3><ul><li>Капсулиран шарови съединител</li><li>Конструкция за тежки натоварвания</li><li>Директно OE монтиране</li></ul>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>35.00</price>
-    <old_price></old_price>
-    <weight>0.75</weight>
-    <quantity>0</quantity>
-    <images>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Pedders Stabilizer Link - NO LONGER AVAILABLE</meta_title>
-    <meta_description>Pedders Stabilizer Link - NO LONGER AVAILABLE</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
   </product>
   <product>
     <id>424278</id>
@@ -452051,34 +451835,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     </brands>
   </product>
   <product>
-    <id>35075</id>
-    <product_code>35075</product_code>
-    <sku>35075</sku>
-    <barcode></barcode>
-    <title>Camber Shim Kit (1 Kit Per Side). NO LONGER AVAILABLE</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><div ><div >Комплект подложки за камбер (1 комплект за всяка страна).</div></div>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>96.00</price>
-    <old_price></old_price>
-    <weight>0.75</weight>
-    <quantity>0</quantity>
-    <images>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Camber Shim Kit (1 Kit Per Side). NO LONGER AVAILABLE</meta_title>
-    <meta_description>Camber Shim Kit (1 Kit Per Side). NO LONGER AVAILABLE</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
-  </product>
-  <product>
     <id>350125</id>
     <product_code>350125</product_code>
     <sku>350125</sku>
@@ -465729,35 +465485,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </model>
       </brand>
     </brands>
-  </product>
-  <product>
-    <id>290129</id>
-    <product_code>290129</product_code>
-    <sku>290129</sku>
-    <barcode></barcode>
-    <title>Pedders Trakryder Винтова пружина. NO LONGER AVAILABLE</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><h3>Спирални пружини Pedders</h3><p>Спиралните пружини Pedders са премиум гамата спирални пружини на Pedder за многобройни приложения. Произведени съгласно стандартите ISO 9001 с толеранс от само +/-2 мм при височина под натоварване. Спиралните пружини Pedders са просто без конкуренция по отношение на управляемост, външен вид на автомобила и производителност. Проектирането и производството на спирални пружини е занаят, който изисква стриктно спазване на серия от строги процедури, всички от които са от решаващо значение за производителността на крайния продукт.</p><p>Твърдостта на пружината трябва да съответства на теглото на автомобила, който се опира върху нея, както и на теглото на останалите компоненти на окачването и колелото. Твърдостта на пружината контролира също така твърдостта при накланяне, или накланянето на каросерията. Чрез намаляване на накланянето на каросерията намаляваме степента на промяна на камбера на колелата. Голяма промяна на камбера може драстично да намали контакта на гумата с пътната повърхност, което сериозно ограничава потенциала за управляемост при завиване.</p><p>Управляемостта на повечето автомобили се подобрява значително чрез увеличаване на оригиналната твърдост на пружината до оптимална стойност, която максимизира сцеплението на гумите и намалява накланянето на каросерията за по-добра управляемост. Увеличаването на твърдостта на пружината над оптималната стойност намалява потенциала за управляемост, тъй като гумите започват да прескачат неравностите, което намалява сцеплението и безопасността.</p><h3>Характеристики и предимства</h3><ul><li>Горещо навиване</li><li>Закаляване с масло</li><li>Темпериране в пещ</li><li>Броялно укрепване</li><li>Скрагинг</li><li>Изпитване на височина и скорост при натоварване</li><li>Прахово боядисване и опаковане</li></ul>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>107.00</price>
-    <old_price></old_price>
-    <weight>7.80</weight>
-    <quantity>0</quantity>
-    <images>
-      <image>https://3cerp.eu/api/file/290129_3.jpg</image>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Pedders Trakryder Винтова пружина. NO LONGER AVAILABLE</meta_title>
-    <meta_description>Pedders Trakryder Винтова пружина. NO LONGER AVAILABLE</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
   </product>
   <product>
     <id>290108</id>
@@ -492626,35 +492353,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </model>
       </brand>
     </brands>
-  </product>
-  <product>
-    <id>25540</id>
-    <product_code>25540</product_code>
-    <sku>25540</sku>
-    <barcode>25540</barcode>
-    <title>Pedders Носач (Pair)</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><p>Рамената на окачването на Pedders са проектирани с подобрения спрямо оригиналния дизайн на продукта. Тези подобрения включват подсилено коване, усъвършенстван дизайн на шаровите шарнири и по-издръжливи втулки, които осигуряват по-добри експлоатационни характеристики, по-дълъг експлоатационен живот и по-голямо доверие от страна на клиентите.</p><h3>Характеристики и предимства</h3><ul><li>Висококачествена, пряка замяна на оригиналните части.</li><li>Проектирани за лесен монтаж и спестяване на време за монтажника.</li><li>Позволяват бърза замяна и лесно регулиране.</li><li>Чисто покритие на продукта за усещане „като ново“.</li><li>Възстановява геометрията на изравняването по-бързо.</li></ul>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>1058.00</price>
-    <old_price></old_price>
-    <weight>10.00</weight>
-    <quantity>0</quantity>
-    <images>
-      <image>https://3cerp.eu/api/file/25540_4.jpg</image>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Pedders Носач (Pair)</meta_title>
-    <meta_description>Pedders Носач (Pair)</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
   </product>
   <product>
     <id>2553</id>
@@ -548293,35 +547991,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     </brands>
   </product>
   <product>
-    <id>154338</id>
-    <product_code>154338</product_code>
-    <sku>154338</sku>
-    <barcode>9341150059649</barcode>
-    <title>Trakryder Foam Cell Пружина Seat - No Longer Available</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><h3>Амортисьор TrakRyder с пяна</h3><p>Амортисьорът TrakRyder с пяна осигурява по-големи охлаждащи площи, за да подобри работата и издръжливостта на амортисьора, като позволява пълен контакт на маслото както с вътрешния, така и с външния корпус. Технологията с пяна, използвана в амортисьора Pedders TrakRyder, практически елиминира износването на амортисьора, като премахва смесването на маслото и въздуха, което осигурява оптимален контрол на амортизацията при всички условия. Диаметърът на цилиндъра и буталото от 40 mm е значително по-голям от този на оригиналното оборудване и осигурява значително увеличен капацитет на маслото за по-добро шофиране.</p><h3>Технология с пяна TrakRyder амортисьори</h3><ul><li>Изключително голям диаметър от 40 mm с технология с пяна с клетъчна структура.</li><li>Усилени двойно заварени монтажни елементи.</li><li>Здрав многофункционален дизайн.</li><li>Идеални за офроуд употреба, превоз на товари и теглене.</li><li>Всеки амортисьор е тестван на динамометричен стенд.</li><li>Технология за издръжлива конструкция с двойна тръба.</li><li>Подходящ за популярните 4X4 и SUV.</li><li>Хидравличен буфер „Top Out“.</li><li>Бутало от синтерирана стомана с еднокомпонентна тефлонова лента.</li></ul><br>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>188.00</price>
-    <old_price></old_price>
-    <weight>5.02</weight>
-    <quantity>0</quantity>
-    <images>
-      <image>https://3cerp.eu/api/file/154338_5.jpg</image>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Trakryder Foam Cell Пружина Seat - No Longer Available</meta_title>
-    <meta_description>Trakryder Foam Cell Пружина Seat - No Longer Available</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
-  </product>
-  <product>
     <id>154331</id>
     <product_code>154331</product_code>
     <sku>154331</sku>
@@ -591272,64 +590941,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </model>
       </brand>
     </brands>
-  </product>
-  <product>
-    <id>122311</id>
-    <product_code>122311</product_code>
-    <sku>122311</sku>
-    <barcode>9341150019483</barcode>
-    <title>Pedders Амортисьор - NO LONGER AVAILABLE - replaced by 122378</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><h3>Амортисьори Pedders</h3><p>Оригиналните амортисьори за подмяна на Pedders предлагат първокласни характеристики на движение.</p><p>Амортисьорите за подмяна на Pedders са идеална алтернатива за шофьорите, които се съобразяват с бюджета си и просто искат да върнат на автомобила първоначалните му качества на движение и управление. Въпреки това, допълнителните функции придават на нашите амортисьори Pedders характеристики, сходни с тези на висококачествените газови амортисьори, на по-достъпна цена.</p><h3>Характеристики и предимства</h3><ul><li>Директно OEM монтиране</li><li>Прецизно настроени клапани за шофиране като в нов автомобил</li><li>Качествена конструкция и индивидуално тествани</li><li>Заредени с азотен газ</li><li>Всичко това е подкрепено от нашата 2-годишна гаранция или 25 000 мили</li></ul><br>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>100.00</price>
-    <old_price></old_price>
-    <weight>2.28</weight>
-    <quantity>0</quantity>
-    <images>
-      <image>https://3cerp.eu/api/file/122311-0001.jpg</image>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Pedders Амортисьор - NO LONGER AVAILABLE - replaced by 122378</meta_title>
-    <meta_description>Pedders Амортисьор - NO LONGER AVAILABLE - replaced by 122378</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
-  </product>
-  <product>
-    <id>122310</id>
-    <product_code>122310</product_code>
-    <sku>122310</sku>
-    <barcode>9341150019476</barcode>
-    <title>Pedders Амортисьор. NO LONGER AVAILABLE - replaced by 122378</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><h3>Амортисьори Pedders</h3><p>Оригиналните амортисьори за подмяна на Pedders предлагат първокласни характеристики на движение.</p><p>Амортисьорите за подмяна на Pedders са идеална алтернатива за шофьорите, които се съобразяват с бюджета си и просто искат да върнат на автомобила първоначалните му качества на движение и управление. Въпреки това, допълнителните функции придават на нашите амортисьори Pedders характеристики, сходни с тези на висококачествените газови амортисьори, на по-достъпна цена.</p><h3>Характеристики и предимства</h3><ul><li>Директно OEM монтиране</li><li>Прецизно настроени клапани за шофиране като в нов автомобил</li><li>Качествена конструкция и индивидуално тествани</li><li>Заредени с азотен газ</li><li>Всичко това е подкрепено от нашата 2-годишна гаранция или 25 000 мили</li></ul><br>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>104.00</price>
-    <old_price></old_price>
-    <weight>2.29</weight>
-    <quantity>0</quantity>
-    <images>
-      <image>https://3cerp.eu/api/file/122310_4.jpg</image>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Pedders Амортисьор. NO LONGER AVAILABLE - replaced by 122378</meta_title>
-    <meta_description>Pedders Амортисьор. NO LONGER AVAILABLE - replaced by 122378</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
   </product>
   <product>
     <id>122309</id>
