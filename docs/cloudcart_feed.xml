@@ -667,7 +667,7 @@
     <price>78.00</price>
     <old_price></old_price>
     <weight>0.10</weight>
-    <quantity>44</quantity>
+    <quantity>42</quantity>
     <images>
       <image>https://3cerp.eu/api/file/SPAC-SG.webp</image>
     </images>
@@ -221669,7 +221669,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>393.00</price>
     <old_price></old_price>
     <weight>14.54</weight>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803207.webp</image>
       <image>https://3cerp.eu/api/file/803207_1.webp</image>
@@ -230766,7 +230766,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>349.00</price>
     <old_price></old_price>
     <weight>10.96</weight>
-    <quantity>18</quantity>
+    <quantity>17</quantity>
     <images>
       <image>https://3cerp.eu/api/file/800472R.webp</image>
     </images>
@@ -230808,7 +230808,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>349.00</price>
     <old_price></old_price>
     <weight>10.96</weight>
-    <quantity>17</quantity>
+    <quantity>16</quantity>
     <images>
       <image>https://3cerp.eu/api/file/800472L.webp</image>
     </images>
@@ -234440,7 +234440,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>123.00</price>
     <old_price></old_price>
     <weight>4.27</weight>
-    <quantity>34</quantity>
+    <quantity>32</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7867.webp</image>
     </images>
@@ -280576,7 +280576,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>163.00</price>
     <old_price></old_price>
     <weight>1.80</weight>
-    <quantity>136</quantity>
+    <quantity>98</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6821778X.webp</image>
     </images>
@@ -332162,7 +332162,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>294.00</price>
     <old_price></old_price>
     <weight>24.90</weight>
-    <quantity>92</quantity>
+    <quantity>87</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6206.webp</image>
     </images>
@@ -332923,7 +332923,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>254.00</price>
     <old_price></old_price>
     <weight>22.00</weight>
-    <quantity>1419</quantity>
+    <quantity>1390</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6203.webp</image>
     </images>
@@ -392180,14 +392180,14 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>4353</sku>
     <barcode>9341150033403</barcode>
     <title>Trakryder Boot Kit</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p><p>Удърите са предназначени да подобрят комфорта при шофиране, като същевременно предпазват окачването на автомобила. Удърите на Pedders спомагат за предотвратяване на допирането на амортисьорите до дъното, като осигуряват високо ниво на защита и по-дълъг експлоатационен живот на амортисьорите.</p><p>1 амортисьор в опаковка.</p><h3>Характеристики и предимства</h3><ul><li>Директно OE монтиране</li><li>Качествена конструкция</li><li>Лесно монтиране</li></ul>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><p>Удърите са предназначени да подобрят комфорта при шофиране, като същевременно предпазват окачването на автомобила. Удърите на Pedders спомагат за предотвратяване на допирането на амортисьорите до дъното, като осигуряват високо ниво на защита и по-дълъг експлоатационен живот на амортисьорите.</p><p>1 амортисьор в опаковка.</p><h3>Характеристики и предимства</h3><ul><li>Директно OE монтиране</li><li>Качествена конструкция</li><li>Лесно монтиране</li></ul>]]></description>
     <category>Окачване</category>
     <sub_category>Other</sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>17.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>24</quantity>
+    <quantity>22</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4353.webp</image>
     </images>
@@ -392203,10 +392203,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>2-7 работни дни</name></value></values>
+        <values><value><name>около 3 седмици</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>Европейски склад</name></value></values>
+        <values><value><name>Заводски склад</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -594280,7 +594280,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>75.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>46</quantity>
+    <quantity>44</quantity>
     <images>
       <image>https://3cerp.eu/api/file/120287.webp</image>
     </images>
