@@ -218482,7 +218482,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>685.00</price>
     <old_price></old_price>
     <weight>22.40</weight>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803284.webp</image>
       <image>https://3cerp.eu/api/file/803284_1.webp</image>
@@ -218527,7 +218527,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>685.00</price>
     <old_price></old_price>
     <weight>22.40</weight>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803283.webp</image>
       <image>https://3cerp.eu/api/file/803283_1.webp</image>
@@ -218837,7 +218837,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>665.00</price>
     <old_price></old_price>
     <weight>17.20</weight>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803278.webp</image>
       <image>https://3cerp.eu/api/file/803278_1.webp</image>
@@ -218882,7 +218882,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>665.00</price>
     <old_price></old_price>
     <weight>17.20</weight>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803277.webp</image>
       <image>https://3cerp.eu/api/file/803277_1.webp</image>
@@ -218935,7 +218935,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>1511.00</price>
     <old_price></old_price>
     <weight>41.44</weight>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803276.webp</image>
       <image>https://3cerp.eu/api/file/803276_1.webp</image>
@@ -218982,7 +218982,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>1511.00</price>
     <old_price></old_price>
     <weight>41.44</weight>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803275.webp</image>
       <image>https://3cerp.eu/api/file/803275_1.webp</image>
@@ -219633,7 +219633,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>690.00</price>
     <old_price></old_price>
     <weight>22.64</weight>
-    <quantity>10</quantity>
+    <quantity>9</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803262.webp</image>
       <image>https://3cerp.eu/api/file/803262_1.webp</image>
@@ -219881,7 +219881,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>690.00</price>
     <old_price></old_price>
     <weight>22.64</weight>
-    <quantity>10</quantity>
+    <quantity>9</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803255.webp</image>
       <image>https://3cerp.eu/api/file/803255_1.webp</image>
@@ -306535,14 +306535,14 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>6621769</sku>
     <barcode>9341150089929</barcode>
     <title>Pedders Спирачни челюсти</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p>Pedders Спирачни челюсти]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p>Pedders Спирачни челюсти]]></description>
     <category>Спирачки</category>
     <sub_category>Rear Brake Shoes</sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>242.00</price>
     <old_price></old_price>
     <weight>4.20</weight>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6621769.webp</image>
     </images>
@@ -306556,10 +306556,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>2-7 работни дни</name></value></values>
+        <values><value><name>около 3 седмици</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>Европейски склад</name></value></values>
+        <values><value><name>Заводски склад</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -553295,7 +553295,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>193.00</price>
     <old_price></old_price>
     <weight>3.40</weight>
-    <quantity>40</quantity>
+    <quantity>38</quantity>
     <images>
       <image>https://3cerp.eu/api/file/151238.webp</image>
     </images>
