@@ -626,7 +626,7 @@
     <images>
       <image>https://3cerp.eu/api/file/STK000001.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD (UK &amp; EU Markets), 1.9lt 4cyl TD (2017-2020), D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD (UK &amp; EU Markets), 1.9lt 4cyl TD (2017-2020), D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders Steering Knuckle Kit - Bump Steer Correction</meta_title>
     <meta_description>Pedders Steering Knuckle Kit - Bump Steer Correction</meta_description>
     <category_properties>
@@ -650,6 +650,7 @@
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -667,7 +668,7 @@
     <price>78.00</price>
     <old_price></old_price>
     <weight>0.10</weight>
-    <quantity>40</quantity>
+    <quantity>38</quantity>
     <images>
       <image>https://3cerp.eu/api/file/SPAC-SG.webp</image>
     </images>
@@ -13191,7 +13192,7 @@
     <price>98.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>9</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PTE9830.webp</image>
     </images>
@@ -34504,7 +34505,7 @@
       <image>https://3cerp.eu/api/file/PEBK06_2.webp</image>
       <image>https://3cerp.eu/api/file/PEBK06_4.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders eXtreme Brake Kit</meta_title>
     <meta_description>Pedders eXtreme Brake Kit</meta_description>
     <category_properties>
@@ -34527,6 +34528,7 @@
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -42854,6 +42856,7 @@
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
           <name>D Max 4WD, 3.0lt 4cyl TD (2008-2012)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
           <name>Rodeo 4WD (2002-2012)</name>
           <name>Trooper LWB (1991-2002)</name>
         </model>
@@ -47468,6 +47471,7 @@
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
           <name>D Max 4WD, 2.5TD (2012-2017)</name>
           <name>D Max 4WD, 3.0lt 4cyl TD (2008-2012)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
       <brand>
@@ -47772,7 +47776,7 @@
     <images>
       <image>https://3cerp.eu/api/file/PBCRK03.webp</image>
     </images>
-    <tags>Pedders, Ford, Ranger PX MK2, 4WD (2015-2018), Ranger PX MK3, 4WD 2.0 Model ONLY (2019-2022), Ranger PX MK3, 4WD 2.2L and 3.2L ONLY (2018-2019), Ranger PX MK3, 4WD 3.2 Wildtrack Model ONLY (2019-Onward), Ranger PX, 4WD (2011-2015), Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), Toyota, Hilux 4WD MK6 GGN25, KUN25R, KUN26R, GGN25, KUN25R, KUN26R (2005-2010), Hilux 4WD MK7 GGN25, KUN25R, KUN26R, GGN25, KUN25R KUN26R (2010-2015)</tags>
+    <tags>Pedders, Ford, Ranger PX MK2, 4WD (2015-2018), Ranger PX MK3, 4WD 2.0 Model ONLY (2019-2022), Ranger PX MK3, 4WD 2.2L and 3.2L ONLY (2018-2019), Ranger PX MK3, 4WD 3.2 Wildtrack Model ONLY (2019-Onward), Ranger PX, 4WD (2011-2015), Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward), Toyota, Hilux 4WD MK6 GGN25, KUN25R, KUN26R, GGN25, KUN25R, KUN26R (2005-2010), Hilux 4WD MK7 GGN25,</tags>
     <meta_title>Brake Caliper Recondition Kit</meta_title>
     <meta_description>Brake Caliper Recondition Kit</meta_description>
     <category_properties>
@@ -47807,6 +47811,7 @@
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
       <brand>
@@ -58270,7 +58275,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>52.00</price>
     <old_price></old_price>
     <weight>0.14</weight>
-    <quantity>197</quantity>
+    <quantity>196</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP8416.webp</image>
       <image>https://3cerp.eu/api/file/EP8416_2.webp</image>
@@ -58972,6 +58977,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
           <name>D Max 4WD, 2.5TD (2012-2017)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
       <brand>
@@ -62797,6 +62803,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
           <name>D Max 4WD, 2.5TD (2012-2017)</name>
           <name>D Max 4WD, 3.0lt 4cyl TD (2008-2012)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
           <name>Rodeo 4WD (2002-2012)</name>
         </model>
       </brand>
@@ -80040,6 +80047,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
           <name>D Max 4WD, 2.5TD (2012-2017)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -80867,6 +80875,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
           <name>D Max 4WD, 2.5TD (2012-2017)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -102499,7 +102508,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
       <image>https://3cerp.eu/api/file/EP1013_2.webp</image>
       <image>https://3cerp.eu/api/file/EP1013_3.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Urethane Листова пружина Upper Shackle Силентблок (4 PKT)</meta_title>
     <meta_description>Urethane Листова пружина Upper Shackle Силентблок (4 PKT)</meta_description>
     <category_properties>
@@ -102522,6 +102531,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -104845,6 +104855,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
           <name>D Max 4WD, 2.5TD (2012-2017)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -108123,7 +108134,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>280.00</price>
     <old_price></old_price>
     <weight>1.55</weight>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/495097.webp</image>
     </images>
@@ -123751,7 +123762,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/9528.webp</image>
     </images>
-    <tags>Pedders, Cadillac, Deville (1965-1976), Chevrolet, Blazer C20 &amp; C30, Wagon (1971-1991), Ford, F Series F350 4wd (1982-Onward), Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), Mitsubishi, L200 4WD, MH (T/Bar Frt) (1986-1991), L200 4WD, MJ (T/Bar Frt) (1991-1996), Nissan, Mistral KR20 (1993-Onward), Pathfinder WD21 (1986-1995), Terrano D21 (1986-1995), Terrano ll R20 (1997-2000), Toyota, Hilux 4WD MK1 LN36-46 &amp; RN36-46 (1979-19</tags>
+    <tags>Pedders, Cadillac, Deville (1965-1976), Chevrolet, Blazer C20 &amp; C30, Wagon (1971-1991), Ford, F Series F350 4wd (1982-Onward), Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward), Mitsubishi, L200 4WD, MH (T/Bar Frt) (1986-1991), L200 4WD, MJ (T/Bar Frt) (1991-1996), Nissan, Mistral KR20 (1993-Onward), Pathfinder WD21 (1986-1995), Terrano D21 (1986-1995), Terrano ll R20 (1997-2000),</tags>
     <meta_title>Pedders Trakryder Foam Cell Shock</meta_title>
     <meta_description>Pedders Trakryder Foam Cell Shock</meta_description>
     <category_properties>
@@ -123793,6 +123804,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
       <brand>
@@ -142969,7 +142981,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>213.00</price>
     <old_price></old_price>
     <weight>6.10</weight>
-    <quantity>14</quantity>
+    <quantity>13</quantity>
     <images>
       <image>https://3cerp.eu/api/file/8985R.webp</image>
     </images>
@@ -143062,7 +143074,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>213.00</price>
     <old_price></old_price>
     <weight>6.10</weight>
-    <quantity>28</quantity>
+    <quantity>27</quantity>
     <images>
       <image>https://3cerp.eu/api/file/8985L.webp</image>
     </images>
@@ -176721,7 +176733,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/827330.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders EziFit Adjustable Foam Cell Амортисьорна стойка (290071)</meta_title>
     <meta_description>Pedders EziFit Adjustable Foam Cell Амортисьорна стойка (290071)</meta_description>
     <category_properties>
@@ -176744,6 +176756,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -177042,7 +177055,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/827230.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders EziFit Adjustable Foam Cell Амортисьорна стойка (280071)</meta_title>
     <meta_description>Pedders EziFit Adjustable Foam Cell Амортисьорна стойка (280071)</meta_description>
     <category_properties>
@@ -177065,6 +177078,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -177367,7 +177381,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/827217.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders EziFit Adjustable Foam Cell Амортисьорна стойка (280157)</meta_title>
     <meta_description>Pedders EziFit Adjustable Foam Cell Амортисьорна стойка (280157)</meta_description>
     <category_properties>
@@ -177390,6 +177404,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -187507,7 +187522,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/807330.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders EziFit Foam Амортисьорна стойка (290071)</meta_title>
     <meta_description>Pedders EziFit Foam Амортисьорна стойка (290071)</meta_description>
     <category_properties>
@@ -187530,6 +187545,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -188732,7 +188748,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/807230.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders EziFit Foam Амортисьорна стойка (280071)</meta_title>
     <meta_description>Pedders EziFit Foam Амортисьорна стойка (280071)</meta_description>
     <category_properties>
@@ -188755,6 +188771,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -188800,7 +188817,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/807228.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders EziFit Foam Амортисьорна стойка (280157)</meta_title>
     <meta_description>Pedders EziFit Foam Амортисьорна стойка (280157)</meta_description>
     <category_properties>
@@ -188823,6 +188840,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -189946,7 +189964,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>436.00</price>
     <old_price></old_price>
     <weight>10.70</weight>
-    <quantity>38</quantity>
+    <quantity>36</quantity>
     <images>
       <image>https://3cerp.eu/api/file/807204.webp</image>
     </images>
@@ -215394,7 +215412,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>665.00</price>
     <old_price></old_price>
     <weight>8.35</weight>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803263.webp</image>
       <image>https://3cerp.eu/api/file/803263_1.webp</image>
@@ -215602,7 +215620,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>740.00</price>
     <old_price></old_price>
     <weight>8.35</weight>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803258.webp</image>
       <image>https://3cerp.eu/api/file/803258_1.webp</image>
@@ -220110,7 +220128,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>1713.00</price>
     <old_price></old_price>
     <weight>50.27</weight>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803172.webp</image>
       <image>https://3cerp.eu/api/file/803172_1.webp</image>
@@ -223812,7 +223830,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>1430.00</price>
     <old_price></old_price>
     <weight>49.25</weight>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/803080.webp</image>
       <image>https://3cerp.eu/api/file/803080_1.webp</image>
@@ -227701,7 +227719,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>349.00</price>
     <old_price></old_price>
     <weight>10.96</weight>
-    <quantity>16</quantity>
+    <quantity>15</quantity>
     <images>
       <image>https://3cerp.eu/api/file/800472R.webp</image>
     </images>
@@ -227743,7 +227761,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>349.00</price>
     <old_price></old_price>
     <weight>10.96</weight>
-    <quantity>15</quantity>
+    <quantity>14</quantity>
     <images>
       <image>https://3cerp.eu/api/file/800472L.webp</image>
     </images>
@@ -232532,7 +232550,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>150.00</price>
     <old_price></old_price>
     <weight>9.53</weight>
-    <quantity>179</quantity>
+    <quantity>178</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7852R.webp</image>
     </images>
@@ -232623,7 +232641,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>150.00</price>
     <old_price></old_price>
     <weight>9.45</weight>
-    <quantity>197</quantity>
+    <quantity>196</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7852L.webp</image>
     </images>
@@ -235000,7 +235018,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/78-0003.jpg</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Silencing Block without Nyloc Nut</meta_title>
     <meta_description>Silencing Block without Nyloc Nut</meta_description>
     <category_properties>
@@ -235023,6 +235041,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -249010,7 +249029,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>124.00</price>
     <old_price></old_price>
     <weight>4.62</weight>
-    <quantity>48</quantity>
+    <quantity>46</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7469.webp</image>
     </images>
@@ -274928,7 +274947,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/70-0003.jpg</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Nut - Nyloc M10 x 1.25 Suits 78-0003</meta_title>
     <meta_description>Nut - Nyloc M10 x 1.25 Suits 78-0003</meta_description>
     <category_properties>
@@ -274951,6 +274970,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -280420,7 +280440,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
       <image>https://3cerp.eu/api/file/6820201X_2.webp</image>
       <image>https://3cerp.eu/api/file/6820201X_3.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders TrakRyder eXtreme Kevlar Ceramic Спирачни накладки</meta_title>
     <meta_description>Pedders TrakRyder eXtreme Kevlar Ceramic Спирачни накладки</meta_description>
     <category_properties>
@@ -280443,6 +280463,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -280725,7 +280746,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/6820022X.webp</image>
     </images>
-    <tags>Pedders, Ford, Ranger PX, 4WD (2011-2015), Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), Toyota, Hilux 4WD MK6 GGN25, KUN25R, KUN26R, GGN25, KUN25R, KUN26R (2005-2010), Hilux 4WD MK7 GGN25, KUN25R, KUN26R, GGN25, KUN25R KUN26R (2010-2015)</tags>
+    <tags>Pedders, Ford, Ranger PX, 4WD (2011-2015), Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward), Toyota, Hilux 4WD MK6 GGN25, KUN25R, KUN26R, GGN25, KUN25R, KUN26R (2005-2010), Hilux 4WD MK7 GGN25, KUN25R, KUN26R, GGN25, KUN25R KUN26R (2010-2015)</tags>
     <meta_title>Pedders TrakRyder eXtreme Kevlar Ceramic Спирачни накладки</meta_title>
     <meta_description>Pedders TrakRyder eXtreme Kevlar Ceramic Спирачни накладки</meta_description>
     <category_properties>
@@ -280755,6 +280776,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
       <brand>
@@ -308136,7 +308158,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/6560096SGR.jpg</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders Slotted &amp; Dimpled Geomet Coated Rotor</meta_title>
     <meta_description>Pedders Slotted &amp; Dimpled Geomet Coated Rotor</meta_description>
     <category_properties>
@@ -308159,6 +308181,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -308180,7 +308203,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/6560096SGL.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders Slotted &amp; Dimpled Geomet Coated Rotor</meta_title>
     <meta_description>Pedders Slotted &amp; Dimpled Geomet Coated Rotor</meta_description>
     <category_properties>
@@ -308203,6 +308226,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -314142,7 +314166,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/6402616.jpg</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders Спирачни накладки</meta_title>
     <meta_description>Pedders Спирачни накладки</meta_description>
     <category_properties>
@@ -314165,6 +314189,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -331064,7 +331089,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/6202616SGR_1.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders Slotted Geomet Coated Rotor</meta_title>
     <meta_description>Pedders Slotted Geomet Coated Rotor</meta_description>
     <category_properties>
@@ -331087,6 +331112,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -331144,7 +331170,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/6202616SGL_1.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders Slotted Geomet Coated Rotor</meta_title>
     <meta_description>Pedders Slotted Geomet Coated Rotor</meta_description>
     <category_properties>
@@ -331167,6 +331193,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -337317,6 +337344,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
           <name>D Max 4WD, 2.5TD (2012-2017)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -344293,6 +344321,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
           <name>D Max 4WD, 2.5TD (2012-2017)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
           <name>MU-X 2WD 3.0lt 4cyl TD (2012-Onward)</name>
           <name>MU-X 4WD 3.0lt 4cyl TD (2012-Onward)</name>
         </model>
@@ -352367,6 +352396,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
           <name>D Max 4WD, 2.5TD (2012-2017)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
       <brand>
@@ -352913,7 +352943,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/540254-.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders Rubber Силентблок Shock Uppr</meta_title>
     <meta_description>Pedders Rubber Силентблок Shock Uppr</meta_description>
     <category_properties>
@@ -352936,6 +352966,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -352957,7 +352988,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/540253.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders Rubber Силентблок Shock Uppr</meta_title>
     <meta_description>Pedders Rubber Силентблок Shock Uppr</meta_description>
     <category_properties>
@@ -352980,6 +353011,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -354640,7 +354672,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
       <image>https://3cerp.eu/api/file/540193_1.webp</image>
       <image>https://3cerp.eu/api/file/540193_2.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), Toyota, Hilux 4WD GR Sport 4WD (2024-Onward), Hilux 4WD MK10 2.8 D-4D GUN226R, GUN227R, GUN236R (2026-Onward), Hilux 4WD MK8 GGN125R, GUN125R, GUN126R (2015-2020), Hilux 4WD MK9 GGN125R, GUN125R, GUN126R (2020-2026)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward), Toyota, Hilux 4WD GR Sport 4WD (2024-Onward), Hilux 4WD MK10 2.8 D-4D GUN226R, GUN227R, GUN236R (2026-Onward), Hilux 4WD MK8 GGN125R, GUN125R, GUN126R (2015-2020), Hilux 4WD MK9 GGN125R, GUN125R, GUN126R (2020-2026)</tags>
     <meta_title>Urethane Листова пружина Силентблок</meta_title>
     <meta_description>Urethane Листова пружина Силентблок</meta_description>
     <category_properties>
@@ -354663,6 +354695,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
       <brand>
@@ -360514,7 +360547,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/540093.webp</image>
     </images>
-    <tags>Pedders, Chrysler, Voyager and Grand Voyager RG Series 4 (2001-2008), Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Chrysler, Voyager and Grand Voyager RG Series 4 (2001-2008), Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Urethane Листова пружина Shackle Силентблок (4 PKT)</meta_title>
     <meta_description>Urethane Листова пружина Shackle Силентблок (4 PKT)</meta_description>
     <category_properties>
@@ -360544,6 +360577,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -366468,6 +366502,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
           <name>D Max 4WD, 2.5TD (2012-2017)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
       <brand>
@@ -379891,7 +379926,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>423.00</price>
     <old_price></old_price>
     <weight>17.30</weight>
-    <quantity>34</quantity>
+    <quantity>35</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4723_1.webp</image>
     </images>
@@ -385335,7 +385370,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/439021_2.jpg</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders TrakRyder eXtreme Upper Носач Kit (2pcs)</meta_title>
     <meta_description>Pedders TrakRyder eXtreme Upper Носач Kit (2pcs)</meta_description>
     <category_properties>
@@ -385358,6 +385393,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -386181,7 +386217,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>693.00</price>
     <old_price></old_price>
     <weight>8.00</weight>
-    <quantity>28</quantity>
+    <quantity>27</quantity>
     <images>
       <image>https://3cerp.eu/api/file/439003.TAG.0.EXT.JPG</image>
       <image>https://3cerp.eu/api/file/439003.TAG.1.EXT.JPG</image>
@@ -407705,7 +407741,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>20.00</price>
     <old_price></old_price>
     <weight>0.10</weight>
-    <quantity>75</quantity>
+    <quantity>74</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4306.webp</image>
       <image>https://3cerp.eu/api/file/4306_1.webp</image>
@@ -419762,7 +419798,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/412124.jpg</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders CV Shaft</meta_title>
     <meta_description>Pedders CV Shaft</meta_description>
     <category_properties>
@@ -419785,6 +419821,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -463974,6 +464011,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
           <name>D Max 4WD, 2.5TD (2012-2017)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
           <name>MU-X 2WD 3.0lt 4cyl TD (2012-Onward)</name>
           <name>MU-X 4WD 3.0lt 4cyl TD (2012-Onward)</name>
         </model>
@@ -467059,7 +467097,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/280157.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD (UK &amp; EU Markets), 1.9lt 4cyl TD (2017-2020), D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD (UK &amp; EU Markets), 1.9lt 4cyl TD (2017-2020), D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders Trakryder Винтова пружина</meta_title>
     <meta_description>Pedders Trakryder Винтова пружина</meta_description>
     <category_properties>
@@ -467083,6 +467121,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -470119,6 +470158,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
           <name>D Max 4WD, 2.5TD (2012-2017)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
           <name>MU-X 2WD 3.0lt 4cyl TD (2012-Onward)</name>
           <name>MU-X 4WD 3.0lt 4cyl TD (2012-Onward)</name>
         </model>
@@ -486591,7 +486631,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>2589</sku>
     <barcode>9341150025347</barcode>
     <title>Pedders Sportsryder Винтова пружина</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p><div itemscope itemtype="https://schema.org/Product" style="text-align: left;">
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><div itemscope itemtype="https://schema.org/Product" style="text-align: left;">
     <meta itemprop="name" content="Pedders Premium Coil Springs">
     <meta itemprop="brand" content="Pedders">
     <meta itemprop="description" content="Premium Pedders Coil Springs built to ISO 9001 standards. Unrivaled handling, stability, and load carrying. Available for standard, raised, and lowered applications.">
@@ -486644,7 +486684,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>148.00</price>
     <old_price></old_price>
     <weight>7.25</weight>
-    <quantity>123</quantity>
+    <quantity>121</quantity>
     <images>
       <image>https://3cerp.eu/api/file/2589.webp</image>
     </images>
@@ -486658,10 +486698,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>2-7 работни дни</name></value></values>
+        <values><value><name>около 3 седмици</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>Европейски склад</name></value></values>
+        <values><value><name>Заводски склад</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -521143,7 +521183,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>110.00</price>
     <old_price></old_price>
     <weight>3.97</weight>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://3cerp.eu/api/file/2142R.webp</image>
     </images>
@@ -521234,7 +521274,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>110.00</price>
     <old_price></old_price>
     <weight>3.96</weight>
-    <quantity>44</quantity>
+    <quantity>43</quantity>
     <images>
       <image>https://3cerp.eu/api/file/2142L.webp</image>
     </images>
@@ -543002,7 +543042,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/156005.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), Nissan, Navara D23, NP300 4WD Leaf Spring Rear (2015-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward), Nissan, Navara D23, NP300 4WD Leaf Spring Rear (2015-Onward)</tags>
     <meta_title>Pedders Trakryder Adjustable Foam Shock</meta_title>
     <meta_description>Pedders Trakryder Adjustable Foam Shock</meta_description>
     <category_properties>
@@ -543025,6 +543065,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
       <brand>
@@ -543284,7 +543325,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/155006.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders Trakryder Adjustable Foam Shock</meta_title>
     <meta_description>Pedders Trakryder Adjustable Foam Shock</meta_description>
     <category_properties>
@@ -543307,6 +543348,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -544129,7 +544171,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/154398.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Trakryder Foam Cell Пружина Seat</meta_title>
     <meta_description>Trakryder Foam Cell Пружина Seat</meta_description>
     <category_properties>
@@ -544152,6 +544194,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -549166,7 +549209,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/151242.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), Nissan, Navara D23, NP300 4WD Leaf Spring Rear (2015-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward), Nissan, Navara D23, NP300 4WD Leaf Spring Rear (2015-Onward)</tags>
     <meta_title>Pedders Trakryder Foam Cell Shock</meta_title>
     <meta_description>Pedders Trakryder Foam Cell Shock</meta_description>
     <category_properties>
@@ -549189,6 +549232,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
       <brand>
@@ -553502,7 +553546,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <images>
       <image>https://3cerp.eu/api/file/144398.webp</image>
     </images>
-    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward)</tags>
+    <tags>Pedders, Isuzu, D Max 4WD, 1.9lt 4cyl TD (2021-2024), D Max 4WD, 1.9lt 4cyl TD (2024-Onward), D Max 4WD, 2.2 Ddi (2026-Onward), D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</tags>
     <meta_title>Pedders Gas Sports Ryder Пружина Seat</meta_title>
     <meta_description>Pedders Gas Sports Ryder Пружина Seat</meta_description>
     <category_properties>
@@ -553525,6 +553569,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
           <name>D Max 4WD, 1.9lt 4cyl TD (2021-2024)</name>
           <name>D Max 4WD, 1.9lt 4cyl TD (2024-Onward)</name>
           <name>D Max 4WD, 2.2 Ddi (2026-Onward)</name>
+          <name>D Max BEV, 4WD (UK &amp; EU Markets), (2026-Onward)</name>
         </model>
       </brand>
     </brands>
