@@ -622,7 +622,7 @@
     <price>2019.00</price>
     <old_price></old_price>
     <weight>18.00</weight>
-    <quantity>13</quantity>
+    <quantity>10</quantity>
     <images>
       <image>https://3cerp.eu/api/file/STK000001.webp</image>
     </images>
@@ -12029,7 +12029,7 @@
     <price>380.00</price>
     <old_price></old_price>
     <weight>7.00</weight>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PTR4660.webp</image>
     </images>
@@ -12156,14 +12156,14 @@
     <sku>PTR4560</sku>
     <barcode>9341150055344</barcode>
     <title>Pedders Relay Rod</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><div ><div >Ръкохватка за релей на Pedders</div></div>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><div ><div >Ръкохватка за релей на Pedders</div></div>]]></description>
     <category>Окачване</category>
     <sub_category>Relay Rod</sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>434.00</price>
     <old_price></old_price>
     <weight>7.00</weight>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PTR4560.webp</image>
     </images>
@@ -12177,10 +12177,10 @@
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>около 3 седмици</name></value></values>
+        <values><value><name>уточнява се</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>Заводски склад</name></value></values>
+        <values><value><name>По запитване</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -12548,7 +12548,7 @@
     <price>180.00</price>
     <old_price></old_price>
     <weight>7.00</weight>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PTR2830.webp</image>
     </images>
@@ -22079,7 +22079,7 @@
     <price>33.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>8</quantity>
+    <quantity>6</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PTE442K.webp</image>
       <image>https://3cerp.eu/api/file/PTE442K_1.webp</image>
@@ -22699,7 +22699,7 @@
     <price>76.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PTE3813R.webp</image>
     </images>
@@ -23050,7 +23050,7 @@
     <price>48.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -23092,7 +23092,7 @@
     <price>39.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -23163,7 +23163,7 @@
     <price>50.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>6</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PTE3706L.webp</image>
     </images>
@@ -24693,7 +24693,7 @@
     <price>47.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>48</quantity>
+    <quantity>47</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PTE2754.webp</image>
     </images>
@@ -25743,7 +25743,7 @@
     <price>23.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>31</quantity>
+    <quantity>30</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PTE189R.webp</image>
     </images>
@@ -30316,7 +30316,7 @@
     <price>97.00</price>
     <old_price></old_price>
     <weight>1.00</weight>
-    <quantity>7</quantity>
+    <quantity>5</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PSX1118A.webp</image>
     </images>
@@ -35528,7 +35528,7 @@
     <price>201.00</price>
     <old_price></old_price>
     <weight>7.00</weight>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PDL070.webp</image>
     </images>
@@ -35688,7 +35688,7 @@
     <price>188.00</price>
     <old_price></old_price>
     <weight>1.00</weight>
-    <quantity>19</quantity>
+    <quantity>17</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PCP8400.1.JPG</image>
     </images>
@@ -38209,7 +38209,7 @@
     <price>51.00</price>
     <old_price></old_price>
     <weight>0.15</weight>
-    <quantity>25</quantity>
+    <quantity>24</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PBJ4992.webp</image>
     </images>
@@ -39091,7 +39091,7 @@
     <price>48.00</price>
     <old_price></old_price>
     <weight>0.10</weight>
-    <quantity>39</quantity>
+    <quantity>36</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PBJ426.webp</image>
     </images>
@@ -41003,7 +41003,7 @@
     <price>47.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>19</quantity>
+    <quantity>17</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PBJ34E.webp</image>
     </images>
@@ -41364,7 +41364,7 @@
     <price>274.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PBJ3311R.webp</image>
     </images>
@@ -42184,7 +42184,7 @@
     <price>128.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>13</quantity>
+    <quantity>11</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -42213,7 +42213,7 @@
     <price>128.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>39</quantity>
+    <quantity>37</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -43371,7 +43371,7 @@
     <price>48.00</price>
     <old_price></old_price>
     <weight>0.15</weight>
-    <quantity>19</quantity>
+    <quantity>17</quantity>
     <images>
       <image>https://3cerp.eu/api/file/PBJ264.webp</image>
     </images>
@@ -50141,7 +50141,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>32.00</price>
     <old_price></old_price>
     <weight>0.30</weight>
-    <quantity>51</quantity>
+    <quantity>49</quantity>
     <images>
       <image>https://3cerp.eu/api/file/P1690.webp</image>
       <image>https://3cerp.eu/api/file/P1690_1.webp</image>
@@ -51453,7 +51453,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>61.00</price>
     <old_price></old_price>
     <weight>0.89</weight>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -52381,7 +52381,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>25.00</price>
     <old_price></old_price>
     <weight>0.09</weight>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EPC27.webp</image>
     </images>
@@ -53596,7 +53596,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>22.00</price>
     <old_price></old_price>
     <weight>0.09</weight>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EPB20.webp</image>
     </images>
@@ -53955,7 +53955,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>22.00</price>
     <old_price></old_price>
     <weight>0.10</weight>
-    <quantity>11</quantity>
+    <quantity>10</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EPB16.webp</image>
     </images>
@@ -54219,7 +54219,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>51.00</price>
     <old_price></old_price>
     <weight>0.32</weight>
-    <quantity>36</quantity>
+    <quantity>30</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP972.webp</image>
       <image>https://3cerp.eu/api/file/EP972_1.webp</image>
@@ -54403,7 +54403,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>27.00</price>
     <old_price></old_price>
     <weight>0.07</weight>
-    <quantity>5</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP963.webp</image>
     </images>
@@ -54625,7 +54625,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>26.00</price>
     <old_price></old_price>
     <weight>0.07</weight>
-    <quantity>5</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP937.webp</image>
     </images>
@@ -55144,7 +55144,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>41.00</price>
     <old_price></old_price>
     <weight>0.28</weight>
-    <quantity>47</quantity>
+    <quantity>46</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP9186.webp</image>
     </images>
@@ -55511,7 +55511,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>34.00</price>
     <old_price></old_price>
     <weight>0.18</weight>
-    <quantity>10</quantity>
+    <quantity>8</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP9170.webp</image>
     </images>
@@ -56632,7 +56632,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>55.00</price>
     <old_price></old_price>
     <weight>0.24</weight>
-    <quantity>5</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP9051.webp</image>
     </images>
@@ -57718,7 +57718,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>44.00</price>
     <old_price></old_price>
     <weight>0.26</weight>
-    <quantity>207</quantity>
+    <quantity>206</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP8434.webp</image>
       <image>https://3cerp.eu/api/file/EP8434_1.webp</image>
@@ -57791,7 +57791,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>50.00</price>
     <old_price></old_price>
     <weight>0.36</weight>
-    <quantity>27</quantity>
+    <quantity>26</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP8433.webp</image>
       <image>https://3cerp.eu/api/file/EP8433_1.webp</image>
@@ -57941,7 +57941,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>50.00</price>
     <old_price></old_price>
     <weight>0.26</weight>
-    <quantity>679</quantity>
+    <quantity>678</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP8431.webp</image>
       <image>https://3cerp.eu/api/file/EP8431_1.webp</image>
@@ -58275,7 +58275,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>52.00</price>
     <old_price></old_price>
     <weight>0.14</weight>
-    <quantity>195</quantity>
+    <quantity>133</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP8416.webp</image>
       <image>https://3cerp.eu/api/file/EP8416_2.webp</image>
@@ -58405,7 +58405,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>31.00</price>
     <old_price></old_price>
     <weight>0.12</weight>
-    <quantity>204</quantity>
+    <quantity>184</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP8415.webp</image>
       <image>https://3cerp.eu/api/file/EP8415_2.webp</image>
@@ -58847,7 +58847,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>39.00</price>
     <old_price></old_price>
     <weight>0.13</weight>
-    <quantity>30</quantity>
+    <quantity>28</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP8408.webp</image>
       <image>https://3cerp.eu/api/file/EP8408_1.webp</image>
@@ -58930,7 +58930,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>42.00</price>
     <old_price></old_price>
     <weight>0.35</weight>
-    <quantity>19</quantity>
+    <quantity>17</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP8407.webp</image>
     </images>
@@ -59364,7 +59364,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>68.00</price>
     <old_price></old_price>
     <weight>0.21</weight>
-    <quantity>617</quantity>
+    <quantity>615</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP8339.webp</image>
       <image>https://3cerp.eu/api/file/EP8339_1.webp</image>
@@ -60211,7 +60211,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>81.00</price>
     <old_price></old_price>
     <weight>0.65</weight>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP8310.webp</image>
     </images>
@@ -60650,7 +60650,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>30.00</price>
     <old_price></old_price>
     <weight>0.13</weight>
-    <quantity>12</quantity>
+    <quantity>11</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP8250.webp</image>
     </images>
@@ -61388,7 +61388,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>34.00</price>
     <old_price></old_price>
     <weight>0.17</weight>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP8165.webp</image>
     </images>
@@ -61644,7 +61644,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>78.00</price>
     <old_price></old_price>
     <weight>0.38</weight>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP8154.webp</image>
     </images>
@@ -61798,7 +61798,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>25.00</price>
     <old_price></old_price>
     <weight>0.05</weight>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP8091.webp</image>
     </images>
@@ -62747,7 +62747,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>24.00</price>
     <old_price></old_price>
     <weight>0.10</weight>
-    <quantity>337</quantity>
+    <quantity>295</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP8003.webp</image>
     </images>
@@ -65627,7 +65627,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>128.00</price>
     <old_price></old_price>
     <weight>1.15</weight>
-    <quantity>10</quantity>
+    <quantity>9</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP7233.webp</image>
     </images>
@@ -65725,7 +65725,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>169.00</price>
     <old_price></old_price>
     <weight>0.91</weight>
-    <quantity>18</quantity>
+    <quantity>16</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP7229.webp</image>
       <image>https://3cerp.eu/api/file/EP7229_1.webp</image>
@@ -65768,7 +65768,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>139.00</price>
     <old_price></old_price>
     <weight>1.29</weight>
-    <quantity>17</quantity>
+    <quantity>12</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP7220.webp</image>
     </images>
@@ -66155,7 +66155,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>79.00</price>
     <old_price></old_price>
     <weight>0.65</weight>
-    <quantity>14</quantity>
+    <quantity>12</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP7204.webp</image>
     </images>
@@ -66276,14 +66276,14 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>EP7198</sku>
     <barcode>9341150004700</barcode>
     <title>Urethane Lower Trailing Arm Силентблок (8 PKT)</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><h3>Уретанови втулки Pedders</h3><p>Уретановите втулки на Pedders имат висока способност да издържат на напрежение, компресия и триене и запазват своята твърдост дори при най-неблагоприятни условия. Това ги прави подходящи за изискванията на превоз на тежки товари, твърдо управление на окачването или при очаквано редовно излагане на корозивни материали.</p><h3>Характеристики и предимства</h3><ul><li>Закалени тръби за по-дълъг живот и за елиминиране на приплъзване или пълзене.</li><li>Двойна спирала, използвана срещу външния диаметър на тръбата. Двойната спирала поддържа аксиалното положение, като същевременно позволява пълно въртене на шарнира. Тя действа и като резервоар за смазка, което допълнително увеличава експлоатационния живот на продукта.</li><li>Набраздяване. За допълнителна защита срещу неблагоприятно износване при силно натоварени втулки.</li><li>Канали с форма на куршум. Те осигуряват правилното предварително натоварване, като в същото време се адаптират към голямо разнообразие от размери и поддържат свободното въртене на втулките</li></ul>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><h3>Уретанови втулки Pedders</h3><p>Уретановите втулки на Pedders имат висока способност да издържат на напрежение, компресия и триене и запазват своята твърдост дори при най-неблагоприятни условия. Това ги прави подходящи за изискванията на превоз на тежки товари, твърдо управление на окачването или при очаквано редовно излагане на корозивни материали.</p><h3>Характеристики и предимства</h3><ul><li>Закалени тръби за по-дълъг живот и за елиминиране на приплъзване или пълзене.</li><li>Двойна спирала, използвана срещу външния диаметър на тръбата. Двойната спирала поддържа аксиалното положение, като същевременно позволява пълно въртене на шарнира. Тя действа и като резервоар за смазка, което допълнително увеличава експлоатационния живот на продукта.</li><li>Набраздяване. За допълнителна защита срещу неблагоприятно износване при силно натоварени втулки.</li><li>Канали с форма на куршум. Те осигуряват правилното предварително натоварване, като в същото време се адаптират към голямо разнообразие от размери и поддържат свободното въртене на втулките</li></ul>]]></description>
     <category>Окачване</category>
     <sub_category>Заден долен носач</sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>86.00</price>
     <old_price></old_price>
     <weight>0.53</weight>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP7198.webp</image>
     </images>
@@ -66297,10 +66297,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>около 3 седмици</name></value></values>
+        <values><value><name>уточнява се</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>Заводски склад</name></value></values>
+        <values><value><name>По запитване</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -66875,7 +66875,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>147.00</price>
     <old_price></old_price>
     <weight>0.47</weight>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP7181.webp</image>
     </images>
@@ -67978,7 +67978,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>148.00</price>
     <old_price></old_price>
     <weight>0.96</weight>
-    <quantity>15</quantity>
+    <quantity>12</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP7046_1.webp</image>
       <image>https://3cerp.eu/api/file/EP7046_2.webp</image>
@@ -68695,7 +68695,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>128.00</price>
     <old_price></old_price>
     <weight>1.11</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP6753.webp</image>
       <image>https://3cerp.eu/api/file/EP6753_1.webp</image>
@@ -80177,7 +80177,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>34.00</price>
     <old_price></old_price>
     <weight>0.14</weight>
-    <quantity>14</quantity>
+    <quantity>12</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP502.webp</image>
     </images>
@@ -80563,7 +80563,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>42.00</price>
     <old_price></old_price>
     <weight>1.00</weight>
-    <quantity>120</quantity>
+    <quantity>119</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP4632.webp</image>
     </images>
@@ -83623,7 +83623,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>27.00</price>
     <old_price></old_price>
     <weight>0.14</weight>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <images>
       <image>https://3cerp.eu/api/file/ep3608-30.jpg</image>
     </images>
@@ -87288,7 +87288,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>27.00</price>
     <old_price></old_price>
     <weight>0.11</weight>
-    <quantity>9</quantity>
+    <quantity>4</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -87597,7 +87597,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>28.00</price>
     <old_price></old_price>
     <weight>0.11</weight>
-    <quantity>20</quantity>
+    <quantity>19</quantity>
     <images>
       <image>https://3cerp.eu/api/file/ep3392-18_1.jpg</image>
     </images>
@@ -87641,7 +87641,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>26.00</price>
     <old_price></old_price>
     <weight>0.12</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/ep3392-16_1.jpg</image>
     </images>
@@ -93311,7 +93311,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>33.00</price>
     <old_price></old_price>
     <weight>0.54</weight>
-    <quantity>41</quantity>
+    <quantity>38</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP260.webp</image>
       <image>https://3cerp.eu/api/file/EP260_1.webp</image>
@@ -93924,7 +93924,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>141.00</price>
     <old_price></old_price>
     <weight>0.34</weight>
-    <quantity>5</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP233.webp</image>
       <image>https://3cerp.eu/api/file/EP233_1.webp</image>
@@ -94175,7 +94175,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>53.00</price>
     <old_price></old_price>
     <weight>0.56</weight>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP229.webp</image>
     </images>
@@ -95143,7 +95143,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>67.00</price>
     <old_price></old_price>
     <weight>0.35</weight>
-    <quantity>43</quantity>
+    <quantity>42</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP2096.webp</image>
     </images>
@@ -95888,14 +95888,14 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>EP2017</sku>
     <barcode>9341150001051</barcode>
     <title>Urethane Steering Coupling Repair Kit (1 PKT)</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><h3>Уретанови втулки Pedders</h3><p>Уретановите втулки на Pedders имат висока способност да издържат на напрежение, компресия и триене и запазват своята твърдост дори при най-неблагоприятни условия. Това ги прави подходящи за изискванията на превоз на тежки товари, твърдо управление на окачването или при очаквано редовно излагане на корозивни материали.</p><h3>Характеристики и предимства</h3><ul><li>Закалени тръби за по-дълъг живот и за елиминиране на приплъзване или пълзене.</li><li>Двойна спирала, използвана срещу външния диаметър на тръбата. Двойната спирала поддържа аксиалното положение, като същевременно позволява пълно въртене на шарнира. Тя действа и като резервоар за смазка, което допълнително увеличава експлоатационния живот на продукта.</li><li>Набраздяване. За допълнителна защита срещу неблагоприятно износване при силно натоварени втулки.</li><li>Канали с форма на куршум. Те осигуряват правилното предварително натоварване, като в същото време се адаптират към голямо разнообразие от размери и поддържат свободното въртене на втулките</li></ul>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><h3>Уретанови втулки Pedders</h3><p>Уретановите втулки на Pedders имат висока способност да издържат на напрежение, компресия и триене и запазват своята твърдост дори при най-неблагоприятни условия. Това ги прави подходящи за изискванията на превоз на тежки товари, твърдо управление на окачването или при очаквано редовно излагане на корозивни материали.</p><h3>Характеристики и предимства</h3><ul><li>Закалени тръби за по-дълъг живот и за елиминиране на приплъзване или пълзене.</li><li>Двойна спирала, използвана срещу външния диаметър на тръбата. Двойната спирала поддържа аксиалното положение, като същевременно позволява пълно въртене на шарнира. Тя действа и като резервоар за смазка, което допълнително увеличава експлоатационния живот на продукта.</li><li>Набраздяване. За допълнителна защита срещу неблагоприятно износване при силно натоварени втулки.</li><li>Канали с форма на куршум. Те осигуряват правилното предварително натоварване, като в същото време се адаптират към голямо разнообразие от размери и поддържат свободното въртене на втулките</li></ul>]]></description>
     <category>Кормилно управление</category>
     <sub_category>Steering Gear Couplings and Mounts</sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>50.00</price>
     <old_price></old_price>
     <weight>0.17</weight>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP2017.webp</image>
     </images>
@@ -95909,10 +95909,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>около 3 седмици</name></value></values>
+        <values><value><name>уточнява се</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>Заводски склад</name></value></values>
+        <values><value><name>По запитване</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -96618,7 +96618,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>29.00</price>
     <old_price></old_price>
     <weight>0.12</weight>
-    <quantity>19</quantity>
+    <quantity>18</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP192.webp</image>
       <image>https://3cerp.eu/api/file/EP192_1.webp</image>
@@ -96728,7 +96728,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>35.00</price>
     <old_price></old_price>
     <weight>0.13</weight>
-    <quantity>99</quantity>
+    <quantity>83</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP187.webp</image>
       <image>https://3cerp.eu/api/file/EP187_1.webp</image>
@@ -97148,7 +97148,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>19.00</price>
     <old_price></old_price>
     <weight>0.12</weight>
-    <quantity>15</quantity>
+    <quantity>11</quantity>
     <images>
       <image>https://3cerp.eu/api/file/ep1713-12_1.jpg</image>
     </images>
@@ -97458,7 +97458,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>24.00</price>
     <old_price></old_price>
     <weight>0.10</weight>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP168.webp</image>
     </images>
@@ -97701,7 +97701,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>148.00</price>
     <old_price></old_price>
     <weight>0.99</weight>
-    <quantity>38</quantity>
+    <quantity>37</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP160.webp</image>
       <image>https://3cerp.eu/api/file/EP160_1.webp</image>
@@ -98722,7 +98722,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>20.00</price>
     <old_price></old_price>
     <weight>0.07</weight>
-    <quantity>3</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/ep1271-10_1.jpg</image>
     </images>
@@ -103073,7 +103073,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>27.00</price>
     <old_price></old_price>
     <weight>0.07</weight>
-    <quantity>24</quantity>
+    <quantity>23</quantity>
     <images>
       <image>https://3cerp.eu/api/file/ep086-16_1.jpg</image>
     </images>
@@ -104657,7 +104657,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>57.00</price>
     <old_price></old_price>
     <weight>1.81</weight>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -104756,7 +104756,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>27.00</price>
     <old_price></old_price>
     <weight>0.14</weight>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP0140A.webp</image>
     </images>
@@ -104825,7 +104825,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>27.00</price>
     <old_price></old_price>
     <weight>0.14</weight>
-    <quantity>130</quantity>
+    <quantity>115</quantity>
     <images>
       <image>https://3cerp.eu/api/file/EP0140.webp</image>
     </images>
@@ -105914,7 +105914,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>513.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://3cerp.eu/api/file/CR5177HP.png</image>
     </images>
@@ -115577,7 +115577,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>48.00</price>
     <old_price></old_price>
     <weight>0.53</weight>
-    <quantity>459</quantity>
+    <quantity>457</quantity>
     <images>
       <image>https://3cerp.eu/api/file/CP31.webp2</image>
     </images>
@@ -115739,7 +115739,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>72.00</price>
     <old_price></old_price>
     <weight>1.50</weight>
-    <quantity>251</quantity>
+    <quantity>250</quantity>
     <images>
       <image>https://3cerp.eu/api/file/CBPR.webp</image>
       <image>https://3cerp.eu/api/file/CBPR_1.webp</image>
@@ -115783,7 +115783,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>72.00</price>
     <old_price></old_price>
     <weight>1.50</weight>
-    <quantity>221</quantity>
+    <quantity>220</quantity>
     <images>
       <image>https://3cerp.eu/api/file/CBPL.webp</image>
       <image>https://3cerp.eu/api/file/CBPL_1.webp</image>
@@ -120032,7 +120032,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>178.00</price>
     <old_price></old_price>
     <weight>3.61</weight>
-    <quantity>245</quantity>
+    <quantity>243</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9581.webp</image>
     </images>
@@ -120927,7 +120927,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>178.00</price>
     <old_price></old_price>
     <weight>3.68</weight>
-    <quantity>91</quantity>
+    <quantity>89</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9555.webp</image>
     </images>
@@ -121454,7 +121454,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>179.00</price>
     <old_price></old_price>
     <weight>3.88</weight>
-    <quantity>61</quantity>
+    <quantity>57</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9550.webp</image>
     </images>
@@ -121502,7 +121502,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>184.00</price>
     <old_price></old_price>
     <weight>3.51</weight>
-    <quantity>38</quantity>
+    <quantity>34</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9549LT.webp</image>
     </images>
@@ -121613,7 +121613,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>177.00</price>
     <old_price></old_price>
     <weight>3.40</weight>
-    <quantity>49</quantity>
+    <quantity>45</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9549.webp</image>
     </images>
@@ -121724,7 +121724,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>165.00</price>
     <old_price></old_price>
     <weight>3.50</weight>
-    <quantity>677</quantity>
+    <quantity>676</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9548.webp</image>
     </images>
@@ -121936,7 +121936,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>179.00</price>
     <old_price></old_price>
     <weight>3.81</weight>
-    <quantity>26</quantity>
+    <quantity>22</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9546.webp</image>
     </images>
@@ -122068,7 +122068,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>184.00</price>
     <old_price></old_price>
     <weight>3.40</weight>
-    <quantity>727</quantity>
+    <quantity>725</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9545LT.webp</image>
     </images>
@@ -124093,7 +124093,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>185.00</price>
     <old_price></old_price>
     <weight>3.86</weight>
-    <quantity>51</quantity>
+    <quantity>49</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9522LT.webp</image>
     </images>
@@ -124287,7 +124287,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>186.00</price>
     <old_price></old_price>
     <weight>4.06</weight>
-    <quantity>69</quantity>
+    <quantity>67</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9521LT.webp</image>
     </images>
@@ -124390,7 +124390,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>178.00</price>
     <old_price></old_price>
     <weight>3.74</weight>
-    <quantity>56</quantity>
+    <quantity>52</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9521.webp</image>
     </images>
@@ -125979,7 +125979,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>179.00</price>
     <old_price></old_price>
     <weight>3.98</weight>
-    <quantity>228</quantity>
+    <quantity>223</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9502.webp</image>
     </images>
@@ -126747,7 +126747,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>231.00</price>
     <old_price></old_price>
     <weight>5.87</weight>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9433R.webp</image>
       <image>https://3cerp.eu/api/file/9433R_1.webp</image>
@@ -126777,7 +126777,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>231.00</price>
     <old_price></old_price>
     <weight>5.87</weight>
-    <quantity>20</quantity>
+    <quantity>19</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9433L.webp</image>
       <image>https://3cerp.eu/api/file/9433L_1.webp</image>
@@ -126865,7 +126865,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>146.00</price>
     <old_price></old_price>
     <weight>3.14</weight>
-    <quantity>15</quantity>
+    <quantity>13</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9296.webp</image>
     </images>
@@ -127968,7 +127968,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>177.00</price>
     <old_price></old_price>
     <weight>2.80</weight>
-    <quantity>34</quantity>
+    <quantity>32</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9198.webp</image>
     </images>
@@ -128260,7 +128260,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>162.00</price>
     <old_price></old_price>
     <weight>2.80</weight>
-    <quantity>40</quantity>
+    <quantity>38</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9192.webp</image>
     </images>
@@ -131766,7 +131766,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>149.00</price>
     <old_price></old_price>
     <weight>2.63</weight>
-    <quantity>76</quantity>
+    <quantity>74</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9152.webp</image>
     </images>
@@ -132211,7 +132211,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>136.00</price>
     <old_price></old_price>
     <weight>2.58</weight>
-    <quantity>104</quantity>
+    <quantity>102</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9146.webp</image>
     </images>
@@ -133625,7 +133625,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>137.00</price>
     <old_price></old_price>
     <weight>2.80</weight>
-    <quantity>26</quantity>
+    <quantity>24</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9130.webp</image>
     </images>
@@ -135047,7 +135047,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>139.00</price>
     <old_price></old_price>
     <weight>3.50</weight>
-    <quantity>62</quantity>
+    <quantity>60</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9102.webp</image>
     </images>
@@ -136113,7 +136113,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>112.00</price>
     <old_price></old_price>
     <weight>2.80</weight>
-    <quantity>18</quantity>
+    <quantity>16</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -137828,7 +137828,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>112.00</price>
     <old_price></old_price>
     <weight>2.80</weight>
-    <quantity>22</quantity>
+    <quantity>20</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9075.webp</image>
     </images>
@@ -139355,7 +139355,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>112.00</price>
     <old_price></old_price>
     <weight>2.80</weight>
-    <quantity>139</quantity>
+    <quantity>133</quantity>
     <images>
       <image>https://3cerp.eu/api/file/9046.webp</image>
     </images>
@@ -151736,7 +151736,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>167.00</price>
     <old_price></old_price>
     <weight>4.10</weight>
-    <quantity>13</quantity>
+    <quantity>11</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -170933,7 +170933,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>200.00</price>
     <old_price></old_price>
     <weight>6.00</weight>
-    <quantity>7</quantity>
+    <quantity>5</quantity>
     <images>
       <image>https://3cerp.eu/api/file/8464R.webp</image>
     </images>
@@ -171021,7 +171021,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>200.00</price>
     <old_price></old_price>
     <weight>6.00</weight>
-    <quantity>7</quantity>
+    <quantity>5</quantity>
     <images>
       <image>https://3cerp.eu/api/file/8464L.webp</image>
     </images>
@@ -171315,7 +171315,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>180.00</price>
     <old_price></old_price>
     <weight>5.62</weight>
-    <quantity>38</quantity>
+    <quantity>37</quantity>
     <images>
       <image>https://3cerp.eu/api/file/8458R.webp</image>
     </images>
@@ -171397,7 +171397,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>172.00</price>
     <old_price></old_price>
     <weight>5.62</weight>
-    <quantity>17</quantity>
+    <quantity>16</quantity>
     <images>
       <image>https://3cerp.eu/api/file/8458L.webp</image>
     </images>
@@ -171728,7 +171728,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>161.00</price>
     <old_price></old_price>
     <weight>4.20</weight>
-    <quantity>37</quantity>
+    <quantity>36</quantity>
     <images>
       <image>https://3cerp.eu/api/file/8456L.webp</image>
     </images>
@@ -187870,7 +187870,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>335.00</price>
     <old_price></old_price>
     <weight>11.46</weight>
-    <quantity>28</quantity>
+    <quantity>26</quantity>
     <images>
       <image>https://3cerp.eu/api/file/807312.webp</image>
     </images>
@@ -188436,7 +188436,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>396.00</price>
     <old_price></old_price>
     <weight>11.78</weight>
-    <quantity>643</quantity>
+    <quantity>637</quantity>
     <images>
       <image>https://3cerp.eu/api/file/807305.webp</image>
     </images>
@@ -188574,7 +188574,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>398.00</price>
     <old_price></old_price>
     <weight>11.60</weight>
-    <quantity>42</quantity>
+    <quantity>34</quantity>
     <images>
       <image>https://3cerp.eu/api/file/807301.webp</image>
     </images>
@@ -189371,7 +189371,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>337.00</price>
     <old_price></old_price>
     <weight>12.00</weight>
-    <quantity>97</quantity>
+    <quantity>95</quantity>
     <images>
       <image>https://3cerp.eu/api/file/807211.webp</image>
     </images>
@@ -193901,7 +193901,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>78.00</price>
     <old_price></old_price>
     <weight>2.50</weight>
-    <quantity>51</quantity>
+    <quantity>49</quantity>
     <images>
       <image>https://3cerp.eu/api/file/8042.webp</image>
     </images>
@@ -195342,7 +195342,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>92.00</price>
     <old_price></old_price>
     <weight>2.50</weight>
-    <quantity>18</quantity>
+    <quantity>16</quantity>
     <images>
       <image>https://3cerp.eu/api/file/8038.webp</image>
     </images>
@@ -227393,7 +227393,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>8006</sku>
     <barcode>9341150036435</barcode>
     <title>Pedders Амортисьор</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><div itemscope itemtype="https://schema.org/Product" style="text-align: left;">
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><div itemscope itemtype="https://schema.org/Product" style="text-align: left;">
     <meta itemprop="name" content="Pedders Nitrogen Gas Charged Shock Absorber">
     <meta itemprop="brand" content="Pedders">
     <meta itemprop="description" content="Pedders Nitrogen Gas Charged shock absorbers. The ideal budget-friendly OEM replacement to restore original ride comfort and safety. 2-Year Warranty.">
@@ -227440,7 +227440,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>89.00</price>
     <old_price></old_price>
     <weight>2.50</weight>
-    <quantity>0</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/8006.webp</image>
     </images>
@@ -227454,10 +227454,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
+        <values><value><name>около 3 седмици</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
+        <values><value><name>Заводски склад</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -227547,7 +227547,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>85.00</price>
     <old_price></old_price>
     <weight>2.50</weight>
-    <quantity>77</quantity>
+    <quantity>75</quantity>
     <images>
       <image>https://3cerp.eu/api/file/8005.webp</image>
     </images>
@@ -228687,7 +228687,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>116.00</price>
     <old_price></old_price>
     <weight>5.21</weight>
-    <quantity>14</quantity>
+    <quantity>10</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -229793,7 +229793,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>108.00</price>
     <old_price></old_price>
     <weight>3.53</weight>
-    <quantity>16</quantity>
+    <quantity>14</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -230270,7 +230270,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>7901</sku>
     <barcode>9341150012682</barcode>
     <title>Pedders Усилен Винтова пружина</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><div itemscope itemtype="https://schema.org/Product" style="text-align: left;">
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><div itemscope itemtype="https://schema.org/Product" style="text-align: left;">
     <meta itemprop="name" content="Pedders Premium Coil Springs">
     <meta itemprop="brand" content="Pedders">
     <meta itemprop="description" content="Premium Pedders Coil Springs built to ISO 9001 standards. Unrivaled handling, stability, and load carrying. Available for standard, raised, and lowered applications.">
@@ -230323,7 +230323,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>108.00</price>
     <old_price></old_price>
     <weight>3.26</weight>
-    <quantity>0</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -230337,10 +230337,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
+        <values><value><name>около 3 седмици</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
+        <values><value><name>Заводски склад</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -230855,7 +230855,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>137.00</price>
     <old_price></old_price>
     <weight>6.01</weight>
-    <quantity>99</quantity>
+    <quantity>93</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7889.webp</image>
     </images>
@@ -231747,7 +231747,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>141.00</price>
     <old_price></old_price>
     <weight>8.16</weight>
-    <quantity>14</quantity>
+    <quantity>13</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7862R.webp</image>
     </images>
@@ -231836,7 +231836,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>141.00</price>
     <old_price></old_price>
     <weight>8.16</weight>
-    <quantity>13</quantity>
+    <quantity>12</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7862L.webp</image>
     </images>
@@ -233345,7 +233345,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>130.00</price>
     <old_price></old_price>
     <weight>6.65</weight>
-    <quantity>78</quantity>
+    <quantity>76</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7839.webp</image>
     </images>
@@ -233720,7 +233720,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>136.00</price>
     <old_price></old_price>
     <weight>6.34</weight>
-    <quantity>114</quantity>
+    <quantity>112</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7828.webp</image>
     </images>
@@ -235385,7 +235385,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>122.00</price>
     <old_price></old_price>
     <weight>3.88</weight>
-    <quantity>9</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7795.webp</image>
     </images>
@@ -235996,7 +235996,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>7784</sku>
     <barcode>9341150012293</barcode>
     <title>Pedders Trakryder Винтова пружина</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><div itemscope itemtype="https://schema.org/Product" style="text-align: left;">
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><div itemscope itemtype="https://schema.org/Product" style="text-align: left;">
     <meta itemprop="name" content="Pedders Premium Coil Springs">
     <meta itemprop="brand" content="Pedders">
     <meta itemprop="description" content="Premium Pedders Coil Springs built to ISO 9001 standards. Unrivaled handling, stability, and load carrying. Available for standard, raised, and lowered applications.">
@@ -236049,7 +236049,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>124.00</price>
     <old_price></old_price>
     <weight>4.48</weight>
-    <quantity>2</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7784.webp</image>
     </images>
@@ -236063,10 +236063,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>около 3 седмици</name></value></values>
+        <values><value><name>уточнява се</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>Заводски склад</name></value></values>
+        <values><value><name>По запитване</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -236826,7 +236826,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>127.00</price>
     <old_price></old_price>
     <weight>5.20</weight>
-    <quantity>5</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -237590,7 +237590,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>122.00</price>
     <old_price></old_price>
     <weight>4.63</weight>
-    <quantity>82</quantity>
+    <quantity>80</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7769.webp</image>
     </images>
@@ -238214,7 +238214,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>138.00</price>
     <old_price></old_price>
     <weight>7.31</weight>
-    <quantity>29</quantity>
+    <quantity>28</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7762R.webp</image>
     </images>
@@ -239301,7 +239301,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>147.00</price>
     <old_price></old_price>
     <weight>8.60</weight>
-    <quantity>30</quantity>
+    <quantity>29</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7753R.webp</image>
     </images>
@@ -239392,7 +239392,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>147.00</price>
     <old_price></old_price>
     <weight>8.60</weight>
-    <quantity>13</quantity>
+    <quantity>12</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7753L.webp</image>
     </images>
@@ -240141,7 +240141,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>160.00</price>
     <old_price></old_price>
     <weight>8.28</weight>
-    <quantity>105</quantity>
+    <quantity>103</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7745.webp</image>
     </images>
@@ -247153,7 +247153,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>39.00</price>
     <old_price></old_price>
     <weight>0.10</weight>
-    <quantity>92</quantity>
+    <quantity>73</quantity>
     <images>
       <image>https://3cerp.eu/api/file/75-0010_1.webp</image>
       <image>https://3cerp.eu/api/file/75-0010_2.webp</image>
@@ -250268,7 +250268,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>135.00</price>
     <old_price></old_price>
     <weight>7.52</weight>
-    <quantity>44</quantity>
+    <quantity>42</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7457.webp</image>
     </images>
@@ -251189,7 +251189,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>133.00</price>
     <old_price></old_price>
     <weight>7.32</weight>
-    <quantity>9</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7448.webp</image>
     </images>
@@ -251284,7 +251284,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>128.00</price>
     <old_price></old_price>
     <weight>5.64</weight>
-    <quantity>33</quantity>
+    <quantity>31</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7447.webp</image>
     </images>
@@ -259922,7 +259922,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>128.00</price>
     <old_price></old_price>
     <weight>5.65</weight>
-    <quantity>64</quantity>
+    <quantity>62</quantity>
     <images>
       <image>https://3cerp.eu/api/file/7259.webp</image>
     </images>
@@ -276278,7 +276278,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>160.00</price>
     <old_price></old_price>
     <weight>2.30</weight>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6829870.webp</image>
     </images>
@@ -279234,7 +279234,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>141.00</price>
     <old_price></old_price>
     <weight>1.00</weight>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6820590.jpg</image>
     </images>
@@ -279826,7 +279826,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>107.00</price>
     <old_price></old_price>
     <weight>1.10</weight>
-    <quantity>11</quantity>
+    <quantity>10</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6820428.webp</image>
     </images>
@@ -282872,7 +282872,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>116.00</price>
     <old_price></old_price>
     <weight>1.70</weight>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6801944.webp</image>
     </images>
@@ -287080,7 +287080,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>74.00</price>
     <old_price></old_price>
     <weight>0.80</weight>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6800004.webp</image>
     </images>
@@ -296196,7 +296196,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>104.00</price>
     <old_price></old_price>
     <weight>2.00</weight>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6703290.webp</image>
     </images>
@@ -297769,7 +297769,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>89.00</price>
     <old_price></old_price>
     <weight>2.00</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6701522.webp</image>
     </images>
@@ -297922,7 +297922,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>92.00</price>
     <old_price></old_price>
     <weight>2.00</weight>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6701308.webp</image>
     </images>
@@ -298368,7 +298368,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>93.00</price>
     <old_price></old_price>
     <weight>2.00</weight>
-    <quantity>1</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6701085.webp</image>
     </images>
@@ -311580,7 +311580,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>153.00</price>
     <old_price></old_price>
     <weight>7.23</weight>
-    <quantity>8</quantity>
+    <quantity>6</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6408700.webp</image>
     </images>
@@ -317748,7 +317748,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>402.00</price>
     <old_price></old_price>
     <weight>33.20</weight>
-    <quantity>27</quantity>
+    <quantity>25</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6299.webp</image>
     </images>
@@ -317859,7 +317859,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>336.00</price>
     <old_price></old_price>
     <weight>28.20</weight>
-    <quantity>39</quantity>
+    <quantity>159</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6298.webp</image>
     </images>
@@ -318131,7 +318131,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>281.00</price>
     <old_price></old_price>
     <weight>23.70</weight>
-    <quantity>10</quantity>
+    <quantity>116</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6293.webp</image>
     </images>
@@ -318489,7 +318489,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>345.00</price>
     <old_price></old_price>
     <weight>30.00</weight>
-    <quantity>18</quantity>
+    <quantity>28</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6284.webp</image>
     </images>
@@ -318577,7 +318577,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>322.00</price>
     <old_price></old_price>
     <weight>26.80</weight>
-    <quantity>133</quantity>
+    <quantity>131</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6282.webp</image>
     </images>
@@ -318665,7 +318665,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>391.00</price>
     <old_price></old_price>
     <weight>29.30</weight>
-    <quantity>4</quantity>
+    <quantity>41</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6281.webp</image>
     </images>
@@ -318751,7 +318751,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>287.00</price>
     <old_price></old_price>
     <weight>26.90</weight>
-    <quantity>47</quantity>
+    <quantity>48</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6280.webp</image>
     </images>
@@ -319553,7 +319553,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>291.00</price>
     <old_price></old_price>
     <weight>23.90</weight>
-    <quantity>12</quantity>
+    <quantity>26</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6263.webp</image>
     </images>
@@ -321309,7 +321309,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>283.00</price>
     <old_price></old_price>
     <weight>27.00</weight>
-    <quantity>32</quantity>
+    <quantity>58</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6230.webp</image>
     </images>
@@ -321580,7 +321580,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>542.00</price>
     <old_price></old_price>
     <weight>48.40</weight>
-    <quantity>15</quantity>
+    <quantity>13</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6227PS.webp</image>
     </images>
@@ -332534,7 +332534,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>98.00</price>
     <old_price></old_price>
     <weight>4.00</weight>
-    <quantity>2</quantity>
+    <quantity>4</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6200007.webp</image>
     </images>
@@ -335198,7 +335198,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>103.00</price>
     <old_price></old_price>
     <weight>1.00</weight>
-    <quantity>31</quantity>
+    <quantity>29</quantity>
     <images>
       <image>https://3cerp.eu/api/file/5892.webp</image>
     </images>
@@ -337092,7 +337092,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>22.00</price>
     <old_price></old_price>
     <weight>1.00</weight>
-    <quantity>200</quantity>
+    <quantity>199</quantity>
     <images>
       <image>https://3cerp.eu/api/file/5854.webp</image>
     </images>
@@ -337168,7 +337168,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>45.00</price>
     <old_price></old_price>
     <weight>0.80</weight>
-    <quantity>162</quantity>
+    <quantity>158</quantity>
     <images>
       <image>https://3cerp.eu/api/file/5852.webp</image>
       <image>https://3cerp.eu/api/file/5852_1.webp</image>
@@ -337254,7 +337254,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>221.00</price>
     <old_price></old_price>
     <weight>0.25</weight>
-    <quantity>495</quantity>
+    <quantity>493</quantity>
     <images>
       <image>https://3cerp.eu/api/file/5851.1.jpg</image>
     </images>
@@ -340290,7 +340290,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>44.00</price>
     <old_price></old_price>
     <weight>0.12</weight>
-    <quantity>213</quantity>
+    <quantity>212</quantity>
     <images>
       <image>https://3cerp.eu/api/file/5843.webp</image>
       <image>https://3cerp.eu/api/file/5843_1.webp</image>
@@ -340442,14 +340442,14 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>584004</sku>
     <barcode>9341150035841</barcode>
     <title>Pedders Engine Тампон</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><h3>Опори за двигател Pedders</h3><p>Опорите за двигател Pedders са икономичен начин да осигурите оптимална работа на автомобила. Тъй като са пълни с масло (хидравлични), те минимизират вибрациите на двигателя, които се предават към останалата част от автомобила.</p><p>Доставя се само като единична опора.</p><p>Опорите за двигателя се използват за свързване на двигателя на автомобила с помощната рама. Обикновено са изработени от гума и метал. Металната част се свързва с двигателя от едната страна и с рамата от другата. Гумата е разположена между тях, за да осигурява гъвкавост и да намалява вибрациите.</p><h3>Характеристики и предимства</h3><ul><li>Директно OE монтиране</li><li>Здрава конструкция</li><li>Намалява шума, вибрациите и грубостта</li><li>Всичко това е подкрепено от нашата 2-годишна гаранция / 25 000 мили</li></ul>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><h3>Опори за двигател Pedders</h3><p>Опорите за двигател Pedders са икономичен начин да осигурите оптимална работа на автомобила. Тъй като са пълни с масло (хидравлични), те минимизират вибрациите на двигателя, които се предават към останалата част от автомобила.</p><p>Доставя се само като единична опора.</p><p>Опорите за двигателя се използват за свързване на двигателя на автомобила с помощната рама. Обикновено са изработени от гума и метал. Металната част се свързва с двигателя от едната страна и с рамата от другата. Гумата е разположена между тях, за да осигурява гъвкавост и да намалява вибрациите.</p><h3>Характеристики и предимства</h3><ul><li>Директно OE монтиране</li><li>Здрава конструкция</li><li>Намалява шума, вибрациите и грубостта</li><li>Всичко това е подкрепено от нашата 2-годишна гаранция / 25 000 мили</li></ul>]]></description>
     <category>Окачване</category>
     <sub_category>Engine Mounts</sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>134.00</price>
     <old_price></old_price>
     <weight>2.00</weight>
-    <quantity>0</quantity>
+    <quantity>10</quantity>
     <images>
       <image>https://3cerp.eu/api/file/584004.webp</image>
       <image>https://3cerp.eu/api/file/584004_1.webp</image>
@@ -340464,10 +340464,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
+        <values><value><name>около 3 седмици</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
+        <values><value><name>Заводски склад</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -342401,7 +342401,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>82.00</price>
     <old_price></old_price>
     <weight>0.60</weight>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <images>
       <image>https://3cerp.eu/api/file/5816.webp</image>
       <image>https://3cerp.eu/api/file/5816_1.webp</image>
@@ -343822,7 +343822,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>89.00</price>
     <old_price></old_price>
     <weight>1.00</weight>
-    <quantity>30</quantity>
+    <quantity>29</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -343911,7 +343911,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>145.00</price>
     <old_price></old_price>
     <weight>1.10</weight>
-    <quantity>464</quantity>
+    <quantity>453</quantity>
     <images>
       <image>https://3cerp.eu/api/file/5802.webp</image>
     </images>
@@ -344234,7 +344234,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>84.00</price>
     <old_price></old_price>
     <weight>0.25</weight>
-    <quantity>74</quantity>
+    <quantity>72</quantity>
     <images>
       <image>https://3cerp.eu/api/file/580095.webp</image>
       <image>https://3cerp.eu/api/file/580095_1.webp</image>
@@ -346318,7 +346318,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>60.00</price>
     <old_price></old_price>
     <weight>1.00</weight>
-    <quantity>260</quantity>
+    <quantity>258</quantity>
     <images>
       <image>https://3cerp.eu/api/file/580053.webp</image>
     </images>
@@ -350026,7 +350026,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>181.00</price>
     <old_price></old_price>
     <weight>1.10</weight>
-    <quantity>1</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://3cerp.eu/api/file/5426.webp</image>
     </images>
@@ -351790,7 +351790,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>9.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>60</quantity>
+    <quantity>58</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540510.webp</image>
     </images>
@@ -351833,7 +351833,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>9.00</price>
     <old_price></old_price>
     <weight>0.18</weight>
-    <quantity>50</quantity>
+    <quantity>48</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540509.webp</image>
     </images>
@@ -352715,7 +352715,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>9.00</price>
     <old_price></old_price>
     <weight>0.30</weight>
-    <quantity>16</quantity>
+    <quantity>14</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540264.webp</image>
     </images>
@@ -352810,7 +352810,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>38.00</price>
     <old_price></old_price>
     <weight>0.30</weight>
-    <quantity>59</quantity>
+    <quantity>58</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540261.webp</image>
     </images>
@@ -353083,7 +353083,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>10.00</price>
     <old_price></old_price>
     <weight>1.00</weight>
-    <quantity>226</quantity>
+    <quantity>224</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540251.webp</image>
     </images>
@@ -354622,7 +354622,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>71.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>19</quantity>
+    <quantity>16</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540195.webp</image>
       <image>https://3cerp.eu/api/file/540195_1.webp</image>
@@ -354666,7 +354666,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>28.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>130</quantity>
+    <quantity>128</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540193.webp</image>
       <image>https://3cerp.eu/api/file/540193_1.webp</image>
@@ -354969,7 +354969,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>14.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>32</quantity>
+    <quantity>30</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540188.webp</image>
     </images>
@@ -359193,7 +359193,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>77.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>36</quantity>
+    <quantity>35</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540115.webp</image>
     </images>
@@ -359358,7 +359358,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>209.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>17</quantity>
+    <quantity>15</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540112.webp</image>
     </images>
@@ -360685,7 +360685,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>119.00</price>
     <old_price></old_price>
     <weight>0.60</weight>
-    <quantity>34</quantity>
+    <quantity>33</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540090.webp</image>
     </images>
@@ -362071,7 +362071,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>33.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>24</quantity>
+    <quantity>23</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540066.webp</image>
     </images>
@@ -363204,7 +363204,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>82.00</price>
     <old_price></old_price>
     <weight>1.40</weight>
-    <quantity>12</quantity>
+    <quantity>11</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540047.webp</image>
     </images>
@@ -363414,7 +363414,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>31.00</price>
     <old_price></old_price>
     <weight>0.60</weight>
-    <quantity>68</quantity>
+    <quantity>67</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540045.webp</image>
     </images>
@@ -363968,7 +363968,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>45.00</price>
     <old_price></old_price>
     <weight>1.00</weight>
-    <quantity>92</quantity>
+    <quantity>90</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540039.webp</image>
     </images>
@@ -364811,7 +364811,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>31.00</price>
     <old_price></old_price>
     <weight>0.30</weight>
-    <quantity>170</quantity>
+    <quantity>167</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540027.webp</image>
       <image>https://3cerp.eu/api/file/540027_1.webp</image>
@@ -364857,7 +364857,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>31.00</price>
     <old_price></old_price>
     <weight>0.32</weight>
-    <quantity>115</quantity>
+    <quantity>112</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540026.webp</image>
       <image>https://3cerp.eu/api/file/540026_1.webp</image>
@@ -365192,7 +365192,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>21.00</price>
     <old_price></old_price>
     <weight>0.20</weight>
-    <quantity>69</quantity>
+    <quantity>67</quantity>
     <images>
       <image>https://3cerp.eu/api/file/540022.webp</image>
     </images>
@@ -368226,7 +368226,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>113.00</price>
     <old_price></old_price>
     <weight>0.90</weight>
-    <quantity>27</quantity>
+    <quantity>25</quantity>
     <images>
       <image>https://3cerp.eu/api/file/512201.webp</image>
     </images>
@@ -368394,7 +368394,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>274.00</price>
     <old_price></old_price>
     <weight>1.44</weight>
-    <quantity>17</quantity>
+    <quantity>15</quantity>
     <images>
       <image>https://3cerp.eu/api/file/512114.webp</image>
     </images>
@@ -368684,14 +368684,14 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>5116</sku>
     <barcode>9341150095265</barcode>
     <title>Pedders Заден Lateral Arm/Toe Link</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><div ><div >Свързваща връзка за предния мост на Pedders</div></div>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><div ><div >Свързваща връзка за предния мост на Pedders</div></div>]]></description>
     <category>Uncategorized</category>
     <sub_category></sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>42.00</price>
     <old_price></old_price>
     <weight>4.00</weight>
-    <quantity>0</quantity>
+    <quantity>4</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -368700,10 +368700,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <meta_description>Pedders Заден Lateral Arm/Toe Link</meta_description>
     <category_properties>
       <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
+        <values><value><name>около 3 седмици</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
+        <values><value><name>Заводски склад</name></value></values>
       </category_property>
     </category_properties>
   </product>
@@ -368713,14 +368713,14 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>5115</sku>
     <barcode>9341150093995</barcode>
     <title>Заден upper adjustable (camber) control arm</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p>Заден upper adjustable (camber) control arm]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p>Заден upper adjustable (camber) control arm]]></description>
     <category>Uncategorized</category>
     <sub_category></sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>174.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>0</quantity>
+    <quantity>123</quantity>
     <images>
       <image>https://3cerp.eu/api/file/5115.webp</image>
     </images>
@@ -368729,10 +368729,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <meta_description>Заден upper adjustable (camber) control arm</meta_description>
     <category_properties>
       <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
+        <values><value><name>около 3 седмици</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
+        <values><value><name>Заводски склад</name></value></values>
       </category_property>
     </category_properties>
   </product>
@@ -371072,7 +371072,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>86.00</price>
     <old_price></old_price>
     <weight>1.28</weight>
-    <quantity>138</quantity>
+    <quantity>136</quantity>
     <images>
       <image>https://3cerp.eu/api/file/5109.webp</image>
     </images>
@@ -371101,7 +371101,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>272.00</price>
     <old_price></old_price>
     <weight>1.00</weight>
-    <quantity>59</quantity>
+    <quantity>57</quantity>
     <images>
       <image>https://3cerp.eu/api/file/5108.webp</image>
     </images>
@@ -371227,14 +371227,14 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>5077</sku>
     <barcode>9341150093759</barcode>
     <title>Anti-roll bar mount extension</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p>Anti-roll bar mount extension]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p>Anti-roll bar mount extension]]></description>
     <category>Uncategorized</category>
     <sub_category></sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>43.00</price>
     <old_price></old_price>
     <weight>1.03</weight>
-    <quantity>0</quantity>
+    <quantity>5</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -371243,10 +371243,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <meta_description>Anti-roll bar mount extension</meta_description>
     <category_properties>
       <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
+        <values><value><name>около 3 седмици</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
+        <values><value><name>Заводски склад</name></value></values>
       </category_property>
     </category_properties>
   </product>
@@ -371372,14 +371372,14 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>5069</sku>
     <barcode>9341150088403</barcode>
     <title></title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p>]]></description>
     <category>Uncategorized</category>
     <sub_category></sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>29.00</price>
     <old_price></old_price>
     <weight>0.10</weight>
-    <quantity>0</quantity>
+    <quantity>5</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -371388,10 +371388,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <meta_description></meta_description>
     <category_properties>
       <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
+        <values><value><name>около 3 седмици</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
+        <values><value><name>Заводски склад</name></value></values>
       </category_property>
     </category_properties>
   </product>
@@ -371651,7 +371651,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>40.00</price>
     <old_price></old_price>
     <weight>0.25</weight>
-    <quantity>10</quantity>
+    <quantity>1144</quantity>
     <images>
       <image>https://3cerp.eu/api/file/5062.webp</image>
     </images>
@@ -371800,7 +371800,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>25.00</price>
     <old_price></old_price>
     <weight>0.15</weight>
-    <quantity>18</quantity>
+    <quantity>187</quantity>
     <images>
       <image>https://3cerp.eu/api/file/5056.webp</image>
     </images>
@@ -371848,7 +371848,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>43.00</price>
     <old_price></old_price>
     <weight>0.20</weight>
-    <quantity>181</quantity>
+    <quantity>178</quantity>
     <images>
       <image>https://3cerp.eu/api/file/5055.webp</image>
     </images>
@@ -372303,14 +372303,14 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>5038</sku>
     <barcode>9341150034172</barcode>
     <title>5038 SUBARU Kit</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><div ><div >Комплект SUBARU</div></div>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><div ><div >Комплект SUBARU</div></div>]]></description>
     <category>Пружини и амортисьори</category>
     <sub_category>Заден амортисьор</sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>141.00</price>
     <old_price></old_price>
     <weight>1.00</weight>
-    <quantity>0</quantity>
+    <quantity>11</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -372324,10 +372324,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
+        <values><value><name>около 3 седмици</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
+        <values><value><name>Заводски склад</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -372396,7 +372396,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>39.00</price>
     <old_price></old_price>
     <weight>0.10</weight>
-    <quantity>488</quantity>
+    <quantity>486</quantity>
     <images>
       <image>https://3cerp.eu/api/file/5030.jpg</image>
     </images>
@@ -380859,7 +380859,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>874.00</price>
     <old_price></old_price>
     <weight>7.00</weight>
-    <quantity>2</quantity>
+    <quantity>10</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -380935,7 +380935,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>383.00</price>
     <old_price></old_price>
     <weight>8.00</weight>
-    <quantity>314</quantity>
+    <quantity>313</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -382715,7 +382715,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>33.00</price>
     <old_price></old_price>
     <weight>0.80</weight>
-    <quantity>456</quantity>
+    <quantity>452</quantity>
     <images>
       <image>https://3cerp.eu/api/file/458019_3.webp</image>
     </images>
@@ -382758,7 +382758,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>33.00</price>
     <old_price></old_price>
     <weight>0.80</weight>
-    <quantity>445</quantity>
+    <quantity>441</quantity>
     <images>
       <image>https://3cerp.eu/api/file/458018.webp</image>
       <image>https://3cerp.eu/api/file/458018_1.webp</image>
@@ -384389,7 +384389,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>38.00</price>
     <old_price></old_price>
     <weight>0.22</weight>
-    <quantity>544</quantity>
+    <quantity>540</quantity>
     <images>
       <image>https://3cerp.eu/api/file/458010.jpg</image>
     </images>
@@ -384479,7 +384479,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>34.00</price>
     <old_price></old_price>
     <weight>0.30</weight>
-    <quantity>615</quantity>
+    <quantity>611</quantity>
     <images>
       <image>https://3cerp.eu/api/file/458008.jpg</image>
     </images>
@@ -384523,7 +384523,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>50.00</price>
     <old_price></old_price>
     <weight>0.20</weight>
-    <quantity>471</quantity>
+    <quantity>467</quantity>
     <images>
       <image>https://3cerp.eu/api/file/458007.webp</image>
     </images>
@@ -384570,7 +384570,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>55.00</price>
     <old_price></old_price>
     <weight>0.20</weight>
-    <quantity>272</quantity>
+    <quantity>268</quantity>
     <images>
       <image>https://3cerp.eu/api/file/458006.webp</image>
     </images>
@@ -384920,7 +384920,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>10.00</price>
     <old_price></old_price>
     <weight>0.56</weight>
-    <quantity>356</quantity>
+    <quantity>348</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4395.webp</image>
     </images>
@@ -384963,7 +384963,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>18.00</price>
     <old_price></old_price>
     <weight>0.70</weight>
-    <quantity>497</quantity>
+    <quantity>489</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4392.webp</image>
     </images>
@@ -385025,7 +385025,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>14.00</price>
     <old_price></old_price>
     <weight>0.44</weight>
-    <quantity>149</quantity>
+    <quantity>139</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4391.webp</image>
     </images>
@@ -385150,7 +385150,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>810.00</price>
     <old_price></old_price>
     <weight>8.00</weight>
-    <quantity>107</quantity>
+    <quantity>106</quantity>
     <images>
       <image>https://3cerp.eu/api/file/439002_1.jpg</image>
       <image>https://3cerp.eu/api/file/439002_2.jpg</image>
@@ -385297,7 +385297,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>695.00</price>
     <old_price></old_price>
     <weight>9.00</weight>
-    <quantity>14</quantity>
+    <quantity>13</quantity>
     <images>
       <image>https://3cerp.eu/api/file/439022_1.webp</image>
       <image>https://3cerp.eu/api/file/439022_2.webp</image>
@@ -385366,7 +385366,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>759.00</price>
     <old_price></old_price>
     <weight>9.00</weight>
-    <quantity>21</quantity>
+    <quantity>19</quantity>
     <images>
       <image>https://3cerp.eu/api/file/439021_2.jpg</image>
     </images>
@@ -385617,7 +385617,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>923.00</price>
     <old_price></old_price>
     <weight>9.60</weight>
-    <quantity>133</quantity>
+    <quantity>132</quantity>
     <images>
       <image>https://3cerp.eu/api/file/439016_1.png</image>
     </images>
@@ -385808,7 +385808,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>822.00</price>
     <old_price></old_price>
     <weight>8.00</weight>
-    <quantity>39</quantity>
+    <quantity>37</quantity>
     <images>
       <image>https://3cerp.eu/api/file/439012.jpg</image>
     </images>
@@ -385904,14 +385904,14 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>439009</sku>
     <barcode>9341150083668</barcode>
     <title>Pedders Xtreme Носачs (pair)</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><h3>Горни носачи TrakRyder eXtreme</h3><p>Гамата TrakRyder eXtreme горни рамена на Pedders е проектирана да разреши проблемите, свързани с независимото предно окачване на повдигнати автомобили, и е изработена от тръби от въглеродна стомана за оптимална здравина и издръжливост.</p><p>Когато автомобилът е повдигнат, това може да наруши фабричната геометрия на кормилното управление, което може да доведе до ъгли на кастер и камбер извън OEM спецификациите. Този продукт е проектиран да поддържа желаната геометрия за повдигнати автомобили, като същевременно осигурява клиренс за по-големи размери на колела и гуми.</p><h3>Характеристики и предимства</h3><ul><li>Проектирани да приемат фабрични и афтърмаркет шайби и втулки, ако е необходимо.<li><li>Уникално профилиран преден крак за по-голям клиренс при по-големи колела и гуми.<li><li>По-голям клиренс на амортисьора/опората за по-голям ход на колелото.<li><li>Наклонена чаша на шаровия шарнир, проектирана да работи с допълнителния ход, което позволява подобрена артикулация на шарнира.<li><li>Произведено от висококачествена тръба от въглеродна стомана с черно E Coat покритие, за да осигури по-голяма здравина и издръжливост в сравнение с оригиналния дизайн.<li><li>Проектиран да възстанови приемливи ъгли на геометрията чрез препозициониране на горната шайба, което намалява износването на гумите.<li><li>Механична шайба за тежки натоварвания, подходяща за смазване. Защитена с капачка от сплав, проектирана да предпазва смазочния нипел.<li><li>Всичко това е подкрепено от нашата 2-годишна гаранция / 25 000 мили<li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></ul><iframe width="600" height="367" src="https://www.youtube.com/embed/u6JT2aT7FJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><h3>Горни носачи TrakRyder eXtreme</h3><p>Гамата TrakRyder eXtreme горни рамена на Pedders е проектирана да разреши проблемите, свързани с независимото предно окачване на повдигнати автомобили, и е изработена от тръби от въглеродна стомана за оптимална здравина и издръжливост.</p><p>Когато автомобилът е повдигнат, това може да наруши фабричната геометрия на кормилното управление, което може да доведе до ъгли на кастер и камбер извън OEM спецификациите. Този продукт е проектиран да поддържа желаната геометрия за повдигнати автомобили, като същевременно осигурява клиренс за по-големи размери на колела и гуми.</p><h3>Характеристики и предимства</h3><ul><li>Проектирани да приемат фабрични и афтърмаркет шайби и втулки, ако е необходимо.<li><li>Уникално профилиран преден крак за по-голям клиренс при по-големи колела и гуми.<li><li>По-голям клиренс на амортисьора/опората за по-голям ход на колелото.<li><li>Наклонена чаша на шаровия шарнир, проектирана да работи с допълнителния ход, което позволява подобрена артикулация на шарнира.<li><li>Произведено от висококачествена тръба от въглеродна стомана с черно E Coat покритие, за да осигури по-голяма здравина и издръжливост в сравнение с оригиналния дизайн.<li><li>Проектиран да възстанови приемливи ъгли на геометрията чрез препозициониране на горната шайба, което намалява износването на гумите.<li><li>Механична шайба за тежки натоварвания, подходяща за смазване. Защитена с капачка от сплав, проектирана да предпазва смазочния нипел.<li><li>Всичко това е подкрепено от нашата 2-годишна гаранция / 25 000 мили<li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></ul><iframe width="600" height="367" src="https://www.youtube.com/embed/u6JT2aT7FJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></description>
     <category>Uncategorized</category>
     <sub_category></sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>646.00</price>
     <old_price></old_price>
     <weight>8.00</weight>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -385920,10 +385920,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <meta_description>Pedders Xtreme Носачs (pair)</meta_description>
     <category_properties>
       <category_property name="Срок за доставка">
-        <values><value><name>около 3 седмици</name></value></values>
+        <values><value><name>уточнява се</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>Заводски склад</name></value></values>
+        <values><value><name>По запитване</name></value></values>
       </category_property>
     </category_properties>
   </product>
@@ -385960,7 +385960,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>820.00</price>
     <old_price></old_price>
     <weight>8.00</weight>
-    <quantity>23</quantity>
+    <quantity>22</quantity>
     <images>
       <image>https://3cerp.eu/api/file/439008.webp</image>
     </images>
@@ -386150,7 +386150,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>810.00</price>
     <old_price></old_price>
     <weight>8.00</weight>
-    <quantity>20</quantity>
+    <quantity>19</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -386337,7 +386337,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>19.00</price>
     <old_price></old_price>
     <weight>0.66</weight>
-    <quantity>694</quantity>
+    <quantity>654</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4390.webp</image>
     </images>
@@ -386408,7 +386408,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>11.00</price>
     <old_price></old_price>
     <weight>0.72</weight>
-    <quantity>1759</quantity>
+    <quantity>1755</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4389.webp</image>
     </images>
@@ -386764,7 +386764,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>14.00</price>
     <old_price></old_price>
     <weight>0.60</weight>
-    <quantity>1238</quantity>
+    <quantity>1234</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4382.webp</image>
     </images>
@@ -387058,7 +387058,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>15.00</price>
     <old_price></old_price>
     <weight>0.60</weight>
-    <quantity>924</quantity>
+    <quantity>893</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4375.webp</image>
     </images>
@@ -387841,7 +387841,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>21.00</price>
     <old_price></old_price>
     <weight>0.15</weight>
-    <quantity>9</quantity>
+    <quantity>5</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4362.webp</image>
     </images>
@@ -388475,7 +388475,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>22.00</price>
     <old_price></old_price>
     <weight>0.75</weight>
-    <quantity>226</quantity>
+    <quantity>224</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4357.webp</image>
     </images>
@@ -388578,7 +388578,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>32.00</price>
     <old_price></old_price>
     <weight>0.15</weight>
-    <quantity>339</quantity>
+    <quantity>337</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4355.webp</image>
     </images>
@@ -388699,7 +388699,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>43.00</price>
     <old_price></old_price>
     <weight>0.25</weight>
-    <quantity>51</quantity>
+    <quantity>49</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4354.webp</image>
     </images>
@@ -389395,7 +389395,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>102.00</price>
     <old_price></old_price>
     <weight>10.00</weight>
-    <quantity>55</quantity>
+    <quantity>53</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435240L.webp</image>
       <image>https://3cerp.eu/api/file/435240L_1.webp</image>
@@ -389674,7 +389674,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>137.00</price>
     <old_price></old_price>
     <weight>4.16</weight>
-    <quantity>181</quantity>
+    <quantity>180</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -389716,7 +389716,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>137.00</price>
     <old_price></old_price>
     <weight>4.16</weight>
-    <quantity>172</quantity>
+    <quantity>171</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -389816,7 +389816,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>70.00</price>
     <old_price></old_price>
     <weight>0</weight>
-    <quantity>36</quantity>
+    <quantity>35</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -389845,7 +389845,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>76.00</price>
     <old_price></old_price>
     <weight>3.40</weight>
-    <quantity>32</quantity>
+    <quantity>31</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -390263,7 +390263,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>40.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>238</quantity>
+    <quantity>236</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4352.webp</image>
     </images>
@@ -390554,7 +390554,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>180.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>64</quantity>
+    <quantity>62</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435198R</image>
     </images>
@@ -390597,7 +390597,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>180.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>58</quantity>
+    <quantity>54</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435198L.webp</image>
     </images>
@@ -390682,7 +390682,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>124.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>532</quantity>
+    <quantity>531</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435197L.webp</image>
     </images>
@@ -390724,7 +390724,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>167.00</price>
     <old_price></old_price>
     <weight>8.00</weight>
-    <quantity>16</quantity>
+    <quantity>14</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -390782,7 +390782,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>167.00</price>
     <old_price></old_price>
     <weight>8.00</weight>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -392115,7 +392115,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>167.00</price>
     <old_price></old_price>
     <weight>4.00</weight>
-    <quantity>95</quantity>
+    <quantity>94</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435172R.webp</image>
     </images>
@@ -392176,7 +392176,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>167.00</price>
     <old_price></old_price>
     <weight>4.00</weight>
-    <quantity>108</quantity>
+    <quantity>107</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435172L.webp</image>
     </images>
@@ -392237,7 +392237,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>154.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>109</quantity>
+    <quantity>106</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435171R.webp</image>
     </images>
@@ -392288,7 +392288,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>154.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>96</quantity>
+    <quantity>93</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435171L.webp</image>
     </images>
@@ -393692,7 +393692,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>252.00</price>
     <old_price></old_price>
     <weight>10.20</weight>
-    <quantity>17</quantity>
+    <quantity>14</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435154R.webp</image>
     </images>
@@ -394540,7 +394540,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>80.00</price>
     <old_price></old_price>
     <weight>6.00</weight>
-    <quantity>13</quantity>
+    <quantity>12</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435144R.webp</image>
     </images>
@@ -394582,7 +394582,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>80.00</price>
     <old_price></old_price>
     <weight>6.00</weight>
-    <quantity>38</quantity>
+    <quantity>37</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435144L.webp</image>
     </images>
@@ -394624,7 +394624,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>264.00</price>
     <old_price></old_price>
     <weight>4.50</weight>
-    <quantity>61</quantity>
+    <quantity>59</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435142R.webp</image>
       <image>https://3cerp.eu/api/file/435142R_1.webp</image>
@@ -394671,7 +394671,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>264.00</price>
     <old_price></old_price>
     <weight>4.50</weight>
-    <quantity>56</quantity>
+    <quantity>54</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435142L.webp</image>
     </images>
@@ -394854,7 +394854,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>95.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>58</quantity>
+    <quantity>57</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -395008,7 +395008,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>138.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>36</quantity>
+    <quantity>35</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435138R.jpg</image>
     </images>
@@ -395055,7 +395055,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>138.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>30</quantity>
+    <quantity>29</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435138L.jpg</image>
     </images>
@@ -395313,7 +395313,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>83.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>109</quantity>
+    <quantity>108</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435135L.webp</image>
     </images>
@@ -395870,7 +395870,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>107.00</price>
     <old_price></old_price>
     <weight>2.00</weight>
-    <quantity>20</quantity>
+    <quantity>19</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -395919,7 +395919,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>107.00</price>
     <old_price></old_price>
     <weight>2.00</weight>
-    <quantity>32</quantity>
+    <quantity>31</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -395968,7 +395968,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>107.00</price>
     <old_price></old_price>
     <weight>2.00</weight>
-    <quantity>14</quantity>
+    <quantity>13</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -396017,7 +396017,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>110.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>12</quantity>
+    <quantity>11</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -396108,7 +396108,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>250.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>14</quantity>
+    <quantity>13</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435126L.webp</image>
     </images>
@@ -396236,7 +396236,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>84.00</price>
     <old_price></old_price>
     <weight>4.50</weight>
-    <quantity>37</quantity>
+    <quantity>35</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435124R.webp</image>
       <image>https://3cerp.eu/api/file/435124R_1.webp</image>
@@ -396285,7 +396285,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>84.00</price>
     <old_price></old_price>
     <weight>4.50</weight>
-    <quantity>32</quantity>
+    <quantity>30</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435124L.webp</image>
       <image>https://3cerp.eu/api/file/435124L_1.webp</image>
@@ -396811,7 +396811,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>250.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>133</quantity>
+    <quantity>131</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435115R.webp</image>
     </images>
@@ -396871,7 +396871,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>250.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>30</quantity>
+    <quantity>28</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435115L.webp</image>
     </images>
@@ -396931,7 +396931,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>154.00</price>
     <old_price></old_price>
     <weight>8.66</weight>
-    <quantity>20</quantity>
+    <quantity>17</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435114R.webp</image>
     </images>
@@ -396974,7 +396974,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>154.00</price>
     <old_price></old_price>
     <weight>8.66</weight>
-    <quantity>13</quantity>
+    <quantity>10</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435114L.webp</image>
     </images>
@@ -398141,7 +398141,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>170.00</price>
     <old_price></old_price>
     <weight>5.00</weight>
-    <quantity>9</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435098R.webp</image>
     </images>
@@ -398187,7 +398187,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>170.00</price>
     <old_price></old_price>
     <weight>5.00</weight>
-    <quantity>47</quantity>
+    <quantity>45</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435098L.webp</image>
     </images>
@@ -398321,7 +398321,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>295.00</price>
     <old_price></old_price>
     <weight>13.00</weight>
-    <quantity>95</quantity>
+    <quantity>91</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435096R.webp</image>
       <image>https://3cerp.eu/api/file/435096R_1.webp</image>
@@ -398369,7 +398369,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>295.00</price>
     <old_price></old_price>
     <weight>13.00</weight>
-    <quantity>50</quantity>
+    <quantity>46</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435096L.webp</image>
       <image>https://3cerp.eu/api/file/435096L_1.webp</image>
@@ -398417,7 +398417,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>163.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435095R.webp</image>
     </images>
@@ -398459,7 +398459,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>163.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435095L.webp</image>
     </images>
@@ -398501,7 +398501,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>215.00</price>
     <old_price></old_price>
     <weight>7.52</weight>
-    <quantity>457</quantity>
+    <quantity>454</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435094R.webp</image>
     </images>
@@ -398544,7 +398544,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>215.00</price>
     <old_price></old_price>
     <weight>7.52</weight>
-    <quantity>424</quantity>
+    <quantity>421</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435094L.webp</image>
     </images>
@@ -398759,7 +398759,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>195.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>12</quantity>
+    <quantity>11</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435091R.webp</image>
     </images>
@@ -398801,7 +398801,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>195.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435091L.webp</image>
     </images>
@@ -398927,7 +398927,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>301.00</price>
     <old_price></old_price>
     <weight>7.05</weight>
-    <quantity>269</quantity>
+    <quantity>267</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435089R---1.webp</image>
       <image>https://3cerp.eu/api/file/435089R---2.webp</image>
@@ -398978,7 +398978,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>301.00</price>
     <old_price></old_price>
     <weight>7.05</weight>
-    <quantity>242</quantity>
+    <quantity>240</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435089L.webp</image>
       <image>https://3cerp.eu/api/file/435089L_1.webp</image>
@@ -399027,7 +399027,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>102.00</price>
     <old_price></old_price>
     <weight>2.40</weight>
-    <quantity>94</quantity>
+    <quantity>92</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435088R.webp</image>
     </images>
@@ -399069,7 +399069,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>102.00</price>
     <old_price></old_price>
     <weight>2.40</weight>
-    <quantity>71</quantity>
+    <quantity>69</quantity>
     <images>
       <image>https://3cerp.eu/api/file/435088L.webp</image>
       <image>https://3cerp.eu/api/file/435088L_1.webp</image>
@@ -403843,14 +403843,14 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>435013R</sku>
     <barcode>9341150035537</barcode>
     <title>Pedders Носач</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><p>Рамената на окачването на Pedders са проектирани с подобрения спрямо оригиналния дизайн на продукта. Тези подобрения включват подсилено коване, усъвършенстван дизайн на шаровите шарнири и по-издръжливи втулки, които осигуряват по-добри експлоатационни характеристики, по-дълъг експлоатационен живот и по-голямо доверие от страна на клиентите.</p><h3>Характеристики и предимства</h3><ul><li>Висококачествена, пряка замяна на оригиналните части.</li><li>Проектирани за лесен монтаж и спестяване на време за монтажника.</li><li>Позволяват бърза замяна и лесно регулиране.</li><li>Чисто покритие на продукта за усещане „като ново“.</li><li>Възстановява геометрията на изравняването по-бързо.</li></ul><iframe width="600" height="368" src="https://www.youtube.com/embed/w06FoO-I6QE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><p>Рамената на окачването на Pedders са проектирани с подобрения спрямо оригиналния дизайн на продукта. Тези подобрения включват подсилено коване, усъвършенстван дизайн на шаровите шарнири и по-издръжливи втулки, които осигуряват по-добри експлоатационни характеристики, по-дълъг експлоатационен живот и по-голямо доверие от страна на клиентите.</p><h3>Характеристики и предимства</h3><ul><li>Висококачествена, пряка замяна на оригиналните части.</li><li>Проектирани за лесен монтаж и спестяване на време за монтажника.</li><li>Позволяват бърза замяна и лесно регулиране.</li><li>Чисто покритие на продукта за усещане „като ново“.</li><li>Възстановява геометрията на изравняването по-бързо.</li></ul><iframe width="600" height="368" src="https://www.youtube.com/embed/w06FoO-I6QE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></description>
     <category>Окачване</category>
     <sub_category>Преден долен носач</sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>100.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>0</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -403864,10 +403864,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
+        <values><value><name>около 3 седмици</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
+        <values><value><name>Заводски склад</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -405054,7 +405054,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>35.00</price>
     <old_price></old_price>
     <weight>0.80</weight>
-    <quantity>222</quantity>
+    <quantity>220</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4347.webp</image>
     </images>
@@ -405147,7 +405147,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>36.00</price>
     <old_price></old_price>
     <weight>1.18</weight>
-    <quantity>273</quantity>
+    <quantity>261</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4346.webp</image>
     </images>
@@ -405243,7 +405243,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>43.00</price>
     <old_price></old_price>
     <weight>0.60</weight>
-    <quantity>48</quantity>
+    <quantity>34</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4345_NEW.webp</image>
     </images>
@@ -405366,7 +405366,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>40.00</price>
     <old_price></old_price>
     <weight>1.66</weight>
-    <quantity>1259</quantity>
+    <quantity>1255</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4344.webp</image>
     </images>
@@ -405673,7 +405673,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>14.00</price>
     <old_price></old_price>
     <weight>1.81</weight>
-    <quantity>202</quantity>
+    <quantity>194</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -405718,7 +405718,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>18.00</price>
     <old_price></old_price>
     <weight>0.64</weight>
-    <quantity>14520</quantity>
+    <quantity>14424</quantity>
     <images>
       <image>https://3cerp.eu/api/file/434005.webp</image>
     </images>
@@ -406003,7 +406003,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>33.00</price>
     <old_price></old_price>
     <weight>0.68</weight>
-    <quantity>906</quantity>
+    <quantity>880</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4340.webp</image>
       <image>https://3cerp.eu/api/file/4340_1.webp</image>
@@ -406662,7 +406662,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>41.00</price>
     <old_price></old_price>
     <weight>2.00</weight>
-    <quantity>23</quantity>
+    <quantity>24</quantity>
     <images>
       <image>https://3cerp.eu/api/file/433002.webp</image>
       <image>https://3cerp.eu/api/file/433002_1.webp</image>
@@ -406846,7 +406846,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>121.00</price>
     <old_price></old_price>
     <weight>0.12</weight>
-    <quantity>101</quantity>
+    <quantity>100</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -407266,7 +407266,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>36.00</price>
     <old_price></old_price>
     <weight>0.75</weight>
-    <quantity>1743</quantity>
+    <quantity>1742</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4319.webp</image>
     </images>
@@ -407832,7 +407832,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>479.00</price>
     <old_price></old_price>
     <weight>0</weight>
-    <quantity>4</quantity>
+    <quantity>106</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -408996,7 +408996,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>29.00</price>
     <old_price></old_price>
     <weight>0.42</weight>
-    <quantity>3</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -409207,7 +409207,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>81.00</price>
     <old_price></old_price>
     <weight>0.30</weight>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <images>
       <image>https://3cerp.eu/api/file/424407.webp</image>
     </images>
@@ -411351,7 +411351,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>46.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>8</quantity>
+    <quantity>6</quantity>
     <images>
       <image>https://3cerp.eu/api/file/424356.webp</image>
     </images>
@@ -411780,7 +411780,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>53.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>24</quantity>
+    <quantity>22</quantity>
     <images>
       <image>https://3cerp.eu/api/file/424347.webp</image>
     </images>
@@ -411882,7 +411882,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>53.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>10</quantity>
+    <quantity>8</quantity>
     <images>
       <image>https://3cerp.eu/api/file/424345.webp</image>
     </images>
@@ -414441,7 +414441,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>96.00</price>
     <old_price></old_price>
     <weight>0.45</weight>
-    <quantity>67</quantity>
+    <quantity>66</quantity>
     <images>
       <image>https://3cerp.eu/api/file/424287.webp</image>
     </images>
@@ -414682,7 +414682,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>44.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>25</quantity>
+    <quantity>24</quantity>
     <images>
       <image>https://3cerp.eu/api/file/424281.webp</image>
     </images>
@@ -414730,7 +414730,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>44.00</price>
     <old_price></old_price>
     <weight>0.50</weight>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <images>
       <image>https://3cerp.eu/api/file/424280.webp</image>
     </images>
@@ -416160,7 +416160,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>32.00</price>
     <old_price></old_price>
     <weight>0.75</weight>
-    <quantity>44</quantity>
+    <quantity>42</quantity>
     <images>
       <image>https://3cerp.eu/api/file/424249.webp</image>
     </images>
@@ -416245,7 +416245,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>44.00</price>
     <old_price></old_price>
     <weight>0.75</weight>
-    <quantity>19</quantity>
+    <quantity>21</quantity>
     <images>
       <image>https://3cerp.eu/api/file/424247.webp</image>
     </images>
@@ -416462,7 +416462,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>47.00</price>
     <old_price></old_price>
     <weight>0.75</weight>
-    <quantity>43</quantity>
+    <quantity>41</quantity>
     <images>
       <image>https://3cerp.eu/api/file/424243.webp</image>
     </images>
@@ -417986,7 +417986,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>35.00</price>
     <old_price></old_price>
     <weight>0.25</weight>
-    <quantity>23</quantity>
+    <quantity>20</quantity>
     <images>
       <image>https://3cerp.eu/api/file/424214.webp</image>
     </images>
@@ -418243,7 +418243,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>59.00</price>
     <old_price></old_price>
     <weight>0.25</weight>
-    <quantity>73</quantity>
+    <quantity>71</quantity>
     <images>
       <image>https://3cerp.eu/api/file/424209.webp</image>
     </images>
@@ -430078,7 +430078,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>375.00</price>
     <old_price></old_price>
     <weight>9.00</weight>
-    <quantity>3</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/410117.webp</image>
     </images>
@@ -446820,7 +446820,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>149.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>45</quantity>
+    <quantity>44</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -446903,7 +446903,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>149.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>43</quantity>
+    <quantity>42</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -447647,7 +447647,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>170.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>8</quantity>
+    <quantity>6</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -459415,7 +459415,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>147.00</price>
     <old_price></old_price>
     <weight>8.00</weight>
-    <quantity>15</quantity>
+    <quantity>14</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -459444,7 +459444,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>147.00</price>
     <old_price></old_price>
     <weight>8.00</weight>
-    <quantity>17</quantity>
+    <quantity>16</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -460165,7 +460165,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>143.00</price>
     <old_price></old_price>
     <weight>6.00</weight>
-    <quantity>416</quantity>
+    <quantity>414</quantity>
     <images>
       <image>https://3cerp.eu/api/file/290407.jpg</image>
     </images>
@@ -460259,7 +460259,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>110.00</price>
     <old_price></old_price>
     <weight>4.72</weight>
-    <quantity>16</quantity>
+    <quantity>14</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -461443,7 +461443,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>136.00</price>
     <old_price></old_price>
     <weight>5.59</weight>
-    <quantity>74</quantity>
+    <quantity>72</quantity>
     <images>
       <image>https://3cerp.eu/api/file/290199.webp</image>
     </images>
@@ -461531,7 +461531,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>134.00</price>
     <old_price></old_price>
     <weight>5.00</weight>
-    <quantity>56</quantity>
+    <quantity>54</quantity>
     <images>
       <image>https://3cerp.eu/api/file/290198.webp</image>
     </images>
@@ -462333,7 +462333,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>150.00</price>
     <old_price></old_price>
     <weight>4.20</weight>
-    <quantity>28</quantity>
+    <quantity>26</quantity>
     <images>
       <image>https://3cerp.eu/api/file/290108.webp</image>
     </images>
@@ -462965,7 +462965,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>166.00</price>
     <old_price></old_price>
     <weight>5.00</weight>
-    <quantity>24</quantity>
+    <quantity>22</quantity>
     <images>
       <image>https://3cerp.eu/api/file/290087.webp</image>
     </images>
@@ -463790,7 +463790,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>134.00</price>
     <old_price></old_price>
     <weight>6.34</weight>
-    <quantity>66</quantity>
+    <quantity>65</quantity>
     <images>
       <image>https://3cerp.eu/api/file/290073R.webp</image>
     </images>
@@ -463883,7 +463883,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>134.00</price>
     <old_price></old_price>
     <weight>6.34</weight>
-    <quantity>20</quantity>
+    <quantity>19</quantity>
     <images>
       <image>https://3cerp.eu/api/file/290073L.webp</image>
     </images>
@@ -464925,7 +464925,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>157.00</price>
     <old_price></old_price>
     <weight>6.00</weight>
-    <quantity>70</quantity>
+    <quantity>68</quantity>
     <images>
       <image>https://3cerp.eu/api/file/281251.webp</image>
     </images>
@@ -465277,7 +465277,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>146.00</price>
     <old_price></old_price>
     <weight>6.00</weight>
-    <quantity>573</quantity>
+    <quantity>549</quantity>
     <images>
       <image>https://3cerp.eu/api/file/280407.1.jpg</image>
     </images>
@@ -465583,7 +465583,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>151.00</price>
     <old_price></old_price>
     <weight>8.00</weight>
-    <quantity>637</quantity>
+    <quantity>633</quantity>
     <images>
       <image>https://3cerp.eu/api/file/280252.png</image>
     </images>
@@ -466735,7 +466735,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>140.00</price>
     <old_price></old_price>
     <weight>5.20</weight>
-    <quantity>24</quantity>
+    <quantity>22</quantity>
     <images>
       <image>https://3cerp.eu/api/file/280165.webp</image>
     </images>
@@ -467922,7 +467922,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>153.00</price>
     <old_price></old_price>
     <weight>7.92</weight>
-    <quantity>232</quantity>
+    <quantity>230</quantity>
     <images>
       <image>https://3cerp.eu/api/file/280129.webp</image>
     </images>
@@ -469280,7 +469280,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>280087</sku>
     <barcode>9341150061444</barcode>
     <title>Pedders Trakryder Винтова пружина</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><div itemscope itemtype="https://schema.org/Product" style="text-align: left;">
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><div itemscope itemtype="https://schema.org/Product" style="text-align: left;">
     <meta itemprop="name" content="Pedders Premium Coil Springs">
     <meta itemprop="brand" content="Pedders">
     <meta itemprop="description" content="Premium Pedders Coil Springs built to ISO 9001 standards. Unrivaled handling, stability, and load carrying. Available for standard, raised, and lowered applications.">
@@ -469333,7 +469333,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>120.00</price>
     <old_price></old_price>
     <weight>5.15</weight>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://3cerp.eu/api/file/280087.webp</image>
     </images>
@@ -469347,10 +469347,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>около 3 седмици</name></value></values>
+        <values><value><name>уточнява се</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>Заводски склад</name></value></values>
+        <values><value><name>По запитване</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -469538,7 +469538,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>147.00</price>
     <old_price></old_price>
     <weight>6.75</weight>
-    <quantity>616</quantity>
+    <quantity>614</quantity>
     <images>
       <image>https://3cerp.eu/api/file/280077.webp</image>
     </images>
@@ -470122,7 +470122,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>161.00</price>
     <old_price></old_price>
     <weight>6.34</weight>
-    <quantity>1894</quantity>
+    <quantity>1892</quantity>
     <images>
       <image>https://3cerp.eu/api/file/280071.webp</image>
     </images>
@@ -471796,7 +471796,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>129.00</price>
     <old_price></old_price>
     <weight>6.00</weight>
-    <quantity>3</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/270251.png</image>
     </images>
@@ -471974,7 +471974,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>133.00</price>
     <old_price></old_price>
     <weight>6.50</weight>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <images>
       <image>https://3cerp.eu/api/file/270242.webp</image>
     </images>
@@ -474338,7 +474338,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>122.00</price>
     <old_price></old_price>
     <weight>5.80</weight>
-    <quantity>3</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/270050.webp</image>
     </images>
@@ -477359,7 +477359,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>556.00</price>
     <old_price></old_price>
     <weight>38.00</weight>
-    <quantity>21</quantity>
+    <quantity>19</quantity>
     <images>
       <image>https://3cerp.eu/api/file/266411.webp</image>
     </images>
@@ -477445,7 +477445,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>765.00</price>
     <old_price></old_price>
     <weight>60.00</weight>
-    <quantity>127</quantity>
+    <quantity>126</quantity>
     <images>
       <image>https://3cerp.eu/api/file/266277PS.webp</image>
     </images>
@@ -477538,7 +477538,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>765.00</price>
     <old_price></old_price>
     <weight>60.00</weight>
-    <quantity>201</quantity>
+    <quantity>200</quantity>
     <images>
       <image>https://3cerp.eu/api/file/266277DS.webp</image>
     </images>
@@ -477850,7 +477850,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>470.00</price>
     <old_price></old_price>
     <weight>38.87</weight>
-    <quantity>481</quantity>
+    <quantity>479</quantity>
     <images>
       <image>https://3cerp.eu/api/file/266096.webp</image>
     </images>
@@ -478077,7 +478077,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>465.00</price>
     <old_price></old_price>
     <weight>37.00</weight>
-    <quantity>120</quantity>
+    <quantity>119</quantity>
     <images>
       <image>https://3cerp.eu/api/file/266023.webp</image>
     </images>
@@ -478318,7 +478318,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>479.00</price>
     <old_price></old_price>
     <weight>37.98</weight>
-    <quantity>758</quantity>
+    <quantity>768</quantity>
     <images>
       <image>https://3cerp.eu/api/file/266012.webp</image>
     </images>
@@ -478784,7 +478784,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>524.00</price>
     <old_price></old_price>
     <weight>30.00</weight>
-    <quantity>120</quantity>
+    <quantity>150</quantity>
     <images>
       <image>https://3cerp.eu/api/file/265411.TAG.0.EXT.jpg</image>
     </images>
@@ -479373,7 +479373,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>423.00</price>
     <old_price></old_price>
     <weight>35.00</weight>
-    <quantity>299</quantity>
+    <quantity>297</quantity>
     <images>
       <image>https://3cerp.eu/api/file/265096.webp</image>
     </images>
@@ -479845,7 +479845,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>482.00</price>
     <old_price></old_price>
     <weight>35.00</weight>
-    <quantity>104</quantity>
+    <quantity>102</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -479931,7 +479931,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>455.00</price>
     <old_price></old_price>
     <weight>32.60</weight>
-    <quantity>26</quantity>
+    <quantity>107</quantity>
     <images>
       <image>https://3cerp.eu/api/file/265012.webp</image>
     </images>
@@ -480284,7 +480284,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>485.00</price>
     <old_price></old_price>
     <weight>29.00</weight>
-    <quantity>10</quantity>
+    <quantity>6</quantity>
     <images>
       <image>https://3cerp.eu/api/file/265006.webp</image>
     </images>
@@ -480549,7 +480549,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>466.00</price>
     <old_price></old_price>
     <weight>38.76</weight>
-    <quantity>97</quantity>
+    <quantity>91</quantity>
     <images>
       <image>https://3cerp.eu/api/file/265002.webp</image>
     </images>
@@ -481372,7 +481372,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>130.00</price>
     <old_price></old_price>
     <weight>6.13</weight>
-    <quantity>40</quantity>
+    <quantity>34</quantity>
     <images>
       <image>https://3cerp.eu/api/file/2643.webp</image>
     </images>
@@ -481748,7 +481748,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>377.00</price>
     <old_price></old_price>
     <weight>25.00</weight>
-    <quantity>246</quantity>
+    <quantity>244</quantity>
     <images>
       <image>https://3cerp.eu/api/file/264023.webp</image>
     </images>
@@ -481844,7 +481844,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>443.00</price>
     <old_price></old_price>
     <weight>34.20</weight>
-    <quantity>87</quantity>
+    <quantity>81</quantity>
     <images>
       <image>https://3cerp.eu/api/file/263011_4.jpg</image>
     </images>
@@ -482544,7 +482544,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>453.00</price>
     <old_price></old_price>
     <weight>35.00</weight>
-    <quantity>66</quantity>
+    <quantity>62</quantity>
     <images>
       <image>https://3cerp.eu/api/file/264002.webp</image>
     </images>
@@ -483106,7 +483106,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>110.00</price>
     <old_price></old_price>
     <weight>4.04</weight>
-    <quantity>40</quantity>
+    <quantity>38</quantity>
     <images>
       <image>https://3cerp.eu/api/file/2633.webp</image>
     </images>
@@ -483457,7 +483457,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>378.00</price>
     <old_price></old_price>
     <weight>30.00</weight>
-    <quantity>24</quantity>
+    <quantity>54</quantity>
     <images>
       <image>https://3cerp.eu/api/file/263022.webp</image>
     </images>
@@ -483814,7 +483814,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>322.00</price>
     <old_price></old_price>
     <weight>26.10</weight>
-    <quantity>68</quantity>
+    <quantity>66</quantity>
     <images>
       <image>https://3cerp.eu/api/file/263004.webp</image>
     </images>
@@ -484571,7 +484571,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>112.00</price>
     <old_price></old_price>
     <weight>4.71</weight>
-    <quantity>56</quantity>
+    <quantity>54</quantity>
     <images>
       <image>https://3cerp.eu/api/file/2624.webp</image>
     </images>
@@ -484864,7 +484864,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>335.00</price>
     <old_price></old_price>
     <weight>28.14</weight>
-    <quantity>69</quantity>
+    <quantity>99</quantity>
     <images>
       <image>https://3cerp.eu/api/file/262098.webp</image>
     </images>
@@ -489959,7 +489959,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>910.00</price>
     <old_price></old_price>
     <weight>49.00</weight>
-    <quantity>1456</quantity>
+    <quantity>1454</quantity>
     <images>
       <image>https://3cerp.eu/api/file/254277.webp</image>
     </images>
@@ -490011,7 +490011,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>104.00</price>
     <old_price></old_price>
     <weight>3.99</weight>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -490527,7 +490527,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>408.00</price>
     <old_price></old_price>
     <weight>20.70</weight>
-    <quantity>13</quantity>
+    <quantity>11</quantity>
     <images>
       <image>https://3cerp.eu/api/file/254003.webp1</image>
     </images>
@@ -493866,7 +493866,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>176.00</price>
     <old_price></old_price>
     <weight>7.20</weight>
-    <quantity>31</quantity>
+    <quantity>29</quantity>
     <images>
       <image>https://3cerp.eu/api/file/240180_1.webp</image>
     </images>
@@ -508159,14 +508159,14 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>2261</sku>
     <barcode>9341150007442</barcode>
     <title>Pedders Sportsryder Винтова пружина</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><h3>Спирални пружини Pedders</h3><p>Спиралните пружини Pedders са премиум гамата спирални пружини на Pedder за многобройни приложения. Произведени съгласно стандартите ISO 9001 с толеранс от само +/-2 мм при височина под натоварване. Спиралните пружини Pedders са просто без конкуренция по отношение на управляемост, външен вид на автомобила и производителност. Проектирането и производството на спирални пружини е занаят, който изисква стриктно спазване на серия от строги процедури, всички от които са от решаващо значение за производителността на крайния продукт.</p><p>Твърдостта на пружината трябва да съответства на теглото на автомобила, който се опира върху нея, както и на теглото на останалите компоненти на окачването и колелото. Твърдостта на пружината контролира също така твърдостта при накланяне, или накланянето на каросерията. Чрез намаляване на накланянето на каросерията намаляваме степента на промяна на камбера на колелата. Голяма промяна на камбера може драстично да намали контакта на гумата с пътната повърхност, което сериозно ограничава потенциала за управляемост при завиване.</p><p>Управляемостта на повечето превозни средства се подобрява значително чрез увеличаване на оригиналната твърдост на пружините до оптимална стойност, която максимизира сцеплението на гумите и намалява накланянето на каросерията за по-добра управляемост. Увеличаването на твърдостта на пружините над оптималната стойност намалява потенциала за управляемост, тъй като гумите започват да прескачат неравностите, което намалява сцеплението и безопасността.</p><h3>Характеристики и предимства</h3><ul><li>Горещо навиване</li><li>Закаляване в масло</li><li>Темпериране в пещ</li><li>Броялно укрепване</li><li>Скрагинг</li><li>Изпитване на височина и скорост при натоварване</li><li>Прахово боядисване и опаковане</li></ul><iframe width="600" height="368" src="https://www.youtube.com/embed/g1aSCo4S2_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><h3>Спирални пружини Pedders</h3><p>Спиралните пружини Pedders са премиум гамата спирални пружини на Pedder за многобройни приложения. Произведени съгласно стандартите ISO 9001 с толеранс от само +/-2 мм при височина под натоварване. Спиралните пружини Pedders са просто без конкуренция по отношение на управляемост, външен вид на автомобила и производителност. Проектирането и производството на спирални пружини е занаят, който изисква стриктно спазване на серия от строги процедури, всички от които са от решаващо значение за производителността на крайния продукт.</p><p>Твърдостта на пружината трябва да съответства на теглото на автомобила, който се опира върху нея, както и на теглото на останалите компоненти на окачването и колелото. Твърдостта на пружината контролира също така твърдостта при накланяне, или накланянето на каросерията. Чрез намаляване на накланянето на каросерията намаляваме степента на промяна на камбера на колелата. Голяма промяна на камбера може драстично да намали контакта на гумата с пътната повърхност, което сериозно ограничава потенциала за управляемост при завиване.</p><p>Управляемостта на повечето превозни средства се подобрява значително чрез увеличаване на оригиналната твърдост на пружините до оптимална стойност, която максимизира сцеплението на гумите и намалява накланянето на каросерията за по-добра управляемост. Увеличаването на твърдостта на пружините над оптималната стойност намалява потенциала за управляемост, тъй като гумите започват да прескачат неравностите, което намалява сцеплението и безопасността.</p><h3>Характеристики и предимства</h3><ul><li>Горещо навиване</li><li>Закаляване в масло</li><li>Темпериране в пещ</li><li>Броялно укрепване</li><li>Скрагинг</li><li>Изпитване на височина и скорост при натоварване</li><li>Прахово боядисване и опаковане</li></ul><iframe width="600" height="368" src="https://www.youtube.com/embed/g1aSCo4S2_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></description>
     <category>Uncategorized</category>
     <sub_category></sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>107.00</price>
     <old_price></old_price>
     <weight>4.79</weight>
-    <quantity>2</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://3cerp.eu/api/file/2261.webp</image>
     </images>
@@ -508175,10 +508175,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <meta_description>Pedders Sportsryder Винтова пружина</meta_description>
     <category_properties>
       <category_property name="Срок за доставка">
-        <values><value><name>около 3 седмици</name></value></values>
+        <values><value><name>уточнява се</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>Заводски склад</name></value></values>
+        <values><value><name>По запитване</name></value></values>
       </category_property>
     </category_properties>
   </product>
@@ -513145,7 +513145,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>150.00</price>
     <old_price></old_price>
     <weight>4.00</weight>
-    <quantity>52</quantity>
+    <quantity>50</quantity>
     <images>
       <image>https://3cerp.eu/api/file/220136.webp</image>
     </images>
@@ -521935,7 +521935,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>121.00</price>
     <old_price></old_price>
     <weight>5.37</weight>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://3cerp.eu/api/file/2130R.webp</image>
     </images>
@@ -522029,7 +522029,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>121.00</price>
     <old_price></old_price>
     <weight>5.37</weight>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/2130L.webp</image>
     </images>
@@ -524032,7 +524032,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>117.00</price>
     <old_price></old_price>
     <weight>5.24</weight>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <images>
       <image>https://3cerp.eu/api/file/2090.webp</image>
     </images>
@@ -525615,7 +525615,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>118.00</price>
     <old_price></old_price>
     <weight>5.82</weight>
-    <quantity>55</quantity>
+    <quantity>53</quantity>
     <images>
       <image>https://3cerp.eu/api/file/2061.webp</image>
     </images>
@@ -525644,7 +525644,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>110.00</price>
     <old_price></old_price>
     <weight>5.48</weight>
-    <quantity>39</quantity>
+    <quantity>37</quantity>
     <images>
       <image>https://3cerp.eu/api/file/2060.webp</image>
     </images>
@@ -527548,7 +527548,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>2032R</sku>
     <barcode>9341150012842</barcode>
     <title>Pedders Sportsryder Винтова пружина</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><div itemscope itemtype="https://schema.org/Product" style="text-align: left;">
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><div itemscope itemtype="https://schema.org/Product" style="text-align: left;">
     <meta itemprop="name" content="Pedders Premium Coil Springs">
     <meta itemprop="brand" content="Pedders">
     <meta itemprop="description" content="Premium Pedders Coil Springs built to ISO 9001 standards. Unrivaled handling, stability, and load carrying. Available for standard, raised, and lowered applications.">
@@ -527601,7 +527601,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>144.00</price>
     <old_price></old_price>
     <weight>7.17</weight>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -527615,10 +527615,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>около 3 седмици</name></value></values>
+        <values><value><name>уточнява се</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>Заводски склад</name></value></values>
+        <values><value><name>По запитване</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -529027,7 +529027,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>88.00</price>
     <old_price></old_price>
     <weight>3.75</weight>
-    <quantity>80</quantity>
+    <quantity>78</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -537733,9 +537733,9 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <category>Пружини и амортисьори</category>
     <sub_category>Coilover комплекти (цяла кола)</sub_category>
     <manufacturer>Pedders</manufacturer>
-    <price>1497.00</price>
+    <price>1473.00</price>
     <old_price></old_price>
-    <weight>26.00</weight>
+    <weight>18.40</weight>
     <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/160066.webp</image>
@@ -539843,14 +539843,14 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>160035</sku>
     <barcode>9341150015232</barcode>
     <title>Pedders Extreme XA Coilover Kit</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><h3>Кликнете. Настройте. Насладете се на екстремния XA от Pedders!</h3><p>Комплектът Pedders eXtreme XA Adjustable Coilover, монтиран на вашия автомобил, осигурява изключителни характеристики на движение и управление. С възможността да повдигате или спускате автомобила според вашите нужди при шофиране, комплектът eXtreme XA е ценен компонент за любителите на тунинг или състезателите по пистите през уикенда.</p><p>Награденият комплект регулируеми амортисьори Pedders eXtreme XA предлага изключителни характеристики на возене и управление. С възможността да повдигате или спускате колата според вашите нужди при шофиране, без да променяте предварителното натоварване на спиралата или позицията на долната седалка на пружината. Регулируемото амортизиране при удари и отскачане с 30 позиции се включва с едно просто натискане на копчето за регулиране, разположено в горната част на амортисьора. Това позволява на водача да настрои возенето според условията на шофиране.</p><h3>Характеристики и предимства</h3><ul><li>30-позиционно регулируемо амортизиране</li><li>Регулируема височина на окачването</li><li>Зареждане с азотен газ</li><li>Спирални пружини от легирана стомана за моторспорт</li><li>Корпус с моно-тръба с пълна резба</li><li>Скоби в заводски стил</li></ul>]]></description>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><h3>Кликнете. Настройте. Насладете се на екстремния XA от Pedders!</h3><p>Комплектът Pedders eXtreme XA Adjustable Coilover, монтиран на вашия автомобил, осигурява изключителни характеристики на движение и управление. С възможността да повдигате или спускате автомобила според вашите нужди при шофиране, комплектът eXtreme XA е ценен компонент за любителите на тунинг или състезателите по пистите през уикенда.</p><p>Награденият комплект регулируеми амортисьори Pedders eXtreme XA предлага изключителни характеристики на возене и управление. С възможността да повдигате или спускате колата според вашите нужди при шофиране, без да променяте предварителното натоварване на спиралата или позицията на долната седалка на пружината. Регулируемото амортизиране при удари и отскачане с 30 позиции се включва с едно просто натискане на копчето за регулиране, разположено в горната част на амортисьора. Това позволява на водача да настрои возенето според условията на шофиране.</p><h3>Характеристики и предимства</h3><ul><li>30-позиционно регулируемо амортизиране</li><li>Регулируема височина на окачването</li><li>Зареждане с азотен газ</li><li>Спирални пружини от легирана стомана за моторспорт</li><li>Корпус с моно-тръба с пълна резба</li><li>Скоби в заводски стил</li></ul>]]></description>
     <category>Uncategorized</category>
     <sub_category></sub_category>
     <manufacturer>Pedders</manufacturer>
     <price>1230.00</price>
     <old_price></old_price>
     <weight>26.00</weight>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://3cerp.eu/api/file/160035.webp</image>
     </images>
@@ -539859,10 +539859,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <meta_description>Pedders Extreme XA Coilover Kit</meta_description>
     <category_properties>
       <category_property name="Срок за доставка">
-        <values><value><name>около 3 седмици</name></value></values>
+        <values><value><name>уточнява се</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>Заводски склад</name></value></values>
+        <values><value><name>По запитване</name></value></values>
       </category_property>
     </category_properties>
   </product>
@@ -541099,7 +541099,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>1388.00</price>
     <old_price></old_price>
     <weight>26.00</weight>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://3cerp.eu/api/file/160018.webp</image>
     </images>
@@ -542733,7 +542733,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>269.00</price>
     <old_price></old_price>
     <weight>5.00</weight>
-    <quantity>360</quantity>
+    <quantity>358</quantity>
     <images>
       <image>https://3cerp.eu/api/file/156407.webp</image>
       <image>https://3cerp.eu/api/file/156407_2.webp</image>
@@ -543587,7 +543587,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>271.00</price>
     <old_price></old_price>
     <weight>5.20</weight>
-    <quantity>44</quantity>
+    <quantity>28</quantity>
     <images>
       <image>https://3cerp.eu/api/file/154407.webp</image>
     </images>
@@ -544167,7 +544167,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>225.00</price>
     <old_price></old_price>
     <weight>3.90</weight>
-    <quantity>169</quantity>
+    <quantity>167</quantity>
     <images>
       <image>https://3cerp.eu/api/file/154398.webp</image>
     </images>
@@ -544916,7 +544916,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>200.00</price>
     <old_price></old_price>
     <weight>3.90</weight>
-    <quantity>152</quantity>
+    <quantity>144</quantity>
     <images>
       <image>https://3cerp.eu/api/file/154340.webp</image>
     </images>
@@ -545034,7 +545034,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>225.00</price>
     <old_price></old_price>
     <weight>4.00</weight>
-    <quantity>231</quantity>
+    <quantity>229</quantity>
     <images>
       <image>https://3cerp.eu/api/file/154331.webp</image>
     </images>
@@ -545147,7 +545147,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>222.00</price>
     <old_price></old_price>
     <weight>4.28</weight>
-    <quantity>68</quantity>
+    <quantity>64</quantity>
     <images>
       <image>https://3cerp.eu/api/file/154325.webp</image>
     </images>
@@ -545362,7 +545362,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>223.00</price>
     <old_price></old_price>
     <weight>3.30</weight>
-    <quantity>80</quantity>
+    <quantity>78</quantity>
     <images>
       <image>https://3cerp.eu/api/file/154307.webp</image>
     </images>
@@ -545481,7 +545481,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>224.00</price>
     <old_price></old_price>
     <weight>3.70</weight>
-    <quantity>71</quantity>
+    <quantity>67</quantity>
     <images>
       <image>https://3cerp.eu/api/file/154306.webp</image>
     </images>
@@ -546212,7 +546212,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>158.00</price>
     <old_price></old_price>
     <weight>5.00</weight>
-    <quantity>21</quantity>
+    <quantity>19</quantity>
     <images>
       <image>https://3cerp.eu/api/file/153564.webp</image>
     </images>
@@ -546605,7 +546605,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>151.00</price>
     <old_price></old_price>
     <weight>2.92</weight>
-    <quantity>475</quantity>
+    <quantity>471</quantity>
     <images>
       <image>https://3cerp.eu/api/file/153231.webp</image>
     </images>
@@ -546925,7 +546925,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>226.00</price>
     <old_price></old_price>
     <weight>4.30</weight>
-    <quantity>75</quantity>
+    <quantity>73</quantity>
     <images>
       <image>https://3cerp.eu/api/file/152302.webp</image>
     </images>
@@ -547312,7 +547312,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>216.00</price>
     <old_price></old_price>
     <weight>3.50</weight>
-    <quantity>184</quantity>
+    <quantity>156</quantity>
     <images>
       <image>https://3cerp.eu/api/file/151407_new.jpg</image>
     </images>
@@ -547581,7 +547581,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>98.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>387</quantity>
+    <quantity>385</quantity>
     <images>
       <image>https://3cerp.eu/api/file/151382.png</image>
     </images>
@@ -547683,7 +547683,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>98.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>30</quantity>
+    <quantity>28</quantity>
     <images>
       <image>https://3cerp.eu/api/file/151381.png</image>
     </images>
@@ -548456,7 +548456,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>213.00</price>
     <old_price></old_price>
     <weight>5.00</weight>
-    <quantity>12</quantity>
+    <quantity>10</quantity>
     <images>
       <image>https://3cerp.eu/api/file/151262.webp</image>
     </images>
@@ -549638,7 +549638,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>208.00</price>
     <old_price></old_price>
     <weight>5.00</weight>
-    <quantity>19</quantity>
+    <quantity>17</quantity>
     <images>
       <image>https://3cerp.eu/api/file/151237.webp</image>
     </images>
@@ -549949,7 +549949,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>193.00</price>
     <old_price></old_price>
     <weight>3.40</weight>
-    <quantity>153</quantity>
+    <quantity>147</quantity>
     <images>
       <image>https://3cerp.eu/api/file/151232.webp</image>
     </images>
@@ -550160,7 +550160,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>179.00</price>
     <old_price></old_price>
     <weight>3.90</weight>
-    <quantity>310</quantity>
+    <quantity>308</quantity>
     <images>
       <image>https://3cerp.eu/api/file/151229.webp</image>
     </images>
@@ -550480,7 +550480,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>178.00</price>
     <old_price></old_price>
     <weight>3.59</weight>
-    <quantity>66</quantity>
+    <quantity>60</quantity>
     <images>
       <image>https://3cerp.eu/api/file/151226.webp</image>
     </images>
@@ -552592,7 +552592,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>240.00</price>
     <old_price></old_price>
     <weight>6.00</weight>
-    <quantity>23</quantity>
+    <quantity>22</quantity>
     <images>
       <image>https://3cerp.eu/api/file/149069R.webp</image>
     </images>
@@ -552674,7 +552674,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>240.00</price>
     <old_price></old_price>
     <weight>6.00</weight>
-    <quantity>19</quantity>
+    <quantity>18</quantity>
     <images>
       <image>https://3cerp.eu/api/file/149069L.webp</image>
     </images>
@@ -554840,7 +554840,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>153.00</price>
     <old_price></old_price>
     <weight>3.80</weight>
-    <quantity>22</quantity>
+    <quantity>20</quantity>
     <images>
       <image>https://3cerp.eu/api/file/144340.webp</image>
     </images>
@@ -555400,7 +555400,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>169.00</price>
     <old_price></old_price>
     <weight>4.50</weight>
-    <quantity>58</quantity>
+    <quantity>54</quantity>
     <images>
       <image>https://3cerp.eu/api/file/144313.webp</image>
     </images>
@@ -555586,7 +555586,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>164.00</price>
     <old_price></old_price>
     <weight>4.10</weight>
-    <quantity>17</quantity>
+    <quantity>15</quantity>
     <images>
       <image>https://3cerp.eu/api/file/144306.webp</image>
     </images>
@@ -555857,7 +555857,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>167.00</price>
     <old_price></old_price>
     <weight>4.00</weight>
-    <quantity>33</quantity>
+    <quantity>31</quantity>
     <images>
       <image>https://3cerp.eu/api/file/144302.webp</image>
     </images>
@@ -555940,7 +555940,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>167.00</price>
     <old_price></old_price>
     <weight>4.10</weight>
-    <quantity>428</quantity>
+    <quantity>424</quantity>
     <images>
       <image>https://3cerp.eu/api/file/144301.webp</image>
     </images>
@@ -556649,7 +556649,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>127.00</price>
     <old_price></old_price>
     <weight>2.80</weight>
-    <quantity>5</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -557636,7 +557636,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>189.00</price>
     <old_price></old_price>
     <weight>2.80</weight>
-    <quantity>38</quantity>
+    <quantity>36</quantity>
     <images>
       <image>https://3cerp.eu/api/file/141230.webp</image>
     </images>
@@ -558003,7 +558003,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>141.00</price>
     <old_price></old_price>
     <weight>2.96</weight>
-    <quantity>56</quantity>
+    <quantity>54</quantity>
     <images>
       <image>https://3cerp.eu/api/file/141211.webp</image>
     </images>
@@ -560257,7 +560257,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>142.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>90</quantity>
+    <quantity>89</quantity>
     <images>
       <image>https://3cerp.eu/api/file/135019.webp</image>
     </images>
@@ -560391,7 +560391,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>136.00</price>
     <old_price></old_price>
     <weight>2.96</weight>
-    <quantity>41</quantity>
+    <quantity>39</quantity>
     <images>
       <image>https://3cerp.eu/api/file/135016.webp</image>
     </images>
@@ -560772,7 +560772,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>137.00</price>
     <old_price></old_price>
     <weight>3.30</weight>
-    <quantity>53</quantity>
+    <quantity>50</quantity>
     <images>
       <image>https://3cerp.eu/api/file/135008.webp</image>
     </images>
@@ -563381,7 +563381,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>118.00</price>
     <old_price></old_price>
     <weight>4.47</weight>
-    <quantity>18</quantity>
+    <quantity>17</quantity>
     <images>
       <image>https://3cerp.eu/api/file/129242R.webp</image>
     </images>
@@ -563410,7 +563410,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>118.00</price>
     <old_price></old_price>
     <weight>4.47</weight>
-    <quantity>14</quantity>
+    <quantity>13</quantity>
     <images>
       <image>https://3cerp.eu/api/file/129242L.webp</image>
     </images>
@@ -564427,7 +564427,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>227.00</price>
     <old_price></old_price>
     <weight>4.00</weight>
-    <quantity>5</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://3cerp.eu/api/file/129196.jpg</image>
     </images>
@@ -572364,7 +572364,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>154.00</price>
     <old_price></old_price>
     <weight>4.20</weight>
-    <quantity>39</quantity>
+    <quantity>38</quantity>
     <images>
       <image>https://3cerp.eu/api/file/129111R.webp</image>
     </images>
@@ -572447,7 +572447,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>154.00</price>
     <old_price></old_price>
     <weight>4.20</weight>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://3cerp.eu/api/file/129111L.webp</image>
     </images>
@@ -572876,7 +572876,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>178.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>16</quantity>
+    <quantity>15</quantity>
     <images>
       <image>https://3cerp.eu/api/file/129108R.webp</image>
     </images>
@@ -572963,7 +572963,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>178.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>16</quantity>
+    <quantity>15</quantity>
     <images>
       <image>https://3cerp.eu/api/file/129108L.webp</image>
     </images>
@@ -574042,7 +574042,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>178.00</price>
     <old_price></old_price>
     <weight>4.50</weight>
-    <quantity>32</quantity>
+    <quantity>31</quantity>
     <images>
       <image>https://3cerp.eu/api/file/129077R.webp</image>
     </images>
@@ -574136,7 +574136,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>173.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>35</quantity>
+    <quantity>34</quantity>
     <images>
       <image>https://3cerp.eu/api/file/129077L.webp</image>
     </images>
@@ -574360,7 +574360,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>173.00</price>
     <old_price></old_price>
     <weight>4.50</weight>
-    <quantity>98</quantity>
+    <quantity>97</quantity>
     <images>
       <image>https://3cerp.eu/api/file/129069R.webp</image>
     </images>
@@ -574389,7 +574389,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>173.00</price>
     <old_price></old_price>
     <weight>4.50</weight>
-    <quantity>114</quantity>
+    <quantity>113</quantity>
     <images>
       <image>https://3cerp.eu/api/file/129069L.webp</image>
     </images>
@@ -575510,7 +575510,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>177.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>11</quantity>
+    <quantity>10</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -575595,7 +575595,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>177.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>42</quantity>
+    <quantity>41</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -576498,7 +576498,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>170.00</price>
     <old_price></old_price>
     <weight>4.90</weight>
-    <quantity>19</quantity>
+    <quantity>18</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -576589,7 +576589,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>170.00</price>
     <old_price></old_price>
     <weight>4.90</weight>
-    <quantity>11</quantity>
+    <quantity>10</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -576679,7 +576679,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>193.00</price>
     <old_price></old_price>
     <weight>4.20</weight>
-    <quantity>20</quantity>
+    <quantity>18</quantity>
     <images>
       <image>https://3cerp.eu/api/file/129050R.webp</image>
     </images>
@@ -580301,7 +580301,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>185.00</price>
     <old_price></old_price>
     <weight>4.88</weight>
-    <quantity>29</quantity>
+    <quantity>28</quantity>
     <images>
       <image>https://3cerp.eu/api/file/129025R.webp</image>
     </images>
@@ -580633,7 +580633,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>182.00</price>
     <old_price></old_price>
     <weight>3.93</weight>
-    <quantity>35</quantity>
+    <quantity>34</quantity>
     <images>
       <image>https://3cerp.eu/api/file/129023R.webp</image>
     </images>
@@ -580715,7 +580715,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>182.00</price>
     <old_price></old_price>
     <weight>3.93</weight>
-    <quantity>109</quantity>
+    <quantity>108</quantity>
     <images>
       <image>https://3cerp.eu/api/file/129023L.webp</image>
     </images>
@@ -583793,7 +583793,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>134.00</price>
     <old_price></old_price>
     <weight>4.20</weight>
-    <quantity>13</quantity>
+    <quantity>9</quantity>
     <images>
       <image>https://3cerp.eu/api/file/124320.webp</image>
     </images>
@@ -583862,7 +583862,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>174.00</price>
     <old_price></old_price>
     <weight>3.48</weight>
-    <quantity>244</quantity>
+    <quantity>242</quantity>
     <images>
       <image>https://3cerp.eu/api/file/124306.webp</image>
     </images>
@@ -588661,7 +588661,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>91.00</price>
     <old_price></old_price>
     <weight>1.70</weight>
-    <quantity>195</quantity>
+    <quantity>193</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -589004,7 +589004,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>45.00</price>
     <old_price></old_price>
     <weight>2.10</weight>
-    <quantity>9</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -590359,7 +590359,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>103.00</price>
     <old_price></old_price>
     <weight>2.50</weight>
-    <quantity>8</quantity>
+    <quantity>6</quantity>
     <images>
       <image>https://3cerp.eu/api/file/120311.webp</image>
     </images>
@@ -590512,7 +590512,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>97.00</price>
     <old_price></old_price>
     <weight>1.58</weight>
-    <quantity>74</quantity>
+    <quantity>72</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -591053,7 +591053,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <sku>120297</sku>
     <barcode>9341150069044</barcode>
     <title>Pedders Амортисьор</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><div itemscope itemtype="https://schema.org/Product" style="text-align: left;">
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><div itemscope itemtype="https://schema.org/Product" style="text-align: left;">
     <meta itemprop="name" content="Pedders Nitrogen Gas Charged Shock Absorber">
     <meta itemprop="brand" content="Pedders">
     <meta itemprop="description" content="Pedders Nitrogen Gas Charged shock absorbers. The ideal budget-friendly OEM replacement to restore original ride comfort and safety. 2-Year Warranty.">
@@ -591100,7 +591100,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>133.00</price>
     <old_price></old_price>
     <weight>2.50</weight>
-    <quantity>2</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://3cerp.eu/api/file/120297.webp</image>
       <image>https://3cerp.eu/api/file/120297_1.webp</image>
@@ -591115,10 +591115,10 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         </values>
       </category_property>
       <category_property name="Срок за доставка">
-        <values><value><name>около 3 седмици</name></value></values>
+        <values><value><name>уточнява се</name></value></values>
       </category_property>
       <category_property name="Наличност">
-        <values><value><name>Заводски склад</name></value></values>
+        <values><value><name>По запитване</name></value></values>
       </category_property>
     </category_properties>
     <brands>
@@ -591785,7 +591785,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>118.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>69</quantity>
+    <quantity>67</quantity>
     <images>
       <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
     </images>
@@ -591949,7 +591949,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>103.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>34</quantity>
+    <quantity>32</quantity>
     <images>
       <image>https://3cerp.eu/api/file/120283.webp</image>
     </images>
@@ -593033,7 +593033,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>91.00</price>
     <old_price></old_price>
     <weight>1.69</weight>
-    <quantity>25</quantity>
+    <quantity>23</quantity>
     <images>
       <image>https://3cerp.eu/api/file/120243.webp</image>
     </images>
@@ -593806,7 +593806,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>116.00</price>
     <old_price></old_price>
     <weight>2.05</weight>
-    <quantity>15</quantity>
+    <quantity>11</quantity>
     <images>
       <image>https://3cerp.eu/api/file/120234.webp</image>
     </images>
@@ -594675,7 +594675,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>84.00</price>
     <old_price></old_price>
     <weight>1.99</weight>
-    <quantity>24</quantity>
+    <quantity>22</quantity>
     <images>
       <image>https://3cerp.eu/api/file/120219.webp</image>
     </images>
