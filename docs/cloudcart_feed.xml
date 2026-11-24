@@ -106487,7 +106487,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>465.00</price>
     <old_price></old_price>
     <weight>3.00</weight>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <images>
       <image>https://3cerp.eu/api/file/CR5168.jpg</image>
     </images>
@@ -191659,6 +191659,72 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     </brands>
   </product>
   <product>
+    <id>807336</id>
+    <product_code>807336</product_code>
+    <sku>807336</sku>
+    <barcode>9341150129212</barcode>
+    <title>Pedders Ezifit Foam Амортисьорна стойка (290444)</title>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: около 3 седмици</strong> — артикулът се доставя по поръчка от завода</p><div itemscope itemtype="https://schema.org/Product">
+    <meta itemprop="name" content="Pedders TrakRyder Ezi-Fit Spring &amp; Shock Kit">
+    <meta itemprop="brand" content="Pedders">
+    <meta itemprop="description" content="Pedders TrakRyder Ezi-Fit pre-assembled spring and foam cell shock absorber kits offer precise off-road control and reduced installation time.">
+
+    <h2>Pedders TrakRyder Ezi-Fit пружини и амортисьори</h2>
+    
+    <p>
+        Комбинираните комплекти TrakRyder EziFit с пружини и амортисьори с пяна са проектирани, разработени и произведени, за да осигуряват прецизен контрол, без да се прави компромис с комфорта при шофиране. Доставяни като пълен комплект от съчетани компоненти на окачването, тези комплекти са идеално подходящи за всички видове условия на шофиране – от тежки офроуд трасета до ежедневно пътуване до работа.
+    </p>
+
+    <p>
+        Това първокласно решение за окачване ви позволява да персонализирате шофьорското си преживяване, като изберете предпочитания от вас тип спирални пружини, съобразно конкретните нужди на вашия автомобил. Наличен е избор между стандартна, понижена, повдигната или натоварена височина на каросерията, което гарантира, че автомобилът ви е идеално оборудван за предвиденото му приложение.
+    </p>
+
+    <h3>Основни характеристики и предимства</h3>
+    
+    <ul>
+        <li style="margin-bottom: 15px;"><strong>Пълен комплект:</strong> Напълно предварително сглобена амортисьорна колона, включваща амортисьор TrakRyder Foam Cell, специално проектирана пружина и горно закрепване на колоната.</li>
+        <li style="margin-bottom: 15px;"><strong>Директно монтиране:</strong> Спестява значително време за монтаж и гарантира, че всички компоненти са напълно съвместими с конкретната ви кола.</li>
+        <li style="margin-bottom: 15px;"><strong>Лесен монтаж:</strong> Доставя се готов за директно монтиране, което напълно елиминира нуждата от компресори за пружини по време на монтажа.</li>
+        <li style="margin-bottom: 15px;"><strong>Повишена издръжливост:</strong> Разполага с големи охлаждащи повърхности за оптимален контакт с маслото и дълготрайна работа с монтажна втулка с мостова втулка</li>
+      <li style="margin-bottom: 0.5em;"><strong>Спокойствие:</strong> Подкрепено от нашата изчерпателна <strong>гаранция от 2 години / 40 000 км / 25 000 мили</strong>.</li>
+    </ul>
+</div>]]></description>
+    <category>Пружини и амортисьори</category>
+    <sub_category>Complete Strut Assembly (Front Raised)</sub_category>
+    <manufacturer>Pedders</manufacturer>
+    <price>437.00</price>
+    <old_price></old_price>
+    <weight>11.00</weight>
+    <quantity>68</quantity>
+    <images>
+      <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
+    </images>
+    <tags>Pedders, Mitsubishi, L200 4WD, MV (2023-Onward)</tags>
+    <meta_title>Pedders Ezifit Foam Амортисьорна стойка (290444)</meta_title>
+    <meta_description>Pedders Ezifit Foam Амортисьорна стойка (290444)</meta_description>
+    <category_properties>
+      <category_property name="Type / Group">
+        <values>
+          <value><name>Complete Strut Assembly (Front Raised)</name></value>
+        </values>
+      </category_property>
+      <category_property name="Срок за доставка">
+        <values><value><name>около 3 седмици</name></value></values>
+      </category_property>
+      <category_property name="Наличност">
+        <values><value><name>Заводски склад</name></value></values>
+      </category_property>
+    </category_properties>
+    <brands>
+      <brand>
+        <name>Mitsubishi</name>
+        <model>
+          <name>L200 4WD, MV (2023-Onward)</name>
+        </model>
+      </brand>
+    </brands>
+  </product>
+  <product>
     <id>807335R</id>
     <product_code>807335R</product_code>
     <sku>807335R</sku>
@@ -193167,6 +193233,72 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
         <name>Volvo</name>
         <model>
           <name>P120 / 1800 Series P120, P1800 (1958-1973)</name>
+        </model>
+      </brand>
+    </brands>
+  </product>
+  <product>
+    <id>807236</id>
+    <product_code>807236</product_code>
+    <sku>807236</sku>
+    <barcode>9341150129205</barcode>
+    <title>Pedders Ezifit Foam Амортисьорна стойка (280444)</title>
+    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p><div itemscope itemtype="https://schema.org/Product">
+    <meta itemprop="name" content="Pedders TrakRyder Ezi-Fit Spring &amp; Shock Kit">
+    <meta itemprop="brand" content="Pedders">
+    <meta itemprop="description" content="Pedders TrakRyder Ezi-Fit pre-assembled spring and foam cell shock absorber kits offer precise off-road control and reduced installation time.">
+
+    <h2>Pedders TrakRyder Ezi-Fit пружини и амортисьори</h2>
+    
+    <p>
+        Комбинираните комплекти TrakRyder EziFit с пружини и амортисьори с пяна са проектирани, разработени и произведени, за да осигуряват прецизен контрол, без да се прави компромис с комфорта при шофиране. Доставяни като пълен комплект от съчетани компоненти на окачването, тези комплекти са идеално подходящи за всички видове условия на шофиране – от тежки офроуд трасета до ежедневно пътуване до работа.
+    </p>
+
+    <p>
+        Това първокласно решение за окачване ви позволява да персонализирате шофьорското си преживяване, като изберете предпочитания от вас тип спирални пружини, съобразно конкретните нужди на вашия автомобил. Наличен е избор между стандартна, понижена, повдигната или натоварена височина на каросерията, което гарантира, че автомобилът ви е идеално оборудван за предвиденото му приложение.
+    </p>
+
+    <h3>Основни характеристики и предимства</h3>
+    
+    <ul>
+        <li style="margin-bottom: 15px;"><strong>Пълен комплект:</strong> Напълно предварително сглобена амортисьорна колона, включваща амортисьор TrakRyder Foam Cell, специално проектирана пружина и горно закрепване на колоната.</li>
+        <li style="margin-bottom: 15px;"><strong>Директно монтиране:</strong> Спестява значително време за монтаж и гарантира, че всички компоненти са напълно съвместими с конкретната ви кола.</li>
+        <li style="margin-bottom: 15px;"><strong>Лесен монтаж:</strong> Доставя се готов за директно монтиране, което напълно елиминира нуждата от компресори за пружини по време на монтажа.</li>
+        <li style="margin-bottom: 15px;"><strong>Повишена издръжливост:</strong> Разполага с големи охлаждащи повърхности за оптимален контакт с маслото и дълготрайна работа с монтажна втулка с мостова втулка</li>
+      <li style="margin-bottom: 0.5em;"><strong>Спокойствие:</strong> Подкрепено от нашата изчерпателна <strong>гаранция от 2 години / 40 000 км / 25 000 мили</strong>.</li>
+    </ul>
+</div>]]></description>
+    <category>Пружини и амортисьори</category>
+    <sub_category>Complete Strut Assembly (Front Raised)</sub_category>
+    <manufacturer>Pedders</manufacturer>
+    <price>437.00</price>
+    <old_price></old_price>
+    <weight>11.00</weight>
+    <quantity>34</quantity>
+    <images>
+      <image>https://3cerp.eu/api/file/Product_Holding_Slide.webp</image>
+    </images>
+    <tags>Pedders, Mitsubishi, L200 4WD, MV (2023-Onward)</tags>
+    <meta_title>Pedders Ezifit Foam Амортисьорна стойка (280444)</meta_title>
+    <meta_description>Pedders Ezifit Foam Амортисьорна стойка (280444)</meta_description>
+    <category_properties>
+      <category_property name="Type / Group">
+        <values>
+          <value><name>Complete Strut Assembly (Front Raised)</name></value>
+        </values>
+      </category_property>
+      <category_property name="Срок за доставка">
+        <values><value><name>2-7 работни дни</name></value></values>
+      </category_property>
+      <category_property name="Наличност">
+        <values><value><name>Европейски склад</name></value></values>
+      </category_property>
+    </category_properties>
+    <brands>
+      <brand>
+        <name>Mitsubishi</name>
+        <model>
+          <name>L200 4WD, MV (2023-Onward)</name>
         </model>
       </brand>
     </brands>
@@ -195148,7 +195280,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <product_code>807115R</product_code>
     <sku>807115R</sku>
     <barcode>9341150079883</barcode>
-    <title>Pedders EziFit Foam Амортисьорна стойка (280067)</title>
+    <title>Pedders EziFit Foam Амортисьорна стойка (270067)</title>
     <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p><div itemscope itemtype="https://schema.org/Product">
     <meta itemprop="name" content="Pedders TrakRyder Ezi-Fit Spring &amp; Shock Kit">
     <meta itemprop="brand" content="Pedders">
@@ -195185,8 +195317,8 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
       <image>https://3cerp.eu/api/file/807115R.webp</image>
     </images>
     <tags>Pedders, Ford, Ranger PX MK2, 2WD Hi-Ride (2015-2018), Ranger PX MK2, 4WD (2015-2018), Ranger PX MK3, 4WD 2.2L and 3.2L ONLY (2018-2019), Ranger PX, 2WD Hi-Ride (2011-2015), Ranger PX, 4WD (2011-2015), Mazda, BT50 UP, 2WD Hi-Ride (2011-2015), BT50 UP, 4WD (2011-2015), BT50 UR, 2WD Hi-Ride (2015-Onward), BT50 UR, 4WD (2015-Onward)</tags>
-    <meta_title>Pedders EziFit Foam Амортисьорна стойка (280067)</meta_title>
-    <meta_description>Pedders EziFit Foam Амортисьорна стойка (280067)</meta_description>
+    <meta_title>Pedders EziFit Foam Амортисьорна стойка (270067)</meta_title>
+    <meta_description>Pedders EziFit Foam Амортисьорна стойка (270067)</meta_description>
     <category_properties>
       <category_property name="Type / Group">
         <values>
@@ -195227,7 +195359,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <product_code>807115L</product_code>
     <sku>807115L</sku>
     <barcode>9341150079876</barcode>
-    <title>Pedders EziFit Foam Амортисьорна стойка (280067)</title>
+    <title>Pedders EziFit Foam Амортисьорна стойка (270067)</title>
     <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: 2-7 работни дни</strong></p><div itemscope itemtype="https://schema.org/Product">
     <meta itemprop="name" content="Pedders TrakRyder Ezi-Fit Spring &amp; Shock Kit">
     <meta itemprop="brand" content="Pedders">
@@ -195264,8 +195396,8 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
       <image>https://3cerp.eu/api/file/807115L.webp</image>
     </images>
     <tags>Pedders, Ford, Ranger PX MK2, 2WD Hi-Ride (2015-2018), Ranger PX MK2, 4WD (2015-2018), Ranger PX MK3, 4WD 2.2L and 3.2L ONLY (2018-2019), Ranger PX, 2WD Hi-Ride (2011-2015), Ranger PX, 4WD (2011-2015), Mazda, BT50 UP, 2WD Hi-Ride (2011-2015), BT50 UP, 4WD (2011-2015), BT50 UR, 2WD Hi-Ride (2015-Onward), BT50 UR, 4WD (2015-Onward)</tags>
-    <meta_title>Pedders EziFit Foam Амортисьорна стойка (280067)</meta_title>
-    <meta_description>Pedders EziFit Foam Амортисьорна стойка (280067)</meta_description>
+    <meta_title>Pedders EziFit Foam Амортисьорна стойка (270067)</meta_title>
+    <meta_description>Pedders EziFit Foam Амортисьорна стойка (270067)</meta_description>
     <category_properties>
       <category_property name="Type / Group">
         <values>
@@ -198604,7 +198736,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>461.00</price>
     <old_price></old_price>
     <weight>14.40</weight>
-    <quantity>15</quantity>
+    <quantity>13</quantity>
     <images>
       <image>https://3cerp.eu/api/file/804025.webp</image>
       <image>https://3cerp.eu/api/file/804025_1.webp</image>
@@ -322577,7 +322709,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>402.00</price>
     <old_price></old_price>
     <weight>33.20</weight>
-    <quantity>27</quantity>
+    <quantity>25</quantity>
     <images>
       <image>https://3cerp.eu/api/file/6299.webp</image>
     </images>
@@ -385078,35 +385210,6 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     </brands>
   </product>
   <product>
-    <id>4715</id>
-    <product_code>4715</product_code>
-    <sku>4715</sku>
-    <barcode>9341150040463</barcode>
-    <title>Pedders TrakRyder Torsion Bar -892mm</title>
-    <description><![CDATA[<p style="margin:0 0 12px;padding:8px 12px;border-left:3px solid #C21B1B;background:#f8f9fa"><strong>Срок за доставка: уточнява се</strong> — артикулът се доставя по поръчка от завода</p><h3>Торсионни пръти</h3><p>Торсионните пръти Pedders TrakRyder Heavy Duty са директни заместители, изработени от най-висококачествена легирана стомана. Те са термично обработени, за да се запазят тяхната издръжливост, твърдост и еднородност.</p><p>Продават се в комплект от две.</p><p>Проучването на пазара, проведено от Pedders, показва, че когато на предната част на автомобила са монтирани аксесоари като предна решетка, лебедка, допълнителни фарове или система с двойна батерия, височината на каросерията може да се понижи с до 40 мм. Тези аксесоари също могат да добавят от 100 до 150 кг към теглото на предния мост, а стандартните торсионни пръти не са проектирани да понасят това допълнително натоварване.</p><h3>Характеристики и предимства</h3><ul><li>Висококачествена легирана стомана</li><li>Термично обработена</li><li>Стомана с голям диаметър</li><li>Всичко това е подкрепено от нашата 2-годишна гаранция / 25 000 мили</li></ul>]]></description>
-    <category>Uncategorized</category>
-    <sub_category></sub_category>
-    <manufacturer>Pedders</manufacturer>
-    <price>282.00</price>
-    <old_price></old_price>
-    <weight>13.00</weight>
-    <quantity>0</quantity>
-    <images>
-      <image>https://3cerp.eu/api/file/4715.webp</image>
-    </images>
-    <tags>Pedders</tags>
-    <meta_title>Pedders TrakRyder Torsion Bar -892mm</meta_title>
-    <meta_description>Pedders TrakRyder Torsion Bar -892mm</meta_description>
-    <category_properties>
-      <category_property name="Срок за доставка">
-        <values><value><name>уточнява се</name></value></values>
-      </category_property>
-      <category_property name="Наличност">
-        <values><value><name>По запитване</name></value></values>
-      </category_property>
-    </category_properties>
-  </product>
-  <product>
     <id>4713</id>
     <product_code>4713</product_code>
     <sku>4713</sku>
@@ -388806,7 +388909,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>28.00</price>
     <old_price></old_price>
     <weight>0.30</weight>
-    <quantity>301</quantity>
+    <quantity>299</quantity>
     <images>
       <image>https://3cerp.eu/api/file/458012.webp</image>
     </images>
@@ -389793,7 +389896,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>18.00</price>
     <old_price></old_price>
     <weight>0.70</weight>
-    <quantity>477</quantity>
+    <quantity>473</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4392.webp</image>
     </images>
@@ -410020,7 +410123,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>85.00</price>
     <old_price></old_price>
     <weight>1.20</weight>
-    <quantity>17</quantity>
+    <quantity>16</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4345_KIT.webp</image>
       <image>https://3cerp.eu/api/file/4345_NEW.webp</image>
@@ -410073,7 +410176,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>43.00</price>
     <old_price></old_price>
     <weight>0.60</weight>
-    <quantity>34</quantity>
+    <quantity>32</quantity>
     <images>
       <image>https://3cerp.eu/api/file/4345_NEW.webp</image>
     </images>
@@ -499254,7 +499357,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>114.00</price>
     <old_price></old_price>
     <weight>3.20</weight>
-    <quantity>88</quantity>
+    <quantity>84</quantity>
     <images>
       <image>https://3cerp.eu/api/file/240169.webp</image>
     </images>
@@ -499350,7 +499453,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>117.00</price>
     <old_price></old_price>
     <weight>4.00</weight>
-    <quantity>83</quantity>
+    <quantity>79</quantity>
     <images>
       <image>https://3cerp.eu/api/file/240168.webp</image>
     </images>
@@ -573489,7 +573592,7 @@ PBB01• Без ABS 2007 до 2012, номер на частта PBB02<br>]]></d
     <price>154.00</price>
     <old_price></old_price>
     <weight>5.65</weight>
-    <quantity>86</quantity>
+    <quantity>82</quantity>
     <images>
       <image>https://3cerp.eu/api/file/129158.webp</image>
     </images>
